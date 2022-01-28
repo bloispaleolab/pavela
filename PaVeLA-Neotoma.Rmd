@@ -14,7 +14,7 @@ The PaVeLA database is organized into 42 tables: ![](images/PaVeLA_relationship_
 Here are a list of all the tables in PaVeLA (in ALL CAPS). I've also added some preliminary notes on mapping tables/sets of tables to Neotoma
 
 ### Sites and collection units
-**LOCALIDA** -- sites  
+**LOCALIDA** -- sites == collection units  
 NOMBRE ALTERNATIVO LOCALIDAD  
 AGENTE  
 T_AGENTE  
@@ -23,14 +23,16 @@ MUNICIPI
 ESTADO  
 T_PRESC  
   
-**DEPOSITO** -- collection unit  
+**DEPOSITO** -- analysis units  
 T_RECUPE  
 T_SISTEM  
 T_AMBIEN  
 T_FACIES  
 T_CONTAM  
   
-REPOSITO --> easy to write a script to test whether these are in Neotoma or upload manually  
+Data from localities (LOCALIDA) is stored in collections (COLECCIO), and there can be several different collections in an institution (INSTITU)  
+
+REPOSITO --> easy to write a script to test whether these are in Neotoma or upload manually  (set of collection/repository acronyms, connects to coleccio and localida)
 COLECCIO --> easy to write a script to test whether these are in Neotoma or upload manually  
 INSTITU --> easy to write a script to test whether these are in Neotoma or upload manually  
   

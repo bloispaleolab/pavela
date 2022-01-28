@@ -178,21 +178,21 @@ pre code {
 <p>Here are a list of all the tables in PaVeLA (in ALL CAPS). I’ve also added some preliminary notes on mapping tables/sets of tables to Neotoma</p>
 <div id="sites-and-collection-units" class="section level3">
 <h3>Sites and collection units</h3>
-<p><strong>LOCALIDA</strong> – sites<br />
+<p><strong>LOCALIDA</strong> – sites == collection units<br />
 NOMBRE ALTERNATIVO LOCALIDAD<br />
 AGENTE<br />
 T_AGENTE</p>
 <p>MUNICIPI<br />
 ESTADO<br />
 T_PRESC</p>
-<p><strong>DEPOSITO</strong> – collection unit<br />
+<p><strong>DEPOSITO</strong> – analysis units<br />
 T_RECUPE<br />
 T_SISTEM<br />
 T_AMBIEN<br />
 T_FACIES<br />
 T_CONTAM</p>
-<p>REPOSITO –&gt; easy to write a script to test whether these are in Neotoma or upload manually<br />
-COLECCIO –&gt; easy to write a script to test whether these are in Neotoma or upload manually<br />
+<p>Data from localities (LOCALIDA) is stored in collections (COLECCIO), and there can be several different collections in an institution (INSTITU)</p>
+<p>REPOSITO –&gt; easy to write a script to test whether these are in Neotoma or upload manually (set of collection/repository acronyms, connects to coleccio and localida) COLECCIO –&gt; easy to write a script to test whether these are in Neotoma or upload manually<br />
 INSTITU –&gt; easy to write a script to test whether these are in Neotoma or upload manually</p>
 </div>
 <div id="age-related-tables" class="section level3">
