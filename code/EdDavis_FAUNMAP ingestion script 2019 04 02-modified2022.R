@@ -28,17 +28,16 @@ options(stringsAsFactors = FALSE)
 #first lets make the file name into a variable
 P <- 'FAUNMAP for ingestion.xlsx'
 
-# be sure to set your working dir to the excel file location
 
-#Load the whole Workbook!
-Fp_wbk <- loadWorkbook(P)
+#Load the individual files!
 
 #Make the various data.frames!---------------------------------------------------------
 
 #ABSOLUTE <- readWorksheet(Fp_wbk, "ABSOLUTE")
 ABSOLUTE <- read.delim('data/pavela_flat_files/EDADABS.txt', header=T, sep="\t")
 
-AGE <- readWorksheet(Fp_wbk,"AGE")
+#AGE <- readWorksheet(Fp_wbk,"AGE")
+AGE <- read.delim('data/pavela_flat_files/EDADREL.txt', header=T, sep="\t")
 
 #AGENT <- readWorksheet(Fp_wbk,"AGENT")
 AGENT <- read.delim('data/pavela_flat_files/AGENTE.txt', header=T, sep="\t")
