@@ -1,0 +1,4 @@
+"IDFUENTE","DESCRIPCION"
+1.00,"Primaria"
+2.00,"Secundaria"
+3.00,"General"

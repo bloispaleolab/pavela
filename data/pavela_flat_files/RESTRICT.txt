@@ -1,0 +1,4 @@
+"INF_RES","TIEMPO","SUJ_RES","MOTIVOS"
+"toda la base electrónica","3 años","a toda institución, sector, grupo académico y/o persona","La información y su análisis serán publicados en un plazo corto de ì
+tiempo y por ello mismo se considera importante que la base permanezca ì
+inédita hasta su publicación."

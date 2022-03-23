@@ -1,0 +1,4 @@
+"IDEDAD_L/M","EDAD_LM"
+"IRVI","Irvingtoniano"
+"ND","No disponible"
+"RANC","Rancholabreano"

@@ -1,0 +1,53 @@
+"IDINSTITUCION","SIGLAS_INSTITUCION","NOMBRE_INSTITUCION","CODIGO_POSTAL","CIUDAD","ESTADO","PAIS","DIRECCION","DOCENCIA","INVESTIGACION","SOCCIENTIF","ONG","GOBIERNO","PRIVADA"
+1.00,"DND","Depositario no designado",99999.00,"ND","ND","ND","ND",0,0,0,0,0,0
+2.00,"CAS","California Academy of Sciences",94118.00,"San Francisco","California","U.S.A.","Golden Gate Park 4501",1,1,1,1,0,1
+3.00,"CM","Mooser",99999.00,"ND","ND","ND","ND",0,0,0,0,0,0
+4.00,"MG-LIN","Museo de Geología y Paleontología de Linares, N.L.",14200.00,"ND","ND","México","ND",0,1,0,0,0,0
+5.00,"UAZ","University of Arizona",99999.00,"ND","ND","U.S.A.","ND",0,0,0,0,0,0
+6.00,"CUM","Cia. Contratistas Unidos Mexicanos",99999.00,"ND","ND","ND","ND",0,0,0,0,0,0
+7.00,"CT","Col. Cd. de Toluca",99999.00,"ND","ND","ND","ND",0,0,0,0,0,0
+8.00,"CP","Colección Particular",99999.00,"ND","ND","ND","ND",0,0,0,0,0,0
+9.00,"CFS","Federico Solórzano",99999.00,"ND","ND","México","ND",0,0,0,0,0,1
+10.00,"MU","Midwest University",99999.00,"ND","ND","U.S.A.","ND",0,0,0,0,0,0
+11.00,"UK","University of Kiel",99999.00,"ND","ND","ND","ND",0,1,0,0,0,0
+12.00,"CEG","Colegio del Estado de Guanajuato",99999.00,"ND","ND","México","ND",0,0,0,0,0,0
+13.00,"UAP","Universidad Autónoma de Puebla",99999.00,"ND","ND","México","ND",0,0,0,0,0,0
+14.00,"EI","Esc. Ing.",99999.00,"ND","ND","México","ND",0,0,0,0,0,0
+15.00,"EIPM","Esc. Ing no. 1; Palacio de Minería",99999.00,"D.F.","D.F.","México","ND",0,0,0,0,0,0
+16.00,"FC","Fauna Cedazo",99999.00,"ND","ND","ND","ND",0,0,0,0,0,0
+17.00,"ILEM","Instituto Literario del Estado de México (paradero desconocido)",99999.00,"ND","ND","México","ND",0,0,0,0,0,0
+18.00,"ENCB-IPN","Instituto Politécnico Nacional",11340.00,"D.F.","D.F.","México","Prol. de Carpio y Plan de Ayala 1134, Col. Santo T",1,1,1,0,1,0
+19.00,"UB","University of Breslau",99999.00,"ND","ND","ND","ND",0,0,0,0,0,0
+20.00,"INAHJ","Instituto Nacional de Antropología e Historia, Jalisco",99999.00,"ND","Puebla","México","ND",0,0,0,0,0,0
+21.00,"IPAH","Instituto Poblano de Antropología e Historia",99999.00,"ND","Jalisco","México","ND",0,0,0,0,0,0
+22.00,"US","Smithsonian Institution",20560.00,"Washington, D.C.","ND","U.S.A.","NHB Stop 127, 20560",1,1,1,0,1,0
+23.00,"IGMC","Instituto de Geología y Mineralogía",99999.00,"D.F.","D.F.","México","Ciprés",0,0,0,0,0,0
+24.00,"IGM","Instituto Geológico de México",99999.00,"ND","ND","México","ND",0,0,0,0,0,0
+25.00,"UNAM","Universidad Nacional Autónoma de México",4510.00,"D.F.","D.F.","México","Instituto de Biología, Circuito Exterior Ciudad Un",1,1,1,0,1,0
+26.00,"MSUWFT","Midwestern State University en Wichita Falls, Texas",99999.00,"ND","ND","U.S.A.","ND",0,0,0,0,0,0
+27.00,"MWU","Midwestern University, Texas",99999.00,"ND","ND","U.S.A.","ND",0,0,0,0,0,0
+28.00,"AMNH","American Museum of Natural History",10024.00,"New York","New York","U.S.A.","Central Park West at 79th Street",1,1,1,0,1,0
+29.00,"INGM","Instituto Nacional de Geología de México",99999.00,"ND","ND","México","ND",0,0,0,0,0,0
+30.00,"MHNM","Museo de Historia Natural de la Ciudad de México",11800.00,"D.F.","D.F.","México","2a. Sección del Bosque de Chapultepec, A.P. 18-845",1,1,1,0,1,0
+31.00,"CMNH","Carnegie Museum of Natural History",15213.00,"Pittsburgh","Pesnsylvania","U.S.A.","4400 Forbes Avenue, 15213-4080",1,1,1,1,1,1
+32.00,"LACM","Natural History Museum of Los Angeles County",90007.00,"Los Angeles","California","U.S.A.","900 Exposicion Boulevard, 90007-4057",1,1,1,0,1,0
+33.00,"MNHP","Museum d' Histoire Naturelle",75005.00,"París","ND","France","45, Rue Buffon, Paris 5 CEDEX 75005",1,1,1,0,1,0
+34.00,"IG","Instituto de Geología, UNAM",99999.00,"ND","ND","México","ND",0,0,0,0,0,0
+35.00,"MN","Museo Nacional",99999.00,"ND","ND","México","ND",0,0,0,0,0,0
+36.00,"MNAHM","Museo Nacional de Antropología e Historia",99999.00,"D.F.","D.F.","México","ND",0,0,0,0,0,0
+37.00,"MRPH","Museo Regional de Antropología de la ciudad de Pachuca",99999.00,"ND","Hidalgo","México","ND",0,0,0,0,0,0
+38.00,"BM","British Museum",99999.00,"London","ND","England","Cromwell Road, SW7 5BD",1,1,1,0,1,0
+39.00,"INAH","Instituto Nacional de Antropología e Historia",6060.00,"D.F.","D.F.","México","Moneda 16, col. Centro",0,0,0,0,1,0
+40.00,"MRG","Museo Regional de Guadalajara",99999.00,"ND","ND","México","ND",0,0,0,0,0,0
+41.00,"SDSNH","San Diego Society of Natural History",99999.00,"ND","ND","U.S.A","ND",0,0,0,0,0,0
+42.00,"VCCH","Palacio Municipal de Villa de Corzo",99999.00,"ND","Chiapas","México","ND",0,0,0,0,0,0
+44.00,"PMXT","Palacio Municipal de Xicoténcatl",99999.00,"ND","Tamaulipas","México","ND",0,0,0,0,0,0
+45.00,"TMM","Texas Memorial Museum",99999.00,"ND","ND","U.S.A","ND",0,0,0,0,0,0
+46.00,"UAEM","Universidad Autónoma del Estado de Morelos",99999.00,"Cuernavaca","Morelos","México","ND",0,0,0,0,0,0
+47.00,"UL","Universidad de Leipzig",99999.00,"ND","ND","ND","ND",0,0,0,0,0,0
+48.00,"UCB","University of California-Berkeley",99999.00,"ND","ND","U.S.A.","ND",0,0,0,0,0,0
+49.00,"UKL","University of Kansas-Lawrence",99999.00,"ND","ND","U.S.A.","ND",0,0,0,0,0,0
+50.00,"UMAA","University of Michigan-Ann Arbor",99999.00,"ND","ND","U.S.A.","ND",0,0,0,0,0,0
+51.00,"UTEP","University of Texas at El Paso",99999.00,"ND","ND","U.S.A.","ND",0,0,0,0,0,0
+52.00,"YU","Yale University",99999.00,"ND","ND","U.S.A.","ND",0,0,0,0,0,0
+53.00,"DB","Darío Bárcena",99999.00,"ND","ND","ND","ND",0,0,0,0,0,0

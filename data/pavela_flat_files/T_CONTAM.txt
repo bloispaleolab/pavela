@@ -1,0 +1,5 @@
+"IDCONTAMINACION","DESCRIPCION"
+"N","No Presente"
+"ND","No disponible"
+"O","Posible"
+"P","Presente"

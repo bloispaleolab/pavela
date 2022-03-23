@@ -1,0 +1,4 @@
+"IDCONFIANZA","CONFIANZA"
+"C"," Cuestionable ?"
+"P"," Probable  cf.  aff."
+"S"," Seguro"

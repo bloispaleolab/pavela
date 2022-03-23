@@ -1,0 +1,7 @@
+"IDMAGNETOCRON","MAGNETOCRON"
+"BRUN","Brunhes"
+"GAUS","Gauss"
+"GILB","Gilbert"
+"MATU","Matuyama"
+"ND","No disp."
+"OLDU","Olduvai"

@@ -1,0 +1,5 @@
+"IDCONTEXTO","CONTEXTO"
+"A","Articulado"
+"I","Intrusivo"
+"ND","No disponible"
+"R","Redepositado"

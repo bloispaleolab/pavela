@@ -1,0 +1,6 @@
+"IDPRECISIO","PRECISION","REFERENCIA"
+"CA","Coordenadas aproximadas","Mapa"
+"CM","Coordenadas centro municipio","Municipio"
+"CP","Coordenadas precisas","Literatura"
+"E","Exacto","Geoposicionador"
+"ND","No disponible","No disponible"

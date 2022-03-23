@@ -1,0 +1,4 @@
+"IDPERIODO","PERIODO"
+"?QUA","Cuaternario?"
+"ND","No disponible"
+"QUAT","Cuaternario"

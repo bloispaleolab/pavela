@@ -1,0 +1,773 @@
+"IDLOCALIDAD","IDESTADO","IDMUNICIPI","NOMBRE_LOCALIDAD","NUMERO_MAPA","ESCALA_MAPA","LATITUD_GRADOS","LATITUD_MINUTOS","LATITUD_SEGUNDOS","LONGITUD_GRADOS","LONGITUD_MINUTOS","LONGITUD_SEGUNDOS","MERCATOR_NORTE","MERCATOR_ESTE","LOCALIDAD","COORDENADA_N-S","COORDENADA_E-W","ELEVACION","IDPRECISION","COMENTARIOS","suma"
+1.00,19.00,24.00,"Cueva de San Josecito","ND","ND",23.00,57.00,21.00,99.00,54.00,45.00,"ND","ND","Ejido San Josecito","1 Km S","ND",2250.00,"ND","1 Km S Ejido San Josecito; Arroyo Cabrales y Ray (1997): 24º 05' N, 99º49' W: SW Aramberri",1.00
+2.00,15.00,0.00,"Tlapacoya","ND","ND",19.00,19.00,99.00,98.00,55.00,99.00,"ND","ND","Tlapacoya","1.5 Km S","ND",2240.00,"ND","1.5 Km S Tlapacoya; ref. 740:150m Oeste de zona arqueologica de Tlapacoya en parte N del cerro de Tlapacoya; 26 Km SE de la ciudad de México; sur de la Sierra del Pino: los trabajos de Arroyo Cabrales dicen que está a 113º02'40"" W asi como 113º17'40""W, pero obviamente hay problemas. El dato correcto podría ser 99º, se desconoce si hay problemas en minutos y segundos. Para la ubicación que ahora se proporciona se siguió a Manuel Reyes",1.00
+3.00,15.00,0.00,"Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 847: en la margen N de la Cuenca de México",1.00
+4.00,31.00,0.00,"Gruta de Loltún","ND","ND",20.00,15.00,99.00,89.00,28.00,99.00,"ND","ND","Oxkutzcab","ND","ND",40.00,"ND","ref. 741: 110 Km S de Mérida Yucatán; ref. 791: 3 millas E de Tabi, Yucatan; S de Oxkutzcab, dos horas de Oxkutzcab; ref 467 (Arroyo Cabrales y Ray, 1997) 7 km S Oxkutzcab",1.00
+5.00,8.00,0.00,"Cueva de Jiménez","ND","ND",27.00,7.00,99.00,104.00,55.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","al sur del estado de Chihuahua; ref. 138 (tesis de Joaquín) dice que está al norte del estado",1.00
+6.00,19.00,0.00,"Cueva de La Boca","ND","ND",25.00,25.00,99.00,100.00,9.00,99.00,"ND","ND","ND","ND","ND",540.00,"ND","3 km E Santiago",1.00
+7.00,24.00,0.00,"El Cedral","ND","ND",23.00,49.00,99.00,100.00,43.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","1.7 km SE El Cedral, adjunto a los ranchos La Laguna y Pilar de Cedros",1.00
+8.00,24.00,0.00,"Cueva de la Presita","ND","ND",23.00,39.00,99.00,100.00,39.00,99.00,"ND","ND","ND","ND","ND",1540.00,"ND","21.4 km S Matehuala, del lado E del cerro La Presita, cerca del poblado La Bonita",1.00
+9.00,31.00,0.00,"Actun Spukil","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Calcehtok","6 Km S","ND",9999.00,"ND","aprox. 6 Km S Calcehtok. Cerca de Oxkimtock, ruinas con edad anterior a 475 AD",1.00
+10.00,28.00,0.00,"Cueva de El Abra","ND","ND",22.00,36.00,30.00,99.00,1.00,30.00,"ND","ND","ND","ND","ND",9999.00,"CP","ND",1.00
+11.00,32.00,0.00,"Emilio Carranza","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 855: a lo largo del arroyo EL Molino, aguas arriba del poblado de Emilio Carranza, en el SE de Zacatecas",1.00
+12.00,14.00,0.00,"Chapala-Zacoalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+13.00,15.00,0.00,"Apaxco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+14.00,15.00,0.00,"San Vicente Chicoloapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de San Vicente Chicoalapan, en el km 29 de la carretera Ciudad de México-Texcoco. Algunos autores consideran que son dos localidaddes distintas San Vicente Chicoloapan y cerca de Sanvicente Chicoloapan. En el Catálogo del INAH, se observa que son una misma localidad, la cual dice ""minas de arena de San Vicente Chicoloapan""",1.00
+15.00,21.00,0.00,"Atepetzingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+16.00,21.00,0.00,"Valsequillo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+17.00,7.00,107.00,"Villa Corzo","ND","ND",16.00,11.00,99.00,93.00,16.00,99.00,"ND","ND","ND","ND","ND",580.00,"ND","Terracería Villa de Corzo-Monterrey; aprx. 900 m S entronque con la carretera pavimentada a Revolución Mexicana. El carnívoro puede ser de otro sitio dif. al del perezoso y el proboscideo",1.00
+18.00,26.00,0.00,"El Golfo","ND","ND",32.00,40.00,99.00,114.00,30.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+19.00,9.00,0.00,"Cerro del Tepeyac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","junto a la Basilica de Guadalupe, al N del D.F.; 2 millas NW Peñon; al pie del cerro del Tepeyac; cerca de una legua del Peñon; en la falda SW de la pequeña cordillera de Tepeyac; en la base de los cerros Guadalupe",1.00
+20.00,15.00,0.00,"Tlapacoya II","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 774: cerrro de Tlaplacoya al S de la Sierra del Pino al SE de la cuenca de México",1.00
+21.00,1.00,0.00,"Arroyo San Francisco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ciudad de Aguascalientes","4 Km SE","ND",9999.00,"ND","Formación Tacubaya",1.00
+22.00,1.00,0.00,"Arroyo Cedazo","ND","ND",21.00,52.00,30.00,102.00,14.00,99.00,"ND","ND","ciudad de Aguascalientes","3 Km SE","ND",9999.00,"ND","Carranza-Castañeda le dan la ubicación del Arroyo San Francisco, en algunos de los fósiles: 4 km SE ciudad de Aguascalientes Ref 150:",1.00
+23.00,33.00,0.00,"México","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Ref. 336 dice cuenca de México","ND","ND",9999.00,"ND","ND",1.00
+24.00,5.00,0.00,"Arroyo del Arenal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","2 Km NE Rancho Durazno, Valle de El Durazno, Parras",1.00
+25.00,5.00,27.00,"Arroyo Ojuelo","G14-G24","1:50,000",25.00,32.00,34.00,100.00,54.00,3.00,"ND","ND","ND","ND","ND",1390.00,"ND","1 Km NW Rancho Ojuelo, Valle de El Durazno, Parras",1.00
+26.00,15.00,0.00,"Texcoco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Texcoco",1.00
+27.00,1.00,1.00,"Calle Hornedo, Cd. de Aguascalientes","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ciudad de Aguascalientes","ND","ND",9999.00,"ND","frente al Templo de San Juan Nepomuceno",1.00
+28.00,28.00,0.00,"Tula","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de la población de Tula, ref. 824 la menciona como area de Tula",1.00
+29.00,15.00,0.00,"San Pedro de las Salinas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+30.00,11.00,0.00,"Rancho Viejo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Distrito San Miguel Allende","ND","ND",9999.00,"ND","Distrito San Miguel Allende",1.00
+31.00,33.00,0.00,"Valle de México","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 49 dice que es Edo. México",1.00
+32.00,3.00,0.00,"Las Tunas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+33.00,3.00,0.00,"Rancho El Carrizal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+34.00,3.00,0.00,"Rancho Algodones","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+35.00,3.00,0.00,"Santa Rita","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+36.00,14.00,0.00,"Ameca","ND","ND",20.00,32.00,99.00,999.00,99.00,99.00,"ND","ND","Ameca","ND","ND",9999.00,"ND","cerca de Ameca; Valle del Río Ameca; ref.:150 pone la localidad como: Ameca (?), y se basa en Brown (1912) y este último dice: near the town of Ameca",1.00
+37.00,16.00,9.00,"Ario","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Ario","ND","ND",9999.00,"ND","Todo parece indicar que Ario, Ario de Rosales y Ario de Rayón son la misma localidad",1.00
+38.00,26.00,0.00,"Arizpe","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Arizpe","ND","ND",9999.00,"ND","1) 1.5 Km E Arizpe y 97 Km SE Cananea; 2) Rancho la Brisca en el cruce del Rio Sn. Miguel, 25 Km NW Arizpe; ref. 689:1 mi E Arizpe; ref. 737: 1 mi E Arizpe, 60 mi SE Cananea; Ref: 689 Rio Sonora: 60 millas sureste de Cananea; Ref  : sobre el río Sonora 60 mi SE Cananea y 100 mi N La Prietas y San José de Pimas; ref. 876: 1.6 km NE Arizpe, al SW del Cerro Picacho Arizpe: en el mapa está al lado NW del rancho El Basimachi, prácticamente en la unión del río Bacanuchi con el río Sonora.",1.00
+39.00,11.00,15.00,"Arperos","F14-C42","1:50,000",21.00,6.00,6.00,101.00,23.00,54.00,"ND","ND","Arperos","ND","ND",1980.00,"ND","Municipio La Luz; ONO del Mineral de la Luz; ¿jabalí es de Moreoleón o de Arperos? Consultar a Freudenberg para el mastodonte",1.00
+40.00,1.00,3.00,"Arroyo de Cieneguita","F13-D17","1:50,000",21.00,48.00,12.00,102.00,44.00,48.00,"ND","ND","ciudad de Aguascalientes","ND","ND",1600.00,"ND","14 km Ciudad de Aguascalientes, aprox. a 2000 msnm, entre el camino a Calvillo y la ranchería ""Cieneguita""",1.00
+41.00,8.00,0.00,"Arroyo de las Barrancas Blancas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+42.00,8.00,0.00,"Arroyo de las Calabazas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+43.00,8.00,0.00,"Arroyo de los Burros","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+44.00,21.00,0.00,"Atlixco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+45.00,30.00,0.00,"Barranca Seca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Acultzingo","ND","3 km E",9999.00,"ND","cerca de Acultzingo; 3 Km E de Acultzingo (ref. 354  y 1)",1.00
+46.00,5.00,0.00,"Candela","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+47.00,1.00,0.00,"Cañada Honda","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Pequeño arroyo que cruza la carretera nueva a Loreto, a 1100 m antes de llegar a Cañada Honda",1.00
+48.00,21.00,0.00,"Cañón de Acultzingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar sean una misma que la loc. 485 y 130",1.00
+49.00,19.00,0.00,"Cerro de la Silla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Monterrey","ND","ND",9999.00,"ND","Monterrey; Algunos autores dicen que hay gliptodonte, pero la referencia original no lo menciona",1.00
+50.00,19.00,0.00,"Cuevas del Padre","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Monterrey","ND","ND",9999.00,"ND","30 Km NW Monterrey",1.00
+51.00,20.00,0.00,"Ejutla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+52.00,25.00,14.00,"El Rosario","ND","1:50,000",22.00,59.00,99.00,105.00,51.00,99.00,"ND","ND","El Rosario","ND","ND",20.00,"ND","inmediaciones de El Rosario",1.00
+53.00,14.00,0.00,"Guadalajara","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Guadalajara","ND","ND",9999.00,"ND","Guadalajara",1.00
+54.00,8.00,31.00,"Guerrero","ND","1:50,000",28.00,33.00,99.00,107.00,29.00,99.00,"ND","ND","ND","ND","ND",2000.00,"ND"," cerca de Concepción",1.00
+55.00,33.00,0.00,"""Hochtals von Mexiko""","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 49 dice que es Edo. México; ref. 150 propone que se trata de Tequixquiac",1.00
+56.00,26.00,0.00,"Isla Tiburón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Isla Tiburón","ND","ND",9999.00,"ND","Lado N Isla Tiburón; Mitad norte de la isla",1.00
+57.00,16.00,0.00,"La Goleta","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+58.00,14.00,0.00,"Lago de Chapala","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 155 (del edo. de Jalisco)",1.00
+59.00,1.00,0.00,"Lomas de Zoyatal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+60.00,25.00,0.00,"Los Mochis","ND","1:50,000",25.00,48.00,99.00,109.00,0.00,99.00,"ND","ND","ND","ND","ND",10.00,"ND","Alvarez (1965; ref.1) dice que Los Mochis está en Sonora, y se basa para ello en el trabajo de Maldonado-Koerdell (1954; ref.112), pero en esta dice claramente que es Sinaloa, por lo que se procedió a poner como estado a Sinaloa",1.00
+61.00,16.00,0.00,"Morelia","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+62.00,11.00,0.00,"Moroleón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref 150: Moroleón?; ref.39 y 548 dicen que el material es de Arperos. localidad y año del trabajo dudosos",1.00
+63.00,1.00,0.00,"Río Aguascalientes","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Rancho San Angel","ND","ND",9999.00,"ND","Cerca del Rancho San Angel",1.00
+64.00,5.00,0.00,"Río Encantado","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Ramos Arizpe","ND","ND",9999.00,"ND","cerca de Ramos Arizpe, San Juan y Encantado, Region de Saltillo. Refs.1 y 242 hablan de la localidad como Saltillo, pero es Rio Encantado",1.00
+65.00,14.00,0.00,"San Juan de los Lagos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+66.00,33.00,0.00,"San Luis","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","probablemente esté en el estado de México",1.00
+67.00,21.00,0.00,"San Pedro","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+68.00,21.00,114.00,"San Pedro Zacachimalpa","E14-5","1:250,000",19.00,56.00,30.00,97.00,36.00,24.00,"ND","ND","ND","ND","ND",2130.00,"ND","Revisar Felix y Lenk 1891 para confirmar localidad de algunos materiales; ref. 846: barranca de Sn Pedro Zacachimalpa en la regíon de la presa de Valsequillo, al S de ciudad de Puebla",1.00
+69.00,9.00,0.00,"Santa Fé","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+70.00,20.00,0.00,"San Pedro Añañe","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","San Pedro Añañe","ND","ND",9999.00,"ND","650m E-NEde San Pedro Añañe",1.00
+71.00,15.00,0.00,"ejidos de San Cristobal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",2240.00,"ND","se halló en la parte en la que se angostaban los antiguos lagos y se unían el Xaltocan-Ecatepec con el de Texcoco. En el predio no. 50 de la calle Cedro.",1.00
+72.00,9.00,0.00,"Tacubaya","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Formación Tacubaya; ref. 862: Tacubaya, cerca de la ciudad de Tacubaya",1.00
+73.00,21.00,0.00,"San Pedro Tecamachalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+74.00,13.00,0.00,"Tehuichila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: es mioceno",1.00
+75.00,15.00,0.00,"Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 766: 250 m al N del sitio donde se encontró el esqueleto humano; ref. 840 y 845: Km 7 de la carretera venta de Carpio-Teotihuacán; ref. 835: junto a la carretera que desde la capital federal conduce a Teotihuacán",1.00
+76.00,15.00,0.00,"Tesopaco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+77.00,26.00,69.00,"Tinajitas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que efectivamente la loc. sea del mun. de Yécora",1.00
+78.00,21.00,0.00,"Tlatlauqui","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar sean una misma localidad (sierra de Puebla)",1.00
+79.00,10.00,0.00,"Bolsón de Mapimí","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Torreón: refo original (Freudenberg, 1919): Aus Torreon (im Bolson de Mapimi, ...)",1.00
+80.00,8.00,0.00,"Yepómera","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+81.00,9.00,5.00,"Colonia Estrella","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","colindante con los terrenos de la antigua Hda. ""Aragón""; 25 Km S Tepexpan, cerca de Tepeyac",1.00
+82.00,9.00,0.00,"Villa de Guadalupe","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Mezcla de localidades: ref. 49 dice que es Edo. México; ref 150 que es en el Valle de México",1.00
+83.00,20.00,0.00,"Yolomecatl","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Cd. Oaxaca","ND","NW",9999.00,"ND","aprox. 100 Km NW Cd. Oaxaca, 1 Km S Yolomecatl. (En el Km 98 de la carretera Oaxaca-Acatlán, tomar camino entre Yolomecatl y Tlaxiaco",1.00
+84.00,15.00,0.00,"Zumpango","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+85.00,2.00,0.00,"Estado de Baja California","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+86.00,8.00,0.00,"Estado de Chihuahua","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+87.00,8.00,0.00,"100 km de Chihuahua","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Chihuahua","ND","ND",9999.00,"ND","100 Km de Chihuahua",1.00
+88.00,16.00,0.00,"Estado de Michoacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+89.00,21.00,0.00,"Estado de Puebla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+90.00,29.00,0.00,"Estado de Tlaxcala","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+91.00,33.00,0.00,"Desconocido","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+92.00,5.00,0.00,"Cuatro Ciénegas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+93.00,1.00,0.00,"Cedazo","ND","ND",21.00,46.00,99.00,102.00,8.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Toba Aguascalientes",1.00
+94.00,33.00,0.00,"Acultzingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 193 (del edo. Veracruz)",1.00
+95.00,12.00,0.00,"Chichihualco","ND","ND",17.00,39.00,99.00,99.00,41.00,99.00,"ND","ND","ND","ND","ND",1140.00,"ND","ND",1.00
+96.00,9.00,0.00,"Cd. de México","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que sea diferente a la loc. 763",1.00
+97.00,15.00,0.00,"Valle de Bravo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","A orillas de una barranca en el Distrito de Valle de Bravo, en el estado de México; ref. 548 (Barrios, 1985) la consigna como Villa de Bravo, pero al revisar la referencia original, resultó obvio que no era así, sino Valle de Bravo",1.00
+98.00,31.00,0.00,"Ekmul","ND","ND",20.00,57.00,54.00,89.00,20.00,54.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+99.00,17.00,0.00,"Cueva El Chiflón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+100.00,27.00,0.00,"Estado de Tabasco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+101.00,15.00,70.00,"Los Reyes La Paz","E14-B31","1:50,000",19.00,21.00,42.00,98.00,58.00,30.00,"ND","ND","ND","ND","ND",2210.00,"ND","Ref. 768: los materiales provienen de varias cuadras, incluyendo la dos y la 10, cuadras que para esa referencia se manejaron como unidad de análisis.",1.00
+102.00,15.00,0.00,"Los Reyes Acozac","E14-B41","1:50,000",19.00,46.00,24.00,98.00,58.00,54.00,"ND","ND","ND","ND","ND",2250.00,"ND","ref. 846: aledaños del poblado Los Reyes de Acozac; ref. 692: cerca de la Villa de los Reyes de Acozac; ref. 49: cerca de Zumpango de Ocampo",1.00
+103.00,15.00,0.00,"San Bartolo Atepehuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 255",1.00
+104.00,33.00,0.00,"Xaltocan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+105.00,15.00,0.00,"Chimalhuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar estado; ref. 747: patio de la casa, sita en Manzana 3, Lote 4, fraccionamiento Cristo Rey, Col. Embarcadero en el Barrio de Xochitenco en Chimalhuacán",1.00
+106.00,15.00,0.00,"Tulpetlac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+107.00,15.00,11.00,"Santa Isabel Iztapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Santa Isabel Iztapan","ND","ND",9999.00,"ND","Ref.548: probablemente se refiera a la localidad de Santa Isabel Iztapan (SII-I), ya que dice ""W-NW Santa Isabel Iztapan, 2 Km SW Tepexpan sobre la carretera San Juan Teotihuacán zanja en la labor del Sr. Mariano Vallejo"" , y esa es la localidad de SII-I; ref. 687: 350 m S del 1er mammut y 2600 S de sitio del hombre de Tepexpan",1.00
+108.00,15.00,30.00,"Calxiácatl, Chinconcuac","E14-B21","1:50,000",19.00,33.00,99.00,98.00,54.00,99.00,"ND","ND","ND","ND","ND",2240.00,"ND","a unos metros del Puente Renacimiento y sobre la calle Salitre, Chinconcuac; en el barrio de Calxiacatl, a unos metros del puente Renacimiento que se encuentra en la calle salitre",1.00
+109.00,15.00,0.00,"Venta de Carpio","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 169: 3.5 Km de Venta de Carpio, en el camino tanto al lado derecho como izquierdo, comunicando al D. F. con Sn. Juan Teotihuacan, en el tramo comprendido entre la estación de bandera de Venta de Carpio y la de Tepexpan, del Ferrocarril Hidalgo",1.00
+110.00,15.00,0.00,"Santa Lucía","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+111.00,21.00,0.00,"Canal de Valsequillo (Tecamachalco)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+112.00,15.00,0.00,"Almoloya del Río","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Almoloya del Río","ND","ND",9999.00,"ND","Ref. 50: Km 11 de Almoloya del Rio; ref. 74: Acueducto de Lerma en Almoloya del Río; como ambas referencias tratan de los proboscideos del museo de Geología de la UNAM, se asumió que eran el mismo material y la misma localidad",1.00
+113.00,19.00,0.00,"General Zuazua","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+114.00,33.00,0.00,"San Juan Camargo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+115.00,26.00,0.00,"Caborca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+116.00,33.00,0.00,"Presa Marte","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+117.00,20.00,0.00,"Cueva de San Agustín","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Huentla, cerca de Oaxaca, Oax.",1.00
+118.00,19.00,0.00,"Cueva de Bustamante","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+119.00,33.00,0.00,"Cueva de la Mina","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+120.00,33.00,0.00,"Cueva Las Cruces","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+121.00,15.00,0.00,"Cantera El Tajo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+122.00,33.00,0.00,"Potrecito cerca Cienega","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+123.00,33.00,0.00,"Sierra de Tamaulipas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+124.00,27.00,11.00,"Jonuta","E15-5","1:250,000",18.00,5.00,18.00,92.00,7.00,54.00,"ND","ND","ND","ND","ND",5.00,"ND","en los márgenes de los ríos Usumacinta y Palizada, en el límite de Tabasco y Campeche",1.00
+125.00,33.00,0.00,"Sureste","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+126.00,28.00,0.00,"cercanías del Valle del Maíz","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+127.00,19.00,0.00,"Cueva de la Zona de Derrumbes","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ver.localidad, en una ref. es desconocida y en 94 es N.L.",1.00
+128.00,33.00,0.00,"cerca de Tehuantepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma que la loc. 683 del edo de Oaxaca",1.00
+129.00,15.00,0.00,"¿Amanalco de Becerra? Valle de Bravo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+130.00,33.00,0.00,"Cañada de Aculzingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar sean una misma que la loc. 485 (del edo. de Veracruz), o loc. 48 (del edo. de Puebla)",1.00
+131.00,13.00,0.00,"cerca de Lagunilla, Valle del Mezquital","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",1800.00,"ND","ref. 131: cerca de Lagunilla. de Ixmiquilpan rumbo al noroeste, oriente y sureste,un amplio valle.",1.00
+133.00,15.00,0.00,"región de Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","aprox. 35 Km al NE de la ciudad de México; formación Becerra superior",1.00
+134.00,33.00,0.00,"El Risco I","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma que la loc. 815",1.00
+135.00,15.00,0.00,"¿El Peñón de los Baños? Texcoco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+136.00,14.00,0.00,"¿Iztlán?","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+137.00,14.00,0.00,"Región de Juchipila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+138.00,33.00,0.00,"Río Bravo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+139.00,17.00,0.00,"Tehuichila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+140.00,30.00,0.00,"Tehuichila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Edad relativa: Loup Fork age",1.00
+141.00,33.00,0.00,"una llanura en el territorio sur de la peninsula","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 845: dice unicamente del edo. de Baja California",1.00
+142.00,13.00,0.00,"Valle de Amajaque","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Alvarez 1965 y Mena de la Peña 1975: es plioceno.",1.00
+143.00,15.00,0.00,"Valle de Toluca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Todos se basan en las mismas referencias Villada (1897, 1903, 1905), que no mencionan claramente el estado, pero todos los demas autores lo refieren al estado de México, por lo que se dejó com Edo. Méx.",1.00
+144.00,15.00,0.00,"Xico","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Xico. ref. 847 y 692: margen sur del lago de Texcoco, en una mina de arenas fosilíferas (basadas en Herrera, 1893: ref. 837); en una cantera a orillas del lago de Chalco; cerca de Astahuacán. Ref. 841 y 842 no dicen de que estado es, pero como son trabajos posteriores a la ref. 837, se dejó con el mismo estado que en ese trabajo",1.00
+145.00,33.00,0.00,"antigua ribera de Lago de Chapala","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","aprox. 700 m al NO de ""Petatán"", caserío de pescadores situados en la antigua ribera del lago, aunos 6 Km al NO de Cojumatlan",1.00
+146.00,21.00,0.00,"Tehuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+147.00,33.00,0.00,"Tehuantepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+149.00,20.00,0.00,"Estado de Oaxaca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+150.00,5.00,0.00,"Estado de Coahuila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+151.00,3.00,0.00,"Arroyo Comondú","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","llanura en las cercanías del arroyo Comondú, aprox. a 40 km W Loreto. PROB. SEA IGUAL QUE LOC. 296",1.00
+152.00,14.00,0.00,"Estado de Jalisco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+153.00,11.00,0.00,"Estado de Guanajuato","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+154.00,15.00,0.00,"SW de la región de Tepechpan (sic)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+155.00,15.00,0.00,"Tlapanayola","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+156.00,1.00,0.00,"Cerrito de la Cruz","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Arroyo del Cedazo",1.00
+157.00,10.00,0.00,"Arroyo Malacate","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+158.00,1.00,0.00,"Arroyo Pargas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+159.00,1.00,0.00,"Paso Hondo y Cobos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+160.00,1.00,0.00,"Cañada de Cotorina","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+161.00,9.00,0.00,"Ixtapalapa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+162.00,5.00,31.00,"San Buenaventura","G14-A42","1:50,000",27.00,3.00,45.00,101.00,32.00,48.00,"ND","ND","ND","ND","ND",490.00,"ND","ND",1.00
+163.00,7.00,0.00,"Villa Flores","ND","1:50,000",16.00,14.00,99.00,93.00,17.00,99.00,"ND","ND","ND","ND","ND",540.00,"ND","ND",1.00
+164.00,8.00,0.00,"Ciudad Delicias","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+165.00,12.00,0.00,"Iguala","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","inmediaciones de Iguala",1.00
+166.00,13.00,0.00,"Cueva La Nopalera","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Tepeapulco","10 Km","ND",9999.00,"ND","Tepeapulco",1.00
+167.00,13.00,0.00,"Mineral del Monte","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+168.00,14.00,0.00,"Juchitlán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+169.00,14.00,119.00,"Santa Catarina","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+170.00,15.00,0.00,"Barranca de Acatlán, Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+171.00,9.00,0.00,"Teatro Latino (Paseo de la Reforma)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que la localidad no tenga los datos de Paseo de la Reforma y Havre (pozo P-366-2), que según Barrios (1985;ref.548), es otra localidad",1.00
+172.00,9.00,0.00,"Barranca del Muerto","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+173.00,9.00,0.00,"Edificio Latino Americano","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Av. Insurgentes esq. Q. Roo",1.00
+174.00,15.00,0.00,"Jilotepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+175.00,15.00,0.00,"Tecolapa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Jilotepec",1.00
+176.00,15.00,0.00,"Tonatico","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+177.00,9.00,0.00,"Panteón Dolores","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+178.00,9.00,0.00,"San Jerónimo Lídice","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+180.00,15.00,0.00,"Apaxco (en mina de Calhidra)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","en mina de calhidra","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 13",1.00
+181.00,16.00,0.00,"Zacapu","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+182.00,16.00,10.00,"Rancho Las Ollas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+183.00,17.00,10.00,"Cuautla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+184.00,21.00,0.00,"Acatlán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+185.00,21.00,0.00,"San Martín Texmelucan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+186.00,29.00,0.00,"Hda. de Zotoluca (cerca de Apizaco)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+187.00,30.00,0.00,"Estado de Veracruz","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+188.00,28.00,0.00,"Xicoténcatl","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","dentro del Valle del Mamut, a la izquierda del camino que va el Ejido de Santa Rosa, a 500m de la entrada",1.00
+189.00,24.00,0.00,"Rancho Peotillos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+190.00,24.00,0.00,"Estado de San Luis Potosí","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+191.00,24.00,0.00,"Paso del Aguila (cerca de San Nicolás Tolentino)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+192.00,24.00,23.00,"Rayón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+193.00,30.00,0.00,"Cañada de Aculcingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 846: a 25 Km al W de Orizaba",1.00
+194.00,30.00,155.00,"Tantoyuca","F14-8","1:250,000",21.00,21.00,6.00,98.00,13.00,42.00,"ND","ND","ND","ND","ND",100.00,"ND","ND",1.00
+195.00,32.00,0.00,"Ciudad de Zacatecas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+196.00,33.00,0.00,"San Miguel Tecamachalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 648 (del Edo. de Méx.)",1.00
+197.00,20.00,0.00,"Santa Catalina Chinango","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","1 Km SE Santa Catalina Chinango, en la barranca formada en una planicie llamada Llano de la Luna",1.00
+198.00,19.00,0.00,"Aramberri","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","probablemente sea Cueva de San Josecito",1.00
+199.00,9.00,0.00,"Tláhuac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+200.00,5.00,0.00,"Hacienda de Hornos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+201.00,24.00,24.00,"Río Verde","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+202.00,28.00,0.00,"Río San Juan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+203.00,26.00,0.00,"Quitovac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+204.00,9.00,0.00,"Peñon Viejo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+205.00,15.00,11.00,"Santa Isabel Iztapan I","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Santa Isabel Iztapan","ND","ND",9999.00,"ND","Mamut no. 1: NW Santa Isabel Iztapan. Ref. 846: en un punto situado a 2.25 km SSW estación ferroviaria de Tepexpan; S de Tepexpan; 2 km SW Tepexpan y WNW Santa Isabel Iztapan; ref.1: dice erróneamente ""WNE Santa Isabel Iztapan""",1.00
+206.00,15.00,0.00,"estación Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","al lado derecho del camino, justamente a espaldas de la estación del ferrocarril Tepexpan",1.00
+207.00,15.00,0.00,"Hacienda de Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+208.00,4.00,0.00,"El Ocotlán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Cerca de Jonuta, Tabasco",1.00
+209.00,15.00,0.00,"Zohapilco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en la base E-N del cerro de Las Cruces , uno de los puntos culminantes del cerro de Tlapacoya, y en la extremidad sur del actual pueblo del mismo nombre",1.00
+210.00,19.00,0.00,"Mina","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+211.00,31.00,0.00,"Actun Lara","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Serranía entre Yokat y Ticul; cerca de Ticul; ref 713: Cueva Actún y Lara",1.00
+212.00,10.00,0.00,"Cueva de las Iglesias","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en el cañon del Soldado, Mpio. de Lerdo",1.00
+213.00,10.00,0.00,"Cañón del Soldado","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+214.00,15.00,0.00,"Tlatilco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","San Bartolo Naucalpan","2.5 Km S","ND",9999.00,"ND","2.5 Km S San Bartolo Naucalpan",1.00
+215.00,31.00,0.00,"Chichen Itza","ND","ND",20.00,40.00,12.00,88.00,30.00,36.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+216.00,20.00,0.00,"Cueva de Monte Flor","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+217.00,15.00,0.00,"Tequesquinahua","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+218.00,26.00,0.00,"Santa Ana Babícora","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+219.00,9.00,0.00,"Azcapotzalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+220.00,14.00,0.00,"Atotonilco El Bajo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+221.00,21.00,0.00,"Hueyatlaco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",2056.00,"ND","ref. 490: 50 m Ndel nucleo principal de excavaciones arqueológicas de la localidad Hueyatlaco (proyecto Valsequillo); en el pie de una elevación donde afloran las brayas Valsequillo (cota 2056)",1.00
+222.00,15.00,0.00,"cerca del valle de Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","regíon ded Zumpango, en el extremo N de la Cuenca de México, verificar que sea diferente a la loc. 332 y 276",1.00
+223.00,26.00,0.00,"La Guitarra","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","aprox. a la mitad del camino Tonichi-Sahuaripa, cerca del poblado La Guitarra",1.00
+224.00,15.00,0.00,"pueblo de San Pedro Atzompa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+225.00,21.00,0.00,"Tepeji de Rodriguez","ND","ND",18.00,30.00,99.00,98.00,7.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+226.00,9.00,0.00,"Templo Mayor","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+227.00,24.00,24.00,"Laguna de la Media Luna","ND","ND",21.00,55.00,99.00,100.00,5.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+228.00,23.00,0.00,"El Meco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+229.00,15.00,0.00,"Tepexpan (El Risco II)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Tepexpan es una pequeña villa emplazada sobre la carretera que conduce desde México a Acolman y las pirámides de Teotihuacán. Se encuentra a 300 m al N de una tajea, cerca del poste de piedra indicador del Km 6 de la carretera y a 900 m al W de la pared que rodea al Hospital de enfermos cronicos",1.00
+230.00,31.00,0.00,"Actun Coyok","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Oxkutzcab","ND","ND",9999.00,"ND","cerca de 6.5 Km SW Oxkutzcab",1.00
+231.00,31.00,0.00,"Actun Chacaljas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Actun Spukil","ND","ND",9999.00,"ND","cerca de 0.5 Km Actun Spukil en dirección a Hacienda Calcehtok",1.00
+232.00,31.00,0.00,"Actun Has","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","a la mitad de la Sierra, alrededor de 6.5 Km S de Yokat",1.00
+233.00,16.00,0.00,"Cuitzeo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","a la orilla S del lago, dentro de la península y casi pegado a las últimas casas del pueblo",1.00
+234.00,33.00,0.00,"Valle de Puebla-Tlax.","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+235.00,33.00,0.00,"Altiplanicie Central de México","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+236.00,33.00,0.00,"Norte de México (país)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+237.00,7.00,0.00,"Cueva de Santa Marta","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","7.5 Km al NW de Ocozocoautla, Chiapas, la cueva esta en la finca Kikapú a unos 5 Km W de Ocozocoautla",1.00
+238.00,21.00,0.00,"Cueva del Tepeyolo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Totemihuacán","10 Km","ND",9999.00,"ND","10 Km Totemihuacán márgenes de la Presa de Valsequillo",1.00
+239.00,21.00,0.00,"Cueva del Texcal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Totemihuacán","6 Km S","ND",9999.00,"ND","6 Km S de Totemihuacán, margenes de la Presa de Valsequillo; 6.5 Km W Cueva de Tepeyolo",1.00
+240.00,28.00,0.00,"Región de Gómez Farías","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Alvarez y Arroyo( 1989) engloban con ""región de Gómez Farías"", las tres localidades de Koopman y Martín (1959): Infiernillo, Paraiso y Rancho del Cielo",1.00
+241.00,31.00,0.00,"Cuevas de Yucatán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+242.00,15.00,0.00,"Chimalhuacan-Atenco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","oriente de la ciudad de México hacia el Noroeste del cerro Chimalhuacán, Edo. de México",1.00
+243.00,7.00,0.00,"Toniná","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+244.00,26.00,0.00,"Rancho La Brisca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+245.00,1.00,0.00,"Estado de Aguascalientes","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+246.00,7.00,0.00,"Aguacatenango","ND","ND",16.00,36.00,99.00,92.00,23.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Serranía limítrofe de la Mesa Central y la Depresión Central, Carretera El Carmelito-Villa de las Rosas, Municipio de Aguacatenango (ref. 548)",1.00
+247.00,15.00,11.00,"Santa Isabel Iztapan II","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Santa Isabel Iztapan","ND","ND",9999.00,"ND","Mamut no. 2: W Santa Isabel Iztapan. Ref. 847: cerca de Tepexpan; ref. 723: aprox. 350m S del sitio que fue explorado el 1er. mamut en Iztapan y aprox. 2600m SSW del sitio del hallazgo del hombre fósil de Tepexpan.",1.00
+248.00,1.00,1.00,"ranchería ""Margaritas""","F13-B89","1:50,000",22.00,0.00,48.00,102.00,16.00,24.00,"ND","ND","ND","ND","ND",1890.00,"ND","junto al río Chicalote, sobre la carretera internacional",1.00
+250.00,14.00,0.00,"Cuenca Chapala, Zacoalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+251.00,15.00,0.00,"Lago de Texcoco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+252.00,24.00,0.00,"Laguna de las Cruces","F14-A61","1:50,000",22.00,39.00,5.00,101.00,52.00,52.00,"ND","ND","ND","ND","ND",2100.00,"ND","ND",1.00
+254.00,19.00,0.00,"Monterrey","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 399 y loc. 742 (del edo. de Jalisco)",1.00
+256.00,15.00,0.00,"Santa Lucía I, II","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+257.00,15.00,0.00,"Iztapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","El estado no es seguro",1.00
+258.00,9.00,0.00,"Santa Martha Acatitla Sur","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en la calle Emilio Madero, casi esquina con Tito Ferrer, a un costado de la Escuela Primaria ""24 de febrero"" en la colonia Santa Martha Acatitla Sur",1.00
+259.00,15.00,0.00,"Tepexpan-Arellano","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+260.00,15.00,0.00,"Tepexpan-Totolcingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 776: en la zona entre los pueblos de Tepexpan y Totolcingo",1.00
+261.00,15.00,0.00,"Tepexpan-Hospital","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 846: en el punto inmediato al Hospital para enfermos incurables",1.00
+263.00,9.00,0.00,"Plaza de las Tres Culturas, Tlatelolco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+264.00,9.00,0.00,"Ciudad de los Deportes","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+265.00,17.00,0.00,"Cueva Encantada","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Distrito de Huautla","ND","2 Km W",9999.00,"ND","2 Km W Chimalacatlán, a unos 200 m sobre el nivel del valle",1.00
+266.00,14.00,0.00,"Atotonilco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+267.00,21.00,0.00,"esquina de la 2 Norte y Portal Hidalgo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Edificio Calderón",1.00
+268.00,21.00,0.00,"Cholula","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+269.00,9.00,0.00,"Peñón de los Baños","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ciudad de México","ND","2.5 millas E",9999.00,"ND","cerca de 2.5 millas al E de la ciudad de México",1.00
+270.00,9.00,0.00,"Pedregal de San Angel","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Lave du Pedregal (Vallée de Mexico) (traducción en el escrito en francés ref. 473)",1.00
+272.00,15.00,0.00,"llanura de Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+273.00,14.00,0.00,"Cantera de Jocotepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Jocotepec","2 Km","ND",9999.00,"ND","5 km W Jocotepec, hacia Guadalajara (carret. 15)",1.00
+274.00,15.00,0.00,"Tlalnepantla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+276.00,15.00,0.00,"Tajo de Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+277.00,33.00,0.00,"Barranca de Acutcingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","El contenido de fauna es diferente a las de las loc. 45 y 193",1.00
+278.00,15.00,0.00,"Tajo de Tequixquiac-Barranca de Acatlán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","E de la boca norte del tunel del desague",1.00
+280.00,19.00,0.00,"Estado de Nuevo León","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+281.00,9.00,0.00,"Colonia Los Alamos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+282.00,15.00,0.00,"Tepexpan en el Museo de Prehistoria","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en le punto donde se levanta actualmente dicho museo",1.00
+283.00,14.00,0.00,"Rancho de la Verdolaga","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Dugés (1982;ref.176) dice que es de la jurisdicción de San Juan de los Lagos, pero nunca dice a que estado pertenece. Se  sique a Barrios (1985;ref.548) quien lo ubica en Jalisco",1.00
+284.00,20.00,0.00,"Guilá Naquitz","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+285.00,20.00,0.00,"Cueva de los Afligidos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+286.00,21.00,45.00,"Cd. Serdán","E14-6","1:250,000",18.00,55.00,99.00,97.00,26.00,42.00,"ND","ND","ND","ND","ND",2600.00,"ND","ND",1.00
+287.00,7.00,44.00,"Ixtapan","ND","1:50,000",16.00,48.00,99.00,92.00,54.00,99.00,"ND","ND","ND","ND","ND",1120.00,"ND","ND",1.00
+288.00,15.00,0.00,"Tepexpan cerca del sitio del hombre fósil","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 846: a corta distancia del sitio de hallazgo del hombre fósil",1.00
+289.00,29.00,0.00,"Barranca del Toro","E14-B24","1:50,000",19.00,33.00,48.00,97.00,58.00,6.00,"ND","ND","ND","ND","ND",2500.00,"ND","ND",1.00
+290.00,15.00,0.00,"cercano al radio faro de Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+291.00,15.00,0.00,"Estado de México","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+293.00,15.00,0.00,"Teotihuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","camino periferico de la zona arqueológica, cerca del Rio San Juan, sector N2E2",1.00
+294.00,8.00,0.00,"Cueva de las Ventanas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+295.00,19.00,7.00,"La Ascensión","G14-C77","1:50,000",24.00,19.00,30.00,99.00,54.00,48.00,"ND","ND","ND","ND","ND",1960.00,"ND","cercanias Rancho La Angostura",1.00
+296.00,3.00,0.00,"Comondu","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Prob. sea igual a la localidad 151",1.00
+297.00,23.00,0.00,"Punta Molas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+298.00,23.00,0.00,"Cinco Puertas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+299.00,23.00,0.00,"San Miguel","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+300.00,23.00,0.00,"El Cedral","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+301.00,23.00,0.00,"Buena Vista","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+302.00,23.00,0.00,"San Gervasio","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+303.00,23.00,0.00,"La Expedición, Cinco Manos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+304.00,23.00,0.00,"Aguada Grande","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+305.00,23.00,0.00,"Zuuk","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+306.00,23.00,0.00,"Cozumel","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+307.00,33.00,0.00,"Tlatilco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 214 (del Edo. de Méx.)",1.00
+308.00,33.00,0.00,"Ixtapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 287 (del edo. de Chiapas)",1.00
+309.00,15.00,0.00,"Tajo de desemboque-canal de desagüe Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","regíon ded Zumpango, en el extremo N de la Cuenca de México, verificar que sea diferente a la loc. 332 y 276",1.00
+310.00,7.00,0.00,"Las Morenas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+311.00,7.00,0.00,"Campón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+312.00,7.00,0.00,"Tlacuachero","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+313.00,7.00,0.00,"La Palma","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+314.00,7.00,0.00,"Río Arriba","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+315.00,7.00,0.00,"Las Lomas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+316.00,16.00,0.00,"San Pedro Cara","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","15 Km al este de Cojumatlán, en las afueras del pueblo, dirección SO, cerca de la carretera a Saguayo",1.00
+317.00,8.00,0.00,"Al este de la Laguna El Barreal, Sitio 2","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+318.00,8.00,0.00,"Al este de la Laguna El Barreal, Sitio 1","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+319.00,9.00,0.00,"Ejército de Oriente","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en la calle de Batallón de Zapadores, frente al N. 55 A, en la unidad Ejército de Oriente. Delagación Iztapalapa",1.00
+320.00,15.00,0.00,"Tlapacoya","ND","ND",19.00,18.00,30.00,98.00,54.00,30.00,"ND","ND","Lago de Chalco","ND","ND",9999.00,"ND","relacionado con el Lago de Chalco; Agenbroad 1984), ubica la localidad erróneamente en Puebla, la bibligrafía que usa es de Lorenzo, Mirammbell y Haynes",1.00
+321.00,28.00,0.00,"San Pedro de Roma","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+323.00,9.00,0.00,"Colonia Gertrudis Sánchez","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","lote 6006 de la calle Norte 86-A; verificar que no sea la misma a la loc. 104",1.00
+324.00,15.00,0.00,"Los Reyes-La Paz I","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Los Reyes La Paz (cuadra 2): Ver los planos que existen en Lorenzo y Mirambell (1986) para ubicar la cuadra 2",1.00
+325.00,21.00,0.00,"Calle Río Yaqui","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+326.00,15.00,0.00,"Los Reyes-La Paz II","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Los Reyes La Paz (cuadra 10): Ver los planos que existen en Lorenzo y Mirambell (1986) para ubicar la cuadra 10",1.00
+327.00,15.00,0.00,"Santa Lucía I","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+328.00,15.00,0.00,"Santa Lucía II","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 857: base aérea de Santa Lucía. 365 m del sitio excavado 1976 (Santa Lucía I) dentro de los terrenos de la base aérea",1.00
+329.00,32.00,0.00,"San Juan Capistrano","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+330.00,20.00,0.00,"Tamazulapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","En las cercanías del poblado de Tamazulapan; cerca de la Villa de Tamazulapan",1.00
+331.00,3.00,0.00,"Estado de Baja California Sur","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+332.00,15.00,0.00,"Tajo del desagüe viejo (Tequixquiac)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+333.00,15.00,0.00,"Barranca de Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+334.00,25.00,11.00,"cercanías de la Laguna de Chamicaris","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+335.00,16.00,0.00,"Cuenca del Balsas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","citada en los estados de Michoacán y Guerrero",1.00
+336.00,7.00,0.00,"Vistahermosa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+337.00,21.00,0.00,"Arroyo Alseseca","E14-2","1:250,000",19.00,7.00,36.00,98.00,32.00,48.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+338.00,25.00,11.00,"Guasave I","ND","1:50,000",25.00,39.00,99.00,108.00,18.00,99.00,"ND","ND","Guasave","ND","ND",20.00,"ND","a 19 Km en línea recta, al NE de la ciudad de Guasave",1.00
+339.00,25.00,0.00,"Estado de Sinaloa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+340.00,14.00,0.00,"Río de Juchipila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+341.00,9.00,0.00,"Cerro de las Palmas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Tacubaya; ref. 846: en Tacubaya, en excavaciones hechas para la cimentación de ""un garita de vigilancia a la salida de la carretera a Toluca""",1.00
+342.00,9.00,0.00,"Barranca de Regla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+343.00,15.00,35.00,"Huehuetoca","E14-A19","1:50,000",19.00,58.00,48.00,99.00,12.00,6.00,"ND","ND","ND","ND","ND",2260.00,"ND","ND",1.00
+344.00,9.00,0.00,"Chapultepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+345.00,30.00,0.00,"Xalapa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+346.00,13.00,0.00,"Atotonilco El Grande","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca del Real del Monte; verificar que no sea la misma a la loc. 665 (del edo. de Hidalgo); tanto Falconer (ref. 251) como Barrios (ref. 540) se basan en Freudenberg.",1.00
+347.00,28.00,0.00,"Paraiso","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",420.00,"ND","13 km NNW Chamal; 13 Km SW Gómez Farías",1.00
+348.00,28.00,0.00,"Rancho del Cielo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",1050.00,"ND","6 km NW Gómez Farías",1.00
+349.00,28.00,0.00,"Infierno","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",1320.00,"ND","2 km S del mill poblado llamado La Gloria; 7 km W Gómez Farías",1.00
+350.00,7.00,0.00,"Estado de Chiapas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+351.00,33.00,0.00,"llanura en el territorio sur de la Península","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+352.00,21.00,0.00,"Valle de Puebla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Verificar que realmente esté en el estado de Puebla",1.00
+353.00,13.00,0.00,"Arroyo Amajac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Asignada tentativamente a ese estado, debido a que no existe otro Amajac (Santa Cruz Amajac, valle de Amajaque, etc.) en la literatura más que en Hidalgo.",1.00
+354.00,19.00,0.00,"Rio Vírgenes","G14-C87","1:50,000",24.00,11.00,36.00,99.00,40.00,54.00,"ND","ND","ND","ND","ND",900.00,"ND","ND",1.00
+355.00,33.00,0.00,"Peninsula de Yucatán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+356.00,15.00,0.00,"metro STC ruta 1","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+357.00,15.00,0.00,"¿Tajo viejo de Tequixquac? ¿Nochistongo?","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+358.00,21.00,0.00,"esquina de la Av. 5 de mayo y 2 Poniente","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Edificio Alles",1.00
+359.00,15.00,0.00,"Temamatla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+360.00,21.00,189.00,"San Marcos Necoxtla","E14-6","1:250,000",18.00,53.00,36.00,97.00,49.00,6.00,"ND","ND","ND","ND","ND",2000.00,"ND","ND",1.00
+361.00,15.00,0.00,"Tequixquiac (near)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 3 (del Edo. de Méx.)",1.00
+362.00,8.00,0.00,"Mina Erupción","ND","ND",30.00,99.00,99.00,102.00,0.00,99.00,"ND","ND","Cd. Juarez","145 Km S-SE","ND",9999.00,"ND","145 Km S-SE de Cd. Juarez, Montaña Los Lamentos; 15º S en el cerro Los Lamentos; 72º E en el cerro Los Lamentos",1.00
+363.00,33.00,0.00,"Tlascala","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que sea con ""s"" y no con ""x""",1.00
+364.00,10.00,0.00,"Estado de Durango","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+365.00,28.00,0.00,"Estado de Tamaulipas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+366.00,14.00,0.00,"Venustiano Carranza","F13-D81","1:50,000",20.00,3.00,99.00,104.00,43.00,18.00,"ND","ND","ND","ND","ND",560.00,"ND","ND",1.00
+367.00,16.00,10.00,"Arteaga","E13-9","1:250,000",18.00,21.00,24.00,102.00,17.00,24.00,"ND","ND","ND","ND","ND",820.00,"ND","ND",1.00
+368.00,27.00,0.00,"Grutas de Coconá","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Teapa",1.00
+369.00,29.00,32.00,"Santa Cruz Aguiahua","E14-B43","1:50,000",19.00,14.00,18.00,98.00,16.00,54.00,"ND","ND","ND","ND","ND",2220.00,"ND","ND",1.00
+370.00,15.00,0.00,"Tlaltlaya","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Provienen del Rancho La Cofradia, en Tlaltlaya",1.00
+371.00,31.00,0.00,"Mayapan","ND","ND",20.00,28.00,99.00,89.00,13.00,99.00,"ND","ND","ND","ND","ND",20.00,"ND","ND",1.00
+372.00,14.00,0.00,"Cerro del Tecolote","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","30 m de la ribera pominte del Lago de Zacoalco, 1.2 m del terreno y 1.5 sobre el nivel del agua",1.00
+373.00,14.00,0.00,"El Tule","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en el camino entre Catarina y Atotonilco el Bajo",1.00
+374.00,21.00,0.00,"construcciones en el arroyo San Francisco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","a la altura 48 poniente",1.00
+375.00,31.00,0.00,"Estado de Yucatán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+376.00,15.00,0.00,"Iztapan de la Sal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+377.00,15.00,0.00,"Cuanalan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Valle de Teotihuacán; Sánchez (1985) dice, érroneamente, que tiene 2 ooo años, mexvlando los datos de dos localidades que vienen en la referencia original",1.00
+378.00,9.00,0.00,"Torre Latinoamericana","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","debajo de la Torre Latinoamericana",1.00
+379.00,33.00,0.00,"Mexican plateau","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+380.00,18.00,0.00,"Tecualilla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Se asignó tentativamente a Nayarit, ya que Wing (1968) dice que está en el estero Teacapan, y la mayor parte de ese estero está en Nayarit, aunque el poblado de Teacapan está en Sinaloa.",1.00
+381.00,25.00,0.00,"Juana Gomez","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Se refiere por deducción a ese estado, debido a que Wing dice que el sitio esta situado ""farther inland on high ground near the town of Escuinapa""",1.00
+382.00,18.00,0.00,"Chalpa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Se asignó tentativamente a Nayarit, ya que Wing (1968) dice que está en el estero Teacapan, y la mayor parte de ese estero está en Nayarit, aunque el poblado de Teacapan está en Sinaloa.",1.00
+383.00,23.00,0.00,"Cancún","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 306: localidad en la península de Yucatán; ref. 309: loc. en Yucatán, pero en mapa si está en Q. Roo",1.00
+384.00,30.00,191.00,"Chalahuites","E14-3","1:250,000",19.00,28.00,12.00,96.00,22.00,18.00,"ND","ND","ND","ND","ND",30.00,"ND","ND",1.00
+385.00,30.00,0.00,"Santa Luisa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+386.00,30.00,0.00,"San Lorenzo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+387.00,30.00,0.00,"Patarata","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+388.00,33.00,0.00,"Golfo de México","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+389.00,30.00,0.00,"Limoncito","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+390.00,14.00,0.00,"Palo Dulce","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","S del municipio de Atotonilco el Alto aproximadamente 70 Km al E (en línea resta) de la ciudad de Guadalajara, se localizo en el lecho del Arroyo Zula",1.00
+391.00,33.00,0.00,"Santa María Ixtapán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+392.00,33.00,0.00,"Tlaltenco I","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+393.00,21.00,0.00,"lecho del arroyo San Francisco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","a la altura de la 4 oriente",1.00
+394.00,21.00,0.00,"Tlapacoya","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+395.00,15.00,0.00,"Mixcoac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+396.00,33.00,0.00,"Valle de Puebla-Tlaxcala","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+397.00,15.00,0.00,"Palacio de Tetitla, Teotihuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Ojo, en la ref.356 (Starbuck, 1975), esta localidad se maneja como una unidad de análisis",1.00
+398.00,15.00,0.00,"Chiconautla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+399.00,21.00,0.00,"zócalo de Puebla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+400.00,9.00,0.00,"Cine Latino","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+403.00,19.00,0.00,"Rancho del Reparo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Cerca de Guajuco, y Guajuco está aprox. 10 leguas (lieues) SE Monterrey",1.00
+405.00,21.00,0.00,"esquina de la 3 Poniente y 5 Sur","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Edificio Barranco",1.00
+407.00,1.00,0.00,"Hacienda Ojocaliente","F13-D17","1:50,000",21.00,52.00,30.00,102.00,40.00,24.00,"ND","ND","ND","ND","ND",1690.00,"ND","ND",1.00
+408.00,1.00,0.00,"frente al Rancho La Trinidad","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+409.00,21.00,0.00,"calle 4 Poniente 306","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Edificio Matanzo",1.00
+410.00,1.00,0.00,"Barranca del Cedazo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 93 y 22",1.00
+411.00,1.00,0.00,"Pabellón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+412.00,1.00,0.00,"Ciudad de Aguascalientes","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+413.00,9.00,0.00,"Hacienda Aragón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+414.00,15.00,0.00,"Oztoyahualco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+415.00,15.00,92.00,"Santa María Coatlán","E14-B31","1:50,000",19.00,41.00,6.00,98.00,49.00,36.00,"ND","ND","ND","ND","ND",2290.00,"ND","ND",1.00
+416.00,15.00,0.00,"Xocotitla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+417.00,15.00,0.00,"Mezquititla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+418.00,15.00,0.00,"Tlailotlacan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+419.00,21.00,114.00,"Santa María Tecola (Valsequillo)","E14-5","1:250,000",18.00,54.00,18.00,98.00,11.00,30.00,"ND","ND","ND","ND","ND",2050.00,"ND","ND",1.00
+420.00,19.00,0.00,"Cantera de Guadalupe","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Pesqueiria Chica (10 leguas NE Monterrey)",1.00
+421.00,19.00,0.00,"Topo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de los manatiales sulfurosos de Topo (2 leguas de Monterrey",1.00
+422.00,15.00,0.00,"Yayahuala","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+423.00,15.00,0.00,"Tepantila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+424.00,15.00,0.00,"Teopancazco, Teotihuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+425.00,15.00,0.00,"Tlajinga 33, Teothihuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+426.00,15.00,0.00,"Tlachinolpan, Teotihuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+428.00,19.00,0.00,"Sur de Nuevo León","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Entre Montemorelos y Linares",1.00
+429.00,15.00,0.00,"Villa de Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+430.00,28.00,0.00,"Chocoy","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+431.00,15.00,0.00,"Huchichil","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+432.00,33.00,0.00,"Cerro del Tepalcate","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+434.00,30.00,0.00,"Acultzingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+435.00,33.00,0.00,"Baja California","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+436.00,19.00,33.00,"Linares","G14-C58","1:50,000",24.00,35.00,24.00,99.00,34.00,99.00,"ND","ND","ND","ND","ND",350.00,"ND","ND",1.00
+437.00,20.00,0.00,"30 km W del Rancho del Gramal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","30 Km W Rancho del Gramal en el km 668 Pan American highway al sur de Nejapan Villa",1.00
+438.00,5.00,0.00,"Buena Vista","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","2 leguas S Saltillo",1.00
+439.00,21.00,0.00,"Villa de Tatlauquitepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Ojo esta localidad está mal asociada por Mena de la Peña. debiese estar asociada a Mammuthus y no a Equus",1.00
+440.00,24.00,20.00,"Matehuala","F14-A25","1:50,000",23.00,28.00,44.00,100.00,38.00,37.00,"ND","ND","ND","ND","ND",1570.00,"ND","ND",1.00
+441.00,13.00,0.00,"Zacualtipan Villa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+442.00,33.00,0.00,"Noreste de México","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Menciona de manera general los estados de Tamaulipas, Veracruz, Nuevo León  y Coahuila",1.00
+443.00,2.00,0.00,"Baja California (Lower) it self","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+447.00,12.00,0.00,"Costa del Pacífico","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+448.00,6.00,0.00,"Estado de Colima","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+449.00,17.00,9.00,"Calamotlán, Sto. Domingo Ocotitlan","E14-A49","1:50,000",19.00,0.00,42.00,99.00,3.00,36.00,"ND","ND","ND","ND","ND",2050.00,"ND","ND",1.00
+450.00,9.00,0.00,"Plaza de Toros","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+451.00,33.00,0.00,"Valley of Bones","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+452.00,1.00,0.00,"Rancheria Parga, Arroyo San Francisco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Prob. sea igual a loc. 21",1.00
+453.00,3.00,0.00,"El Golfo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+454.00,9.00,0.00,"S. T. C. Metro","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+455.00,7.00,0.00,"Vega de Paso","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+456.00,7.00,0.00,"La Angostura","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+457.00,15.00,0.00,"S. T. C. Tultepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+458.00,9.00,0.00,"Chinampas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+459.00,11.00,20.00,"Ibarrilla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+460.00,9.00,0.00,"S. T. C. I F7 S1","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+461.00,9.00,0.00,"esquina NE de las calles Homero y Sudermann","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+462.00,9.00,0.00,"Barranca del Diablo, Chalpulualpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+463.00,9.00,0.00,"? Museo Nacional de Antropología, INAH","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+465.00,21.00,0.00,"Coulapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+466.00,9.00,0.00,"Colonia Los Cuartos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","margen boreal del Río Totolica, a 10m de distancia horizontal del cauce y unos 300m aguas de la presa del mismo nombre",1.00
+467.00,33.00,0.00,"Resumidero de 22 m de prof. en el tiro de una mina","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+468.00,33.00,0.00,"Fraccionamiento Ojo de Agua","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+469.00,22.00,0.00,"zona Arqueológica de Ranas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+470.00,22.00,0.00,"San Joaquín","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+471.00,29.00,0.00,"Cerro San Antonio","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+472.00,22.00,0.00,"La Ciudad","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+473.00,22.00,0.00,"Mina Escobilla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+474.00,22.00,0.00,"Mina Prieta","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+476.00,9.00,0.00,"Zacatenco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+477.00,33.00,0.00,"La Villita","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","la localidad esta entre los estados de  Guerrero y Michoacán",1.00
+478.00,21.00,0.00,"La Nopalera, Valsequillo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+479.00,24.00,50.00,"Villa de Reyes","F14-C14","1:50,000",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+480.00,9.00,0.00,"S. T. C. Metro Km 2 (Chapultepec)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+482.00,9.00,0.00,"Tlatelolco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+483.00,9.00,0.00,"Iztatlan?","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+484.00,33.00,0.00,"San Antonio El Pobre","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+487.00,15.00,0.00,"Centro de Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+488.00,26.00,0.00,"Estado de Sonora","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+489.00,33.00,0.00,"SE del Riego","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Tehuacán",1.00
+490.00,12.00,0.00,"Alcozaula","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+491.00,30.00,0.00,"Cerro de las Mesas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+492.00,15.00,0.00,"Carretera Teoloyucan-Huehuetoca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+493.00,15.00,0.00,"Santa Clara","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+494.00,9.00,0.00,"Av. Universidad, Banco de Comercio","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+495.00,23.00,0.00,"Kohunlich","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+496.00,17.00,0.00,"Km 28 camino Cuernavaca-Amacuzac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+497.00,11.00,0.00,"Rancho del Tlacuache","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+498.00,11.00,0.00,"Valle de la Piedad","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+499.00,7.00,0.00,"Trinitaria","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","trabajos arqueológicos en la sección de máquinas electronicas, MNA",1.00
+500.00,8.00,0.00,"Las Cuarenta Casas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+501.00,4.00,0.00,"San Joaquín","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+502.00,14.00,0.00,"Tomatlán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+503.00,9.00,0.00,"Ex-convento de San Jerónimo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+505.00,22.00,0.00,"La Negreta","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+506.00,29.00,0.00,"Cueva de Pilancón","E14-B24","1:50,000",19.00,30.00,6.00,97.00,54.00,24.00,"ND","ND","ND","ND","ND",3020.00,"ND","ND",1.00
+507.00,12.00,0.00,"Petatlán","ND","ND",17.00,32.00,99.00,101.00,16.00,99.00,"ND","ND","ND","ND","ND",40.00,"ND","ND",1.00
+508.00,15.00,0.00,"San Pedro Totoltepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 752: en el canal del patio de la fábrica en construcción ""Cierres Ideal de México"", en carreteraMexico-Toluca tomar lateral hasta entronque de Sn. Pedro Toltepec, seguir 1.5 Km.",1.00
+509.00,13.00,0.00,"Tepeapulco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+510.00,21.00,0.00,"Calpulalpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+511.00,15.00,0.00,"San Pablo Tecalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+512.00,30.00,0.00,"Cuauhtochco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+513.00,13.00,0.00,"Tlaxcoapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+514.00,29.00,0.00,"Tizatlan y Totolac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+515.00,20.00,0.00,"Sayultepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+516.00,29.00,0.00,"Hueyotlipan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+517.00,3.00,0.00,"Pichilingue","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+518.00,12.00,0.00,"Santiago Temixco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+519.00,14.00,0.00,"Balneario Rosa Azul, Jocotitlán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+520.00,10.00,0.00,"Santa María del Oro","ND","1:50,000",25.00,57.00,99.00,105.00,22.00,99.00,"ND","ND","ND","ND","ND",1700.00,"ND","Manzana 32, Arroyo del Agua Buena, Barrio del Llano",1.00
+521.00,12.00,0.00,"Tetitlan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Sitio CC-1 (¿con acento?)",1.00
+522.00,7.00,0.00,"Col. Francisco R. Serrano (El Burrero)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+523.00,31.00,0.00,"Ixil","ND","ND",21.00,9.00,99.00,89.00,29.00,99.00,"ND","ND","ND","ND","ND",10.00,"ND","ND",1.00
+524.00,7.00,0.00,"Fogótico (pozo 3)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+525.00,23.00,0.00,"Cobá","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+526.00,5.00,0.00,"Laguna de Viesca, ojo grande de Bilbao (O2)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+527.00,5.00,0.00,"Laguna de Viesca, Ojo de Lourdes (O1)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+528.00,12.00,0.00,"Patuichan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+530.00,15.00,0.00,"Barranca cerca de S. Antonio Miltepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+531.00,14.00,0.00,"Tomatlán 28 (Nahuapa II)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+532.00,9.00,0.00,"Calzada Sta. Ana 1000","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+533.00,20.00,0.00,"Coixtlahuaca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+534.00,9.00,0.00,"San Jose Tepenené","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+535.00,9.00,0.00,"Cuicuilco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+536.00,21.00,0.00,"Sta. Catarina, Cholula","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+537.00,7.00,65.00,"Palenque","ND","1:50,000",17.00,31.00,99.00,91.00,59.00,99.00,"ND","ND","ND","ND","ND",60.00,"ND","ND",1.00
+539.00,7.00,0.00,"Corral de Piedra","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+540.00,7.00,0.00,"Yaxchilán","ND","ND",16.00,54.00,99.00,91.00,0.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+541.00,11.00,0.00,"Cerro de la Mesa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+542.00,27.00,1.00,"Arroyo Concha","E15-9","1:250,000",17.00,43.00,6.00,91.00,41.00,42.00,"ND","ND","ND","ND","ND",20.00,"ND","ND",1.00
+545.00,21.00,0.00,"Reserva de Valsequillo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+546.00,13.00,0.00,"Estado de Hidalgo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+549.00,33.00,0.00,"Vaso de la Presa El Infiernillo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+550.00,15.00,0.00,"Cerro Huatepeque","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+552.00,17.00,0.00,"Las Pilas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+553.00,26.00,0.00,"Huatabampo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+554.00,15.00,0.00,"Tequizquiac (localidad exacta desconocida)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 3 (del Edo. de Méx.)",1.00
+556.00,15.00,0.00,"San Juan Evangelista","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+557.00,9.00,0.00,"Casa del Conde de Heras y Soto","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+558.00,33.00,0.00,"(México central)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+559.00,26.00,0.00,"El Ranchito","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+560.00,5.00,0.00,"Los Llanos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+561.00,10.00,0.00,"Municipio de Cuencame","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+562.00,10.00,0.00,"Presa Francisco Zarco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+563.00,4.00,0.00,"Calakmul","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+564.00,30.00,0.00,"Centro de Veracruz","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+565.00,20.00,293.00,"Etla","ND","1:50,000",17.00,9.00,99.00,96.00,46.00,99.00,"ND","ND","ND","ND","ND",1630.00,"ND","ND",1.00
+566.00,7.00,0.00,"Lacamtún","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+567.00,15.00,0.00,"Barrio Ebanísta, Chimalhuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+568.00,16.00,0.00,"Cerro del Pino","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Ladera baja del Cerro del Pino, hacia la barranca las Palmas",1.00
+569.00,8.00,0.00,"Anáhuac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+570.00,15.00,0.00,"Ecatepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+571.00,9.00,0.00,"Santa Martha Acatitla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en la esquina entre calles las calles Francisco Manriquez y Emilio Madero, en la acera de esta ultima, col. Santa Martha acatitla, Del. Iztapalapa; ref. 864: entre las calles de Lucío Blanco y Francisco Manrique, de la colonia Sta. Martha Acatitla Sur",1.00
+572.00,26.00,0.00,"Papaguería","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Noroeste del estado",1.00
+573.00,16.00,0.00,"Santa Casilda","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+574.00,16.00,0.00,"Huandacareo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Cuenca de Cuitzeo",1.00
+575.00,3.00,0.00,"Arroyo del Parral, Sierra de San Francisco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+576.00,9.00,0.00,"Xochimilco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+577.00,17.00,0.00,"Cerritos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+578.00,16.00,0.00,"Tzintzuntzan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+579.00,18.00,0.00,"San Blas, en las faldas del Cerro La Contaduría","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+580.00,15.00,0.00,"San Francisco Mazapa, cueva 5, grupo III","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+581.00,15.00,0.00,"San Francisco Mazapa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+583.00,15.00,0.00,"hombre de Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+584.00,7.00,0.00,"Lobol","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+585.00,13.00,0.00,"Tepetitlán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+586.00,26.00,0.00,"Opataría","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Noreste del estado",1.00
+587.00,26.00,22.00,"Cucurpe","ND","1:50,000",30.00,20.00,99.00,110.00,42.00,99.00,"ND","ND","ND","ND","ND",860.00,"ND","cerca de Cucurpe, sobre el río San Miguel, en la porción central del estado; sitio G:10:2",1.00
+588.00,17.00,0.00,"La Nopalera","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+589.00,11.00,0.00,"Morales","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+590.00,9.00,0.00,"Terremote-Tlaltenco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 852: S de la Cuenca de México, el asentamiento en un islote cercano a la ribera del antiguo lago Chalco-Xochimilco; ref. 863: al poniente de Tlapacoya",1.00
+591.00,30.00,0.00,"Mixtequilla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+592.00,16.00,0.00,"Tres Cerritos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+593.00,4.00,0.00,"Edificio de los Cinco Pisos, Edzná","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+594.00,7.00,0.00,"El Limonal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+595.00,13.00,0.00,"Huapalcalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en el valle de Tulancingo",1.00
+596.00,9.00,0.00,"Guatemala # 90","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+597.00,15.00,0.00,"Unidad Habitacional Potrero La Laguna","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 856 y 857: la localidad la cita como Coacalco (verificar que se ha asignado bien el nombre de la localidad)",1.00
+598.00,23.00,0.00,"Xcaret","ND","ND",20.00,36.00,99.00,87.00,6.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+599.00,17.00,0.00,"Xochicalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+600.00,13.00,0.00,"Bomentzab","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+601.00,31.00,0.00,"Gruta ""Flor de Mayo""","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+602.00,15.00,0.00,"Chalco (Ch-Az-172, montículo 65)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+603.00,8.00,0.00,"Los Moctezumas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+604.00,12.00,0.00,"Chilpancingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Colonia Temixco II",1.00
+605.00,17.00,26.00,"Cueva de Chimalacatepec","E14-A79","1:50,000",18.00,27.00,42.00,99.00,5.00,30.00,"ND","ND","ND","ND","ND",1000.00,"ND","ND",1.00
+606.00,18.00,8.00,"El Pantanal","ND","ND",21.00,25.00,99.00,104.00,50.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","14 Km SE de la ciudad de Tepic, siguiendo la carretera Federal No. 15 hacia Guadalajara y tomando la desviación que se encuentra a la altura de la pobalción de San Cayetano con rumbo al Aeropuerto de Tepic",1.00
+607.00,7.00,0.00,"Don Martín","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+609.00,21.00,0.00,"Valle de Tehuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+610.00,12.00,0.00,"San Luis La Loma","ND","ND",17.00,15.00,58.00,100.00,53.00,42.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+611.00,15.00,0.00,"Frente 2, Teotihuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+612.00,32.00,23.00,"Las Ventanas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+613.00,9.00,0.00,"El Japón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+614.00,15.00,0.00,"Templo de Quetzalcóatl, Teotihuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+616.00,21.00,0.00,"Tehuacán Viejo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+618.00,15.00,0.00,"Tlalpizáhuac","ND","ND",19.00,19.00,20.00,98.00,56.00,30.00,"ND","ND","ND","ND","ND",9999.00,"ND","Altitud 2245 y 2280 msnm",1.00
+620.00,33.00,0.00,"Punta San José","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+623.00,8.00,0.00,"Barranca de Busuchil (Basuchil)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Cd, Guerrero",1.00
+624.00,8.00,0.00,"cerca de Cd. Juárez","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+625.00,5.00,0.00,"Monclova","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+626.00,5.00,0.00,"Rancho El Corte","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","al N de la capital",1.00
+629.00,9.00,0.00,"Ladrillera La Moderna","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+630.00,9.00,0.00,"Colonia Vallejo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+631.00,9.00,0.00,"Convento de San Diego","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+634.00,9.00,0.00,"Atzacoalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+635.00,9.00,0.00,"San Jerónimo y El Beltrán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+638.00,15.00,0.00,"area de Zumpango de Ocampo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+639.00,15.00,0.00,"Colonia México","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","NE de la colonia México, al S volcán Cerro de Chiconautla, a poca distancia de su falda",1.00
+645.00,15.00,0.00,"area de localidades de Chimalhuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+646.00,15.00,0.00,"Tzocuilco del Barrio de San Juan Xochitengo","ND","ND",19.00,25.00,99.00,98.00,56.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","N del cerro de Chimalhuacán",1.00
+647.00,15.00,0.00,"Ejido Chimalhuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+648.00,15.00,0.00,"San Miguel Tecamachalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+650.00,15.00,0.00,"Km 16.5, carretera México-Puebla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+651.00,15.00,0.00,"aprox. Km 50 carretera México-Toluca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","acueducto del Lerma en el Km 11 a partir del Almolaya (sic.) del Río y aproximadamente a 4 Km de Amomolulco",1.00
+653.00,15.00,0.00,"Ixtapantongo (de Coatzingo?)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+655.00,15.00,0.00,"Paraje Las Parotas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","15 Km W Tlataya, Dto. Quetepec",1.00
+656.00,15.00,0.00,"Ciudad Sátelite","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+657.00,15.00,0.00,"Ranchería Almoloya","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","unweit Ocoyoacas in dein Thale von Toluca, Edo. Mex.",1.00
+658.00,15.00,0.00,"Totolcingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",2264.00,"ND","entre las cotas de nivel 2263 y 2265; cerca de 1 mi Totolzingo",1.00
+659.00,12.00,0.00,"Nanacatla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+660.00,11.00,0.00,"León","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+661.00,11.00,33.00,"San Luis de la Paz","F14-C35","1:50,000",21.00,17.00,48.00,100.00,30.00,36.00,"ND","ND","ND","ND","ND",2020.00,"ND","junto al ojo de agua",1.00
+664.00,13.00,0.00,"Rancho de San Simón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Real del Monte",1.00
+665.00,13.00,0.00,"Atotonilco El Grande","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+666.00,13.00,0.00,"Pachuca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+669.00,14.00,0.00,"Centro Turístico Roca Azul, Jocotepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","aprox. 2 Km SE Jocotepec; 2 Km Jocotepec",1.00
+672.00,14.00,0.00,"Ejutla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","distrito de Acatlán de la Grande",1.00
+673.00,16.00,0.00,"Ario de Rayón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+674.00,10.00,0.00,"Santa Gertrudis","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+676.00,14.00,0.00,"rechte Unterkieferast wierde von unde-","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","-im staat Michoacan gesamment",1.00
+677.00,17.00,0.00,"Palpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+679.00,20.00,0.00,"Cosoltepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+680.00,20.00,0.00,"Huajuapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+682.00,20.00,0.00,"Tlaxiaco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+683.00,20.00,0.00,"Tehuantepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Tehuantepec",1.00
+686.00,20.00,0.00,"Rio Colorado en San Miguel Marcos Pérez","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","sobre el Rio Colorado, 300-500 m N-NW San Miguel Marcos Pérez, Distrito de Teposcolula; ref. 488 la menciona como 2 localidades diferentes, una a 300 y otra a 500",1.00
+687.00,20.00,0.00,"Tepelmeme","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Tamazulapan","ND","ND",9999.00,"ND","aprox. 25 Km al N-NE Tamazulapan",1.00
+688.00,21.00,0.00,"San Pedro Candelaria","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Cd. Serdan",1.00
+690.00,21.00,0.00,"area de localidades de Valsequillo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+692.00,21.00,0.00,"Huayatlaco","ND","ND",18.00,56.00,99.00,98.00,11.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","a 5.5 km S Totimehuacan. A la orilla de la presa de Valsequillo",1.00
+693.00,21.00,0.00,"San Antonio Arenillas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Valsequillo; ref. original 730 (Guenther, 1968) no especifica claramente el estado; se suió a Barrios (1985;ref.548) para asignar la localidad en Puebla",1.00
+694.00,21.00,0.00,"Puente de Atepetzingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+695.00,21.00,0.00,"Barranca Caulapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Verificar en ref 730 que sea efectivamente estado de Puebla. ref 724 (Guenther, 1967) localidades en mapa",1.00
+696.00,21.00,0.00,"San Baltazar Tetela","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+697.00,21.00,114.00,"San Francisco Totimehuacan","E14-5","1:250,000",18.00,51.00,54.00,98.00,10.00,54.00,"ND","ND","ND","ND","ND",2060.00,"ND","ND",1.00
+698.00,21.00,0.00,"El Cerro del Oire","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+699.00,30.00,121.00,"Hacienda de Tamontao","F14-9","1:250,000",21.00,28.00,99.00,97.00,50.00,99.00,"ND","ND","ND","ND","ND",25.00,"ND","N sierra de Otontepec, zona faja de Oro, margen izquierdo del arroyo principal al N, a unos 4 Km del casco abandonado de la Hacienda Pitahaya",1.00
+700.00,24.00,22.00,"Brechas coloradas","F14-A53","1:50,000",22.00,45.00,43.00,101.00,3.00,35.00,"ND","ND","ND","ND","ND",1700.00,"ND","ND",1.00
+701.00,24.00,0.00,"Hacienda de La Tinaja","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","35 Km N-NE Cd. San Luis Potosí",1.00
+704.00,28.00,0.00,"El Salitrillo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Villa Xicotencatl","5 Km N","ND",9999.00,"ND","aprox. 5 Km N Villa Xicotencatl",1.00
+705.00,29.00,0.00,"Atlihuetzia","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Cd. Tlaxcala","ND","ND",9999.00,"ND","aprox. 12 Km Cd. Tlaxcala",1.00
+706.00,29.00,0.00,"Real del Monte","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+707.00,30.00,0.00,"Tlilapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Orizaba, Veracruz",1.00
+708.00,32.00,0.00,"Laguna del Salitre","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","S de la Laguna del Salitre, Mpio. de Villa Hidalgo, en una noria de 16 m de profundidad, Dto. de Pinos, Zac.",1.00
+709.00,32.00,0.00,"Distrito de Pinos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+711.00,33.00,0.00,"Tecota","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+713.00,14.00,0.00,"Colotlan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Guadalajara","180 Km SW","ND",9999.00,"ND","180 Km SW Guadalajara",1.00
+714.00,13.00,0.00,"Tula","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+716.00,14.00,0.00,"Tecolatlan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+717.00,9.00,0.00,"San Francisco Xocotitla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+719.00,28.00,2.00,"Aldama","F14-B53","1:50,000",22.00,55.00,6.00,98.00,4.00,24.00,"ND","ND","ND","ND","ND",130.00,"ND","ND",1.00
+720.00,15.00,0.00,"Tlapacoya III","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+721.00,21.00,0.00,"Rio Axamilpa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","S del estado de Puebla",1.00
+722.00,15.00,0.00,"Cueva del Pirul","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+723.00,13.00,0.00,"antigua ciudad de Tula","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+725.00,23.00,0.00,"Tulum","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+727.00,11.00,0.00,"Acámbaro","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+728.00,17.00,0.00,"Coatetelco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+729.00,30.00,0.00,"Rancho El Retiro, Orizaba","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+730.00,14.00,0.00,"Región Valle de Atotonilco, Zacoalco y Sayula","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+731.00,16.00,0.00,"Acambay","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+732.00,22.00,0.00,"Vizarrón (Sierra Gorda)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+733.00,9.00,0.00,"estación Tezozomoc","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+734.00,9.00,0.00,"Ticomán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+735.00,19.00,0.00,"Cd. Anáhuac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+736.00,5.00,0.00,"Nadadores","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+737.00,14.00,0.00,"Atotonilco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","González-Quintanilla dice que hay mamut en Atotonilco: verificar que no se trate de una abreviación para Atotonilco El Bajo.",1.00
+738.00,19.00,0.00,"Los Ramones","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+739.00,19.00,0.00,"General Bravo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+740.00,19.00,14.00,"Dr. Arroyo","F14-A26","1:50,000",23.00,40.00,24.00,100.00,10.00,48.00,"ND","ND","ND","ND","ND",1720.00,"ND","ND",1.00
+741.00,19.00,0.00,"China","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+742.00,19.00,0.00,"Monterrey","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Fábrica Nacional de Autómoviles S. A.; N de la ciudad de Monterrey, aprox. 14 Km en el Km 6 de carretera a Colombia, en Gral. Escobedo, Nuevo León",1.00
+743.00,19.00,0.00,"Sabinas Hidalgo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+744.00,19.00,29.00,"Hualahuises","G14-C57","1:50,000",24.00,52.00,54.00,99.00,40.00,18.00,"ND","ND","ND","ND","ND",1960.00,"ND","ND",1.00
+745.00,19.00,0.00,"San Nicolás de los Garza","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+749.00,9.00,0.00,"Calzada de Tlapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+750.00,9.00,0.00,"Batán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+751.00,9.00,0.00,"San Jerónimo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+753.00,15.00,0.00,"Chapingo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+754.00,15.00,0.00,"Totolcingo y Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+756.00,15.00,0.00,"cerca de Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+757.00,19.00,0.00,"Nuevo Leon","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+760.00,10.00,0.00,"Cruces","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en el Valle Guadiana, a 6200 pies de Alt, está al este de la Laguna de Santiaguillo",1.00
+763.00,9.00,0.00,"Distrito Federal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+764.00,5.00,0.00,"Cueva Frightful","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","situada en Cuatro Ciénegas",1.00
+766.00,33.00,0.00,"Tlapacoya","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 2 (Edo. Mex.) y 394 (del edo. de Puebla)",1.00
+770.00,15.00,0.00,"cerca de Iztápan en la región de Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Verificar que sea Santa Isabel Iztapan I",1.00
+771.00,28.00,0.00,"Bancos del Río Panuco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+775.00,21.00,0.00,"El Horno, Tetela","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",2040.00,"ND","ND",1.00
+782.00,26.00,0.00,"Arroyo Chinobampo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 417, 846 y 847: a 25 Km del SE de Navojoa, Son.",1.00
+783.00,15.00,7.00,"Rincon de Guadalupe","E14-A37","1:50,000",19.00,16.00,12.00,99.00,59.00,42.00,"ND","ND","ND","ND","ND",2420.00,"ND","cercano a Amanalco de Becerra",1.00
+784.00,26.00,0.00,"Punta Blanca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Guaymas, Sonora",1.00
+785.00,33.00,0.00,"Villa de San Joaquin","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","parte central de la Peninsula de Baja California",1.00
+786.00,8.00,0.00,"La Mota, Samalayuca","G13-B4","1:50,000",27.00,6.00,22.80,104.00,53.00,54.00,"ND","ND","ND","ND","ND",9999.00,"ND","corta distancia sur del paso",1.00
+787.00,28.00,0.00,"Arroyo Chorreras","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 844: corte del terreno en Arroyo Chorreras, a mitad de la carretera de Ciudad Victoria a Brownsville; ref. 846: margen izquierdo del Arroyo adelante de Encinal a la mitad de la carretera Ciudad Victoria-Matamoros",1.00
+789.00,28.00,0.00,"Arroyo Salinillas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en el area ahora inundada por el dique (presa) de Falcon, al N de Tamaulipas; cercano al rancho ""El cabaret"", aprox. 10 Km NO del punto exacto, sobre el Bravo donde quedará el centro de la cortina de la presa",1.00
+795.00,15.00,0.00,"cerca de Huehuetoca","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","donde inicia tajo de Nochistongo",1.00
+796.00,15.00,0.00,"bajo sedimento de Lago de Texcoco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+797.00,15.00,0.00,"cercanías de Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+798.00,10.00,0.00,"Sierra de la Misericordia","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+799.00,5.00,0.00,"Cañon de la Fragua","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+800.00,5.00,33.00,"Puerto Ventanillas","G13-B87","1:50,000",26.00,1.00,46.00,102.00,44.00,10.00,"ND","ND","ND","ND","ND",1090.00,"ND","ND",1.00
+801.00,8.00,0.00,"Desierto de Chihuahua","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+803.00,33.00,0.00,"Iztapan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","verificar que no sea la misma a la loc. 257 (del Edo. de Méx.)",1.00
+804.00,21.00,0.00,"fase ajuereado del Valle de Tehuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+805.00,32.00,0.00,"Valle del Río Juchipila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+806.00,11.00,0.00,"Cañada de Marfil","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+808.00,21.00,0.00,"Río Valle Atoyac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+809.00,13.00,0.00,"Ventoquipa","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-9",1.00
+810.00,33.00,0.00,"Xilotepec","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Ver que no sea la misma loc que Jilotepec, Edo Méx (ID 174)",1.00
+811.00,24.00,0.00,"Mina de San Antonio","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+813.00,15.00,0.00,"Tlapacoya I","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 774: cerrro de Tlaplacoya al S de la Sierra del Pino al SE de la cuenca de México",1.00
+814.00,33.00,0.00,"Tlapacoya (T1 XVIII)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+815.00,33.00,0.00,"El Risco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca de Atzacoalco en la autopista a Pachuca. no muy lejos de los límites del Distrito Federal, ref. 736: unos 12 Km NNW de la ciudad de México. Ref. 766: Ojo podría tratarse del nombre del estrato.",1.00
+822.00,31.00,0.00,"Cueva Chekt-a-leh","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+823.00,31.00,0.00,"Actun Sayab","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","cerca Opichen",1.00
+825.00,31.00,0.00,"Actun Jih","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en los cerros alrededor de 3 Km de la plaza de Ticul",1.00
+827.00,13.00,0.00,"La Pinta de Vaquerías","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","20 Km NW del área de Santa María Amajac a 8Km S de la ciudad Metztitlán, en la Rancheria de Agua Bendita y 2Km al E del arroyo del muerto, la localidad esta situada en el cause del rio",1.00
+828.00,31.00,0.00,"Actun Oxkintok","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","450 m de una de las ruinas de un templo del viejo imperio Maya, sitio Oxkintok",1.00
+829.00,31.00,0.00,"Actun Xkyc","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","Hacienda Calcehtok","ND","ND",9999.00,"ND","aprox. 2 Km Hacienda Calcehtok",1.00
+830.00,33.00,0.00,"cerca de Isidro","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","sobre la carretera a Puebla",1.00
+831.00,10.00,0.00,"Las Cruces","ND","ND",25.00,3.00,12.00,105.00,25.00,99.00,"ND","ND","ND","ND","ND",2000.00,"ND","9.7 Km NO por carretera pavimentada que comunica a Santiago Papasquiaro con Tepehuanes, en el paraje conocido como Las Cruces",1.00
+832.00,22.00,10.00,"Landa de Matamoros","ND","ND",21.00,10.00,54.00,99.00,19.00,12.00,"ND","ND","ND","ND","ND",1040.00,"ND","ND",1.00
+835.00,15.00,0.00,"Colonia El Capulín (ampliación Olimpica)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 835: esquina en las calles Jesus Castillo y Luis Estrada.",1.00
+839.00,10.00,0.00,"Roma","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en las orillas de la carretera pavimentada Mapimi-Bermejillo a 14 Km de la cabecera municipal",1.00
+840.00,9.00,0.00,"estación Tacubaya, línea 9 del metro","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+842.00,9.00,2.00,"Santamaría Malinalco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en la delegación Azcapotzalco, en la calle de Santa María no. 181. La guía roji reconoce únicamente al pueblo de Santa María Maninalco en la delegación Azcapotzalco: verificar ortografía del informe.",1.00
+843.00,28.00,0.00,"La Laguna de Chairel","F14-B74","1:50,000",22.00,16.00,18.00,97.00,57.00,54.00,"ND","ND","ND","ND","ND",10.00,"ND","en el area de un parque en la construcción de la calle Aparicio s/n, al N del centro del puerto",1.00
+850.00,15.00,0.00,"cantera vieja de Tequixquiac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+851.00,15.00,0.00,"Tepexpan (SE del Hospital)","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+852.00,5.00,0.00,"Cueva de La Candelaria","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 850: El Valle de las Delicias se halla hacia el SW de Coahuila y la cuenca se encuentra en la ladera N del extremo septentrional de la pequeña sierra de la Candelaria al S del mismo valle",1.00
+854.00,5.00,0.00,"cerca de la Cueva Frightful","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+855.00,28.00,0.00,"Ciudad Guerrero","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","Es probable que se trate de la localidad de Arroyo Salinillas",1.00
+856.00,8.00,0.00,"Borjas I","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","desviación al rancho de Borjas se encuentra a 5 Km de la carretera Cd. Guerreo-Chihuahua, aprox. a 500 m de esta se localiza el rancho",1.00
+857.00,8.00,0.00,"Borjas II","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","desviación al rancho de Borjas se encuentra a 5 Km de la carretera Cd. Guerreo-Chihuahua, aprox. a 500 m de esta se localiza el rancho",1.00
+858.00,8.00,0.00,"Ranchería El Torreón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en las inmediaciones de la ranchería, cerca de ciudad Guerrero",1.00
+860.00,5.00,0.00,"Cueva de la Paila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","la cueva está en el Arroyo del Muerto, de 48 a 50 Km al N de Parras, en línea recta al E-SE de la cueva La Candelaria, en el Bolsón de las Delicias",1.00
+861.00,9.00,0.00,"Línea 6 del Sistema de Transporte Colectivo metro","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","En la vía rápida de Lázaro Cardenas (antes Av. Parque vía) a la altura de la calle Puente de Guerra, frente a la unidad habitacional del Rosario; los restos de caballo a pocos metros y en capas superiores de los restos al norte del mamut",1.00
+863.00,15.00,0.00,"Tepexpan-Hospital Dr. Adolfo M. Nieto","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","se encuentra en el extremo occidental de la población Tepexpan, sobre la esquina noroeste del cruce formado por la carretera federal México-San Martín de las Pirámides y el acceso a la caseta de cuota de Tepexpan de la autopista México-Pirámides",1.00
+864.00,15.00,0.00,"Tepexpan-SE del Museo de Prehistoria de Tepexpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en terrenos del Hospital de enfermos incurables",1.00
+868.00,9.00,0.00,"Inguaran línea 4 norte","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","NE del centro de la ciudad de México, sobre la Av. Inguaran entre las calles oriente 171 y Av. Talisman, bajo la zona del trabajo de la construcción del metro",1.00
+869.00,24.00,0.00,"Altamirano (Hv-24)","ND","ND",22.00,4.00,12.00,98.00,25.00,24.00,"ND","ND","ND","ND","ND",13.00,"ND","el asentamiento se localiza en la margen izquierda del río Panuco, área que ahora pertenece a la zona de riego de Pujal-Coy 1a fase; pertenece al ejido Flavio Altamirano. Para la ubicación corresta se siguió a Merino y García Cook, 1881: Informe 23-10",1.00
+872.00,31.00,0.00,"Actun Xmak","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","4 millas NW de la hacienda Yokat",1.00
+875.00,31.00,0.00,"Cueva Chumul","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+876.00,31.00,0.00,"Cueva Sabaka","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+877.00,31.00,0.00,"Cueva Tiplamas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+879.00,13.00,0.00,"Santa Cruz de Amajac","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-12, 3 Km NW de la localidad La Curva (se encuentra 1 Km al este del poblado de Santa María Amajac)",1.00
+880.00,13.00,0.00,"La Moneda","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-14, 8 Km SE de Santórum, 3 Km al S del camino de terracería que conduce a este poblado",1.00
+881.00,13.00,0.00,"La Concepción","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-24, 8 Km NW de Pachuca, por la carretera que va de esta ciudad Actopan",1.00
+882.00,13.00,0.00,"Arroyo Tejocote","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-5, 17 Km S de la ciudad de Tula, por la carretera que una esta ciudad con la población de Jorobas, 2 Km a SE del poblado de Conejos, en donde está ubicado del arroyo Tecolotes con dirección NW-SE",1.00
+883.00,13.00,0.00,"La Cementera","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-3, 2 Km W de la cementera La Tolteca",1.00
+884.00,13.00,0.00,"Puerta de las Lajas","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-16, 2 Km W de la localidad La Moneda (se ubica 8 Km al SE de Santórum al sur del camino de terraceria que conduce a este pobaldo",1.00
+885.00,13.00,0.00,"Epazoyucan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-23, 20 Km SE de la ciudad de Pachuca, por la carretera vieja que va a Tulancingo. La zona fosilífera se encuentra siguiendo la desviación de la carretera principal 1 Km antes de llegar al poblado de Epazuyacan",1.00
+886.00,13.00,0.00,"El Frontón","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-15, 3 Km S del poblado El Sauz Xhaté, a un costado del camino de terracería",1.00
+888.00,13.00,0.00,"Minas Anaya","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-21, 15 Km NW de la ciudad de Actopan, aprx. 8 Km al NW del poblado de Lagunilla y 1 Km al NE de Santiago Anaya en el municipio del mismo nombre",1.00
+889.00,13.00,0.00,"Lagunilla","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-7, 12 Km NW de la ciudad de Actopan, 2 Km al NW del poblado de Lagunilla, por el camino de terraceria que va hacia Santiago de Anaya",1.00
+890.00,13.00,0.00,"Dos Cerritos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-6, 8 Km S de la ciudad de Actopan, 1 Km antes de llegar a la ciudad de Actopan, hacia el SE existe una desviación que conduce a la hacienda Chicavasco, se continua por esta carretera y 2 Km antes de llegar a la hacienda",1.00
+891.00,13.00,0.00,"Chicavasco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 793: clave H60-8, 3 Km S de la localidad Dos cerritos, se encuentra a 8 Km al S de cuidad Actopan, por el camino de terraceria que conduce al poblado de Chivasco",1.00
+892.00,28.00,0.00,"Margen del Río Carrizal","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+893.00,17.00,0.00,"Estado de Morelos","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+894.00,28.00,0.00,"Valle de los Mamuts, en Xicoténcatl","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+895.00,28.00,37.00,"San José de las Rusias","F14-B23","1:50,000",23.00,33.00,36.00,98.00,2.00,36.00,"ND","ND","ND","ND","ND",40.00,"ND","ND",1.00
+897.00,12.00,0.00,"Estado de Guerrero","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+900.00,21.00,0.00,"Coxcatlan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","SW del edo. de Puebla, cerca de la villa de San Rafael y cerca de 7 Km SE del pueblo de Coaxcatlan en la qutopista Teotilan del camino",1.00
+901.00,33.00,0.00,"finca Quinta del Altillo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","situada en la orilla N de la región volcanica llamada ""EL Pedregal"", la cual se extiende al SW del Valle de México",1.00
+906.00,16.00,107.00,"Loma Alta, Zacapú","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+907.00,21.00,0.00,"Cueva Coxcatlán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ref. 860: 10 Km SE de Coxcatlán, Puebla y 5 Km al E de la carretera y del rancho Guadalupe de la victoria; está al pie de una barranca, al N de un cerro llamado ""Ajuereados""",1.00
+908.00,3.00,0.00,"Rancho El Mezquital","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","1 Km al SW de San Joaquín que a su vez está 13 Km S de San Ignacio, Delegación de Santa Rosalía",1.00
+909.00,32.00,0.00,"Osario de la Quemada","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","el osario se halló en el rincón formado por dos banquetas de 12 a 14 m de altura, al norte de ""Cuartel de Armillas"" con vista al suroriente",1.00
+910.00,16.00,107.00,"Guadalupe, Zacapú","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+911.00,15.00,0.00,"Nextlalpan","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","N del estado",1.00
+912.00,15.00,0.00,"barrio de San Pedro Miltenco","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en el esctremo sureste de la población de Nextlalpan",1.00
+914.00,16.00,0.00,"junto a ""Punta de las Candelas""","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","aprox. 4 Km al N-NE de Cojumatlán, en el ejido del ""Puerto del León""",1.00
+918.00,25.00,10.00,"El Fuerte","ND","1:50,000",26.00,25.00,99.00,108.00,37.00,99.00,"ND","ND","ND","ND","ND",80.00,"ND","se localizaron en varios puntos a lo largo del canal de conexión entre las Presas Miguel Hidalgo y Costilla y Josefina Ortiz de Domínguez",1.00
+919.00,16.00,0.00,"area de Cuitzeo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","N del poblado de Ciutzeo a 2 Km de éste y a 2.5 Km aprox. al oriente de la carretera que comunica con el poblado de Noroléon, Guanajuato",1.00
+920.00,16.00,0.00,"ribera S del lago de Cuitzeo","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00
+921.00,16.00,0.00,"Santa Ana María","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","N de la laguna de Cuitzeo",1.00
+922.00,15.00,0.00,"Tocuila","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","en cercanías de Tezcoco, en el patio interior de una casa habitación anexa a una tienda de abarrotes llamada La Lupita, situada en la calle Emiliano Zapata No. 51 del poblado de Tocuila",1.00
+923.00,15.00,0.00,"Ventanilla frente 3, Teotihuacán","ND","ND",999.00,99.00,99.00,999.00,99.00,99.00,"ND","ND","ND","ND","ND",9999.00,"ND","ND",1.00

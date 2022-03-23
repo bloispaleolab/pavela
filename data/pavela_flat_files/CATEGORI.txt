@@ -1,0 +1,11 @@
+"IdCategoriaTaxonomica","NombreCategoriaTaxonomica","Nivel"
+1.00,"reino",1.00
+5.00,"clase",3.00
+8.00,"orden",4.00
+11.00,"familia",5.00
+12.00,"subfamilia",5.30
+15.00,"género",6.00
+21.00,"especie",7.00
+27.00,"phyLum",2.00
+30.00,"tribu",5.50
+31.00,"Suborden",4.30
