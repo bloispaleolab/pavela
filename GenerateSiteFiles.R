@@ -8,11 +8,12 @@ library(measurements)
 path.to.google <- "/Volumes/GoogleDrive/My Drive/Neotoma Overall/Neotoma Vertebrates/Data/2. In progress/PaVeLA/PaVeLA-working/PaVeLA upload/"
 
 # Read in the primary Sites file ----
+
+# Create file for Site metadata tab ----
 # WARNING: will need to regenerate LOCALIDA file with updated information
 sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fileEncoding="UTF-8")
 
-# Create file for Site metadata tab ----
-    # Note: will create and save a single dataframe first, then export individual ones to each locality folder
+# Note: will create and save a single dataframe first, then export individual ones to each locality folder
     
     alternate <- read.delim('data/pavela_flat_files/NOMBRE ALTERNATIVO LOCALIDAD.txt', header=T, sep=",", fileEncoding="UTF-8") 
     
@@ -157,7 +158,9 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
 
 
 # Create file for Collection unit metadata tab and Deposit Analysis Units ----
-
+    sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fileEncoding="UTF-8")
+    sites_n <- read.delim(file = paste0(path.to.google, "Site files/SITES_in_neotoma_format.txt"), header=T, sep="\t")
+    
     # Read in relevant files (in addition to primary 'sites' file on line 11)
     deposit <- read.delim('data/pavela_flat_files/DEPOSITO.txt', header=T, sep="\t", fileEncoding="UTF-8")
     ambien <- read.delim('data/pavela_flat_files/T_AMBIEN.txt', header=T, sep="\t", fileEncoding="UTF-8")
@@ -230,10 +233,13 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
       
       ## save collection unit info to each folder
       write.table(collunit, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/CollectionUnit_Info_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
-    }
+ } # close sites
     
     
 # Create file for other Analysis units ----
+    sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fileEncoding="UTF-8")
+    sites_n <- read.delim(file = paste0(path.to.google, "Site files/SITES_in_neotoma_format.txt"), header=T, sep="\t")
+    
     # This is ultimately added to the 'Data' tab in Neotoma
    
     ## Find all possible 'analysisunitname' ----
@@ -287,8 +293,11 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
 # Gather any relevant information on Relative Ages or Cultural associations
 
 # Create files for site taxa ----
-fauna <- read.delim('data/pavela_flat_files/FAUNA.txt', header=T, sep=",", fileEncoding="UTF-8")
-especies <- read.delim('data/pavela_flat_files/ESPECIES.txt', header=T, sep=",", fileEncoding="UTF-8")
+    sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fileEncoding="UTF-8")
+    sites_n <- read.delim(file = paste0(path.to.google, "Site files/SITES_in_neotoma_format.txt"), header=T, sep="\t")
+    
+    fauna <- read.delim('data/pavela_flat_files/FAUNA.txt', header=T, sep=",", fileEncoding="UTF-8")
+    especies <- read.delim('data/pavela_flat_files/ESPECIES.txt', header=T, sep=",", fileEncoding="UTF-8")
 
 for (i in 1:nrow(sites)){
 
@@ -377,7 +386,7 @@ for (i in 1:nrow(sites)){
   
 ## Write site data ---- 
 # write the NISP data for a site
-  if (all(!is.na(df.NISP))){ # only save data if some data are stored
+  if (any(!is.na(df.NISP))){ # only save data if some data are stored
     # remove any rows with all NA
     df.NISP <- df.NISP[-which(apply(df.NISP, 1, function(x) all(is.na(x)))),]
     
@@ -391,7 +400,7 @@ for (i in 1:nrow(sites)){
   }
   
 # write the MNI data for a site
-  if (all(!is.na(df.MNI))){
+  if (any(!is.na(df.MNI))){
     # remove any rows with all NA
     df.MNI <- df.MNI[-which(apply(df.MNI, 1, function(x) all(is.na(x)))),]
     
@@ -405,7 +414,7 @@ for (i in 1:nrow(sites)){
   }
   
   # write the PA data for a site
-  if (all(!is.na(df.PA))){
+  if (any(!is.na(df.PA))){
     # remove any rows with all NA
     df.PA <- df.PA[-which(apply(df.PA, 1, function(x) all(is.na(x)))),]
     
