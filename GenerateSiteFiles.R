@@ -146,10 +146,10 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
     
     sites_n$notes <- notes
     
-    # save the new sites dataframe ----
+    ## save the new sites dataframe ----
     write.table(sites_n, file = paste0(path.to.google, "Site files/SITES_in_neotoma_format.txt"), row.names = F, sep="\t")
     
-    # save an individual sites file to each folder ----
+    ## save an individual sites file to each folder ----
     for (i in 1:nrow(sites_n)){
       write.table(sites_n[i,], file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/Site_Info_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
     }
@@ -166,7 +166,7 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
     deposit <- read.delim('data/pavela_flat_files/DEPOSITO.txt', header=T, sep="\t", fileEncoding="UTF-8")
     ambien <- read.delim('data/pavela_flat_files/T_AMBIEN.txt', header=T, sep="\t", fileEncoding="UTF-8")
     sistem <- read.delim('data/pavela_flat_files/T_SISTEM.txt', header=T, sep="\t", fileEncoding="UTF-8")
-    
+     
     ## Create a new 'collunit' dataframe ----
     collunit <- NULL
     collunit$siteid <- sites$IDLOCALIDAD
@@ -177,6 +177,7 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
     collunit$location <- NA
     collunit$notes <- NA
     
+    ## Start adding values for each site
     for (i in 1:nrow(sites)){
       # set siteid
       siteid <- sites$IDLOCALIDAD[i]
@@ -185,23 +186,48 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
       collunit$handle <- paste0("PaVeLA_", sites$IDLOCALIDAD[i])
       
       ## determine depositional environment ----
-      # find all possible sistema_deposicion for a site
-      rows <- which(deposit$IDLOCALIDAD == siteid) 
-      unique(deposit$SISTEMA_DEPOSICION[rows])
-      grep("CV", sistem[,1])
+      # Note: SISTEMA_DEPOSICION & AMBIENTE_DEPOSICION together create depositional environment. If AMBIENTE_DEPOSICION == "ND", then choose name from SISTEMA_DEPOSICION. Otherwise, choose name from AMBIENTE_DEPOSICION
       
-        # bind with the ambiente_deposicion
-      deposit$AMBIENTE_DEPOSICION
+      # this finds all analysis units within the deposit 
+      # (note, there are other analysis units in other spreadsheets though)
+      rows <- which(deposit$IDLOCALIDAD == siteid) 
+
+        # create depositional environment
+        depenvt <- paste(
+          sistem[charmatch(deposit$SISTEMA_DEPOSICION[rows], sistem[,1]),1], # all sistema_deposicion
+          ambien[charmatch(deposit$AMBIENTE_DEPOSICION[rows], ambien[,1]),1], # all ambient_deposicion
+          sep="; ")
+        
+        if (length(rows)>1){
+          # bind rows with analysis unit names
+          depenvt <- cbind(deposit$UNIDAD_DE_ANALISIS[rows], depenvt)
+          colnames(depenvt)[1] <- 'UNIDAD_DE_ANALISIS'
+          
+          # write the full dep environment files to the folder and add a note in the collunit$depenvt column
+          write.table(depenvt, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/DepEnvt_Info_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
+          collunit$depenvt[i] <- "Consult DepEnvt_Info file"
+          
+      }else{
+        collunit$depenvt[i] <- depenvt
+      }
+      ## save collection unit info to each folder
+      write.table(collunit, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/CollectionUnit_Info_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
     }
+    
+# Create file for Analysis units ----
+    # This is ultimately added to the 'Data' tab in Neotoma
+    
+    ## Find all possible 'analysisunitname' ----
     
     
 abs <- read.delim('data/pavela_flat_files/EDADABS.txt', header=T, sep=",", fileEncoding="UTF-8")
 rel <- read.delim('data/pavela_flat_files/EDADREL.txt', header=T, sep=",", fileEncoding="UTF-8")
-fauna <- read.delim('data/pavela_flat_files/FAUNA.txt', header=T, sep=",", fileEncoding="UTF-8")
+
+
+
 
 RPUBLOC <- read.delim('data/pavela_flat_files/RPUBLOC.txt', header=T, sep=",", fileEncoding="UTF-8")
 pubs <- read.delim('data/pavela_flat_files/PUBLIC.txt', header=T, sep=",", fileEncoding="UTF-8")
-especies <- read.delim('data/pavela_flat_files/ESPECIES.txt', header=T, sep=",", fileEncoding="UTF-8")
 
 
 # create file for Dataset metadata tab
@@ -211,6 +237,8 @@ especies <- read.delim('data/pavela_flat_files/ESPECIES.txt', header=T, sep=",",
 # Gather any relevant information on Relative Ages or Cultural associations
 
 # create file on taxon list
+fauna <- read.delim('data/pavela_flat_files/FAUNA.txt', header=T, sep=",", fileEncoding="UTF-8")
+especies <- read.delim('data/pavela_flat_files/ESPECIES.txt', header=T, sep=",", fileEncoding="UTF-8")
 
 
 
