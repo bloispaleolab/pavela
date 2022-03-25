@@ -1,4 +1,4 @@
-"IDESPECIEVALIDA","IDCATEGORIA","IDNOMBREASCENDENTE","IDASCENDENTEOBLIGATORIO","TAXON_VALIDO","ORDEN","FAMILIA","GENERO","ESPECIE","FAUNMAP","ATLAS","AUTOR","AÑO","REFERENCIA_SEGUIDA","suma"
+"IDESPECIEVALIDA","IDCATEGORIA","IDNOMBREASCENDENTE","IDASCENDENTEOBLIGATORIO","TAXON_VALIDO","ORDEN","FAMILIA","GENERO","ESPECIE","FAUNMAP","ATLAS","AUTOR","AO","REFERENCIA_SEGUIDA","suma"
 1.00,8.00,1000.00,1000.00,"Didelphimorphia","Didelphimorphia","ND","ND","ND","MARS","ND","ND","ND",,1.00
 2.00,11.00,1.00,1.00,"Didelphidae","Didelphimorphia","Didelphidae","ND","ND","DID","ND","Gray","1821",819.00,1.00
 2.50,15.00,2.00,2.00,"Caluromys","Didelphimorphia","Didelphidae","Caluromys","ND","ND","ND","J. A. Allen","1900",819.00,1.00
@@ -47,7 +47,7 @@
 32.50,15.00,32.00,32.00,"Glyptotherium","Xenarthra","Glyptodontidae","Glyptotherium","ND","ND","ND","Osborn","1903",106.00,1.00
 34.00,21.00,32.50,32.50,"Glyptotherium cylindricum","Xenarthra","Glyptodontidae","Glyptotherium","cylindricum","ND","ND","(Brown)","1912",106.00,1.00
 35.00,21.00,32.50,32.50,"Glyptotherium floridanum","Xenarthra","Glyptodontidae","Glyptotherium","floridanum","GYfl","ND","(Simpson)","1929",106.00,1.00
-36.00,21.00,32.50,32.50,"Glyptotherium mexicanum","Xenarthra","Glyptodontidae","Glyptotherium","mexicanum","GYme","ND","(Cuatáparo y Ramírez)","1875",106.00,1.00
+36.00,21.00,32.50,32.50,"Glyptotherium mexicanum","Xenarthra","Glyptodontidae","Glyptotherium","mexicanum","GYme","ND","(Cuatparo y Ramrez)","1875",106.00,1.00
 37.00,21.00,32.50,32.50,"Glyptotherium sp.","Xenarthra","Glyptodontidae","Glyptotherium","sp.","ND","ND","ND","ND",999999999.00,1.00
 38.00,11.00,18.00,18.00,"Megalonychidae","Xenarthra","Megalonychidae","ND","ND","MEG","ND","Ameghino","1889",,1.00
 39.00,15.00,38.00,38.00,"Megalonyx","Xenarthra","Megalonychidae","Megalonyx","ND","ND","ND","Harlan","1825",,1.00
@@ -193,10 +193,10 @@
 151.50,15.00,116.00,116.00,"Enchistenes","Chiroptera","Phyllostomidae","Enchistenes","ND","ND","ND","Andersen","1906",820.00,1.00
 152.00,21.00,151.50,151.50,"Enchisthenes hartii","Chiroptera","Phyllostomidae","Enchisthenes","hartii","ND","CHPHDERHAR","(Thomas)","1892",,1.00
 153.00,21.00,151.50,151.50,"Enchisthenes sp.","Chiroptera","Phyllostomidae","Enchisthenes","sp.","ND","ND","ND","ND",999999999.00,1.00
-153.50,15.00,116.00,116.00,"Glossophaga","Chiroptera","Phyllostomidae","Glossophaga","ND","ND","ND","É. Geoffroy St.-Hilaire","1818",819.00,1.00
+153.50,15.00,116.00,116.00,"Glossophaga","Chiroptera","Phyllostomidae","Glossophaga","ND","ND","ND",". Geoffroy St.-Hilaire","1818",819.00,1.00
 154.00,21.00,153.50,153.50,"Glossophaga commissarisi","Chiroptera","Phyllostomidae","Glossophaga","commissarisi","ND","CHPHGLOCOM","Gardner","1962",819.00,1.00
 155.00,21.00,153.50,153.50,"Glossophaga leachii","Chiroptera","Phyllostomidae","Glossophaga","leachii","ND","CHPHGLOLEA","Gray","1844",819.00,1.00
-156.00,21.00,153.50,153.50,"Glossophaga morenoi","Chiroptera","Phyllostomidae","Glossophaga","morenoi","ND","CHPHGLOMOR","Martínez y Villa","1938",819.00,1.00
+156.00,21.00,153.50,153.50,"Glossophaga morenoi","Chiroptera","Phyllostomidae","Glossophaga","morenoi","ND","CHPHGLOMOR","Martnez y Villa","1938",819.00,1.00
 157.00,21.00,153.50,153.50,"Glossophaga soricina","Chiroptera","Phyllostomidae","Glossophaga","soricina","ND","CHPHGLOSOR","(Pallas)","1766",819.00,1.00
 158.00,21.00,153.50,153.50,"Glossophaga sp.","Chiroptera","Phyllostomidae","Glossophaga","sp.","ND","ND","ND","ND",999999999.00,1.00
 158.50,15.00,116.00,116.00,"Hylonycteris","Chiroptera","Phyllostomidae","Hylonycteris","ND","ND","ND","Thomas","1903",819.00,1.00
@@ -232,7 +232,7 @@
 181.50,15.00,116.00,116.00,"Musonycteris","Chiroptera","Phyllostomidae","Musonycteris","ND","ND","ND","Schaldach y McLaughlin","1960",819.00,1.00
 182.00,21.00,181.50,181.50,"Musonycteris harrisoni","Chiroptera","Phyllostomidae","Musonycteris","harrisoni","ND","CHPHMUSHAR","Schaldach y McLaughlin","1960",819.00,1.00
 183.00,21.00,181.50,181.50,"Musonycteris sp.","Chiroptera","Phyllostomidae","Musonycteris","sp.","ND","ND","ND","ND",999999999.00,1.00
-183.50,15.00,116.00,116.00,"Phyllostomus","Chiroptera","Phyllostomidae","Phyllostomus","ND","ND","ND","Lacépède","1799",819.00,1.00
+183.50,15.00,116.00,116.00,"Phyllostomus","Chiroptera","Phyllostomidae","Phyllostomus","ND","ND","ND","Lacpde","1799",819.00,1.00
 184.00,21.00,183.50,183.50,"Phyllostomus discolor","Chiroptera","Phyllostomidae","Phyllostomus","discolor","ND","CHPHPHYDIS","Wagner","1843",819.00,1.00
 185.00,21.00,183.50,183.50,"Phyllostomus sp.","Chiroptera","Phyllostomidae","Phyllostomus","sp.","ND","ND","ND","ND",999999999.00,1.00
 186.00,21.00,183.50,183.50,"Phyllostomus stenops","Chiroptera","Phyllostomidae","Phyllostomus","stenops","ND","CHPHPHYSTE","(Peters)","1865",819.00,1.00
@@ -240,7 +240,7 @@
 187.00,21.00,186.50,186.50,"Platyrhinus helleri","Chiroptera","Phyllostomidae","Platyrhinus","helleri","ND","CHPHPLAHEL","(Peters)","1866",819.00,1.00
 188.00,21.00,186.50,186.50,"Platyrhinus sp.","Chiroptera","Phyllostomidae","Platyrhinus","sp.","ND","ND","ND","ND",999999999.00,1.00
 188.50,15.00,116.00,116.00,"Sturnira","Chiroptera","Phyllostomidae","Sturnira","ND","ND","ND","Gray","1842",820.00,1.00
-189.00,21.00,188.50,188.50,"Sturnira lilium","Chiroptera","Phyllostomidae","Sturnira","lilium","ND","CHPHSUTLIL","(É. Geoffroy St.-Hilaire)","1810",819.00,1.00
+189.00,21.00,188.50,188.50,"Sturnira lilium","Chiroptera","Phyllostomidae","Sturnira","lilium","ND","CHPHSUTLIL","(. Geoffroy St.-Hilaire)","1810",819.00,1.00
 190.00,21.00,188.50,188.50,"Sturnira ludovici","Chiroptera","Phyllostomidae","Sturnira","ludovici","ND","CHPHSTULUD","Anthony","1924",819.00,1.00
 191.00,21.00,188.50,188.50,"Sturnira sp.","Chiroptera","Phyllostomidae","Sturnira","sp.","ND","ND","ND","ND",999999999.00,1.00
 191.50,15.00,116.00,116.00,"Tonatia","Chiroptera","Phyllostomidae","Tonatia","ND","ND","ND","Gray","1827",819.00,1.00
@@ -300,7 +300,7 @@
 232.00,21.00,229.50,229.50,"Lasionycteris sp.","Chiroptera","Vespertilionidae","Lasionycteris","sp.","LY","ND","ND","ND",999999999.00,1.00
 232.50,15.00,213.00,213.00,"Lasiurus","Chiroptera","Vespertilionidae","Lasiurus","ND","ND","ND","Gray","1831",830.00,1.00
 233.00,21.00,232.50,232.50,"Lasiurus blossevillii","Chiroptera","Vespertilionidae","Lasiurus","blossevillii","ND","CHVELASBLO","(Lesson y Garnot)","1826",834.00,1.00
-234.00,21.00,232.50,232.50,"Lasiurus borealis","Chiroptera","Vespertilionidae","Lasiurus","borealis","LIbo","CHVELASBOR","(Müller)","1776",819.00,1.00
+234.00,21.00,232.50,232.50,"Lasiurus borealis","Chiroptera","Vespertilionidae","Lasiurus","borealis","LIbo","CHVELASBOR","(Mller)","1776",819.00,1.00
 235.00,21.00,232.50,232.50,"Lasiurus cinereus","Chiroptera","Vespertilionidae","Lasiurus","cinereus","LIci","CHVELASCIN","(Beauvois)","1796",830.00,1.00
 236.00,21.00,232.50,232.50,"Lasiurus ega","Chiroptera","Vespertilionidae","Lasiurus","ega","LIeg","CHVELASEGA","(Gervais)","1856",830.00,1.00
 237.00,21.00,232.50,232.50,"Lasiurus intermedius","Chiroptera","Vespertilionidae","Lasiurus","intermedius","LIin","CHVELASINT","H. Allen","1862",830.00,1.00
@@ -358,7 +358,7 @@
 283.00,21.00,282.50,282.50,"Molossops greenhalli","Chiroptera","Molossidae","Molossops","greenhalli","ND","CHMOMOLGRE","(Goodwin)","1958",819.00,1.00
 284.00,21.00,282.50,282.50,"Molossops sp.","Chiroptera","Molossidae","Molossops","sp.","ND","ND","ND","ND",999999999.00,1.00
 284.50,15.00,275.00,275.00,"Molossus","Chiroptera","Molossidae","Molossus","ND","ND","ND","E. Geoffroy St.-Hilaire","1805",820.00,1.00
-285.00,21.00,284.50,284.50,"Molossus rufus","Chiroptera","Molossidae","Molossus","rufus","ND","CHMOMOLATE","É. Geoffroy St.-Hilaire","1805",819.00,1.00
+285.00,21.00,284.50,284.50,"Molossus rufus","Chiroptera","Molossidae","Molossus","rufus","ND","CHMOMOLATE",". Geoffroy St.-Hilaire","1805",819.00,1.00
 286.00,21.00,284.50,284.50,"Molossus aztecus","Chiroptera","Molossidae","Molossus","aztecus","ND","CHMOMOLAZT","Saussure","1860",834.00,1.00
 287.00,21.00,284.50,284.50,"Molossus bondae","Chiroptera","Molossidae","Molossus","bondae","ND","CHMOMOLBON","J. A. Allen","1904",819.00,1.00
 288.00,21.00,284.50,284.50,"Molossus coibensis","Chiroptera","Molossidae","Molossus","coibensis","ND","CHMOMOLCOI","J. A. Allen","1904",834.00,1.00
@@ -379,11 +379,11 @@
 300.00,21.00,298.50,298.50,"Tadarida sp.","Chiroptera","Molossidae","Tadarida","sp.","TD","ND","ND","ND",999999999.00,1.00
 301.00,8.00,1000.00,1000.00,"Primates","Primates","ND","ND","ND","PRIM","ND","Linnaeus","1758",819.00,1.00
 302.00,11.00,301.00,301.00,"Cebidae","Primates","Cebidae","ND","ND","ND","ND","Bonaparte","1831",819.00,1.00
-302.20,15.00,302.00,302.00,"Alouatta","Primates","Cebidae","Alouatta","ND","ND","ND","Lacépède","1799",819.00,1.00
+302.20,15.00,302.00,302.00,"Alouatta","Primates","Cebidae","Alouatta","ND","ND","ND","Lacpde","1799",819.00,1.00
 303.00,21.00,302.20,302.20,"Alouatta palliata","Primates","Cebidae","Alouatta","palliata","ND","PRCEALOPAL","(Gray)","1849",819.00,1.00
 304.00,21.00,302.20,302.20,"Alouatta pigra","Primates","Cebidae","Alouatta","pigra","ND","PRCEALOPIG","Lawrence","1933",819.00,1.00
 305.00,21.00,302.20,302.20,"Alouatta sp.","Primates","Cebidae","Alouatta","sp.","ND","ND","ND","ND",999999999.00,1.00
-305.50,15.00,302.00,302.00,"Ateles","Primates","Cebidae","Ateles","ND","ND","ND","É. Geoffroy","1806",819.00,1.00
+305.50,15.00,302.00,302.00,"Ateles","Primates","Cebidae","Ateles","ND","ND","ND",". Geoffroy","1806",819.00,1.00
 306.00,21.00,305.50,305.50,"Ateles geoffroyi","Primates","Cebidae","Ateles","geoffroyi","ND","PRCEATEGEO","Kuhl","1820",819.00,1.00
 307.00,21.00,305.50,305.50,"Ateles sp.","Primates","Cebidae","Ateles","sp.","ND","ND","ND","ND",999999999.00,1.00
 308.00,11.00,301.00,301.00,"Hominidae","Primates","Hominidae","ND","ND","ND","ND","Gray","1825",819.00,1.00
@@ -413,7 +413,7 @@
 329.00,11.00,311.00,311.00,"Felidae","Carnivora","Felidae","ND","ND","FEL","ND","G. Fischer","1817",819.00,1.00
 329.50,15.00,329.00,329.00,"Herpailurus","Carnivora","Felidae","Herpailurus","ND","ND","ND","Severtzov","1858",819.00,1.00
 330.00,21.00,329.50,329.50,"Herpailurus sp.","Carnivora","Felidae","Herpailurus","sp.","FS","ND","ND","ND",999999999.00,1.00
-331.00,21.00,329.50,329.50,"Herpailurus yagouaroundi","Carnivora","Felidae","Herpailurus","yagouaroundi","FSya","CAFEHERYAG","(Lacépède)","1809",834.00,1.00
+331.00,21.00,329.50,329.50,"Herpailurus yagouaroundi","Carnivora","Felidae","Herpailurus","yagouaroundi","FSya","CAFEHERYAG","(Lacpde)","1809",834.00,1.00
 331.50,15.00,329.00,329.00,"Leopardus","Carnivora","Felidae","Leopardus","ND","ND","ND","Gray","1842",819.00,1.00
 332.00,21.00,331.50,331.50,"Leopardus pardalis","Carnivora","Felidae","Leopardus","pardalis","FSpa","CAFELEOPAR","(Linnaeus)","1758",834.00,1.00
 333.00,21.00,331.50,331.50,"Leopardus sp.","Carnivora","Felidae","Leopardus","sp.","FS","ND","ND","ND",999999999.00,1.00
@@ -455,7 +455,7 @@
 359.50,15.00,349.00,349.00,"Lontra","Carnivora","Mustelidae","Lontra","ND","ND","ND","Gray","1843",866.00,1.00
 360.00,21.00,359.50,359.50,"Lontra longicaudis","Carnivora","Mustelidae","Lontra","longicaudis","ND","CAMULONLON","(Olfers)","1818",834.00,1.00
 361.00,21.00,359.50,359.50,"Lontra sp.","Carnivora","Mustelidae","Lontra","sp.","LU","ND","ND","ND",999999999.00,1.00
-361.50,15.00,349.00,349.00,"Mephitis","Carnivora","Mustelidae","Mephitis","ND","ND","ND","É. Geoffroy Saint-Hilaire y G. Cuvier","1795",866.00,1.00
+361.50,15.00,349.00,349.00,"Mephitis","Carnivora","Mustelidae","Mephitis","ND","ND","ND",". Geoffroy Saint-Hilaire y G. Cuvier","1795",866.00,1.00
 362.00,21.00,361.50,361.50,"Mephitis macroura","Carnivora","Mustelidae","Mephitis","macroura","MEma","CAMUMEPMAC","Lichtenstein","1832",834.00,1.00
 363.00,21.00,361.50,361.50,"Mephitis mephitis","Carnivora","Mustelidae","Mephitis","mephitis","MEme","CAMUMEPMEP","(Schreber)","1776",834.00,1.00
 364.00,21.00,361.50,361.50,"Mephitis sp.","Carnivora","Mustelidae","Mephitis","sp.","ME","ND","ND","ND",999999999.00,1.00
@@ -492,13 +492,13 @@
 387.50,15.00,387.00,387.00,"Bassariscus","Carnivora","Procyonidae","Bassariscus","ND","ND","ND","Coues","1887",866.00,1.00
 388.00,21.00,387.50,387.50,"Bassariscus astutus","Carnivora","Procyonidae","Bassariscus","astutus","BSas","CAPRBASAST","(Lichtenstein)","1830",834.00,1.00
 389.00,21.00,387.50,387.50,"Bassariscus sp.","Carnivora","Procyonidae","Bassariscus","sp.","BS","ND","ND","ND",999999999.00,1.00
-390.00,21.00,387.50,387.50,"Bassariscus ticuli","Carnivora","Procyonidae","Bassariscus","ticuli","ND","ND","Polaco y Butrón","1997",441.00,1.00
+390.00,21.00,387.50,387.50,"Bassariscus ticuli","Carnivora","Procyonidae","Bassariscus","ticuli","ND","ND","Polaco y Butrn","1997",441.00,1.00
 391.00,21.00,387.50,387.50,"Bassariscus sumichrasti","Carnivora","Procyonidae","Bassariscus","sumichrasti","ND","CAPRBASSUM","(Saussure)","1860",819.00,1.00
 391.50,15.00,387.00,387.00,"Nasua","Carnivora","Procyonidae","Nasua","ND","ND","ND","Storr","1780",866.00,1.00
 392.00,21.00,391.50,391.50,"Nasua narica","Carnivora","Procyonidae","Nasua","narica","NAna","CAPRNASNAR","(Linnaeus)","1766",834.00,1.00
 393.00,21.00,391.50,391.50,"Nasua nasua","Carnivora","Procyonidae","Nasua","nasua","ND","ND","(Linnaeus)","1766",819.00,1.00
 394.00,21.00,391.50,391.50,"Nasua sp.","Carnivora","Procyonidae","Nasua","sp.","NA","ND","ND","ND",999999999.00,1.00
-394.50,15.00,387.00,387.00,"Potos","Carnivora","Procyonidae","Potos","ND","ND","ND","É. Geoffroy Saint-Hilaire y G. Cuvier","1795",866.00,1.00
+394.50,15.00,387.00,387.00,"Potos","Carnivora","Procyonidae","Potos","ND","ND","ND",". Geoffroy Saint-Hilaire y G. Cuvier","1795",866.00,1.00
 395.00,21.00,394.50,394.50,"Potos flavus","Carnivora","Procyonidae","Potos","flavus","ND","CAPRPOTFLA","(Schreber)","1774",834.00,1.00
 396.00,21.00,394.50,394.50,"Potos sp.","Carnivora","Procyonidae","Potos","sp.","ND","ND","ND","ND",999999999.00,1.00
 396.50,15.00,387.00,387.00,"Procyon","Carnivora","Procyonidae","Procyon","ND","ND","ND","Storr","1780",866.00,1.00
@@ -521,11 +521,11 @@
 411.00,8.00,1000.00,1000.00,"Cetacea","Cetacea","ND","ND","ND","CETA","ND","Brisson","1762",819.00,1.00
 412.00,11.00,411.00,411.00,"Balaenidae","Cetacea","Balaenidae","ND","ND","ND","ND","Gray","1821",819.00,1.00
 412.50,15.00,412.00,412.00,"Eubalaena","Cetacea","Balaenidae","Eubalaena","ND","ND","ND","Gray","1864",819.00,1.00
-413.00,21.00,412.50,412.50,"Eubalaena glacialis","Cetacea","Balaenidae","Eubalaena","glacialis","ND","CEBAEUBGLA","(Müller)","1776",819.00,1.00
+413.00,21.00,412.50,412.50,"Eubalaena glacialis","Cetacea","Balaenidae","Eubalaena","glacialis","ND","CEBAEUBGLA","(Mller)","1776",819.00,1.00
 414.00,21.00,412.50,412.50,"Eubalaena sp.","Cetacea","Balaenidae","Eubalaena","sp.","ND","ND","ND","ND",999999999.00,1.00
 415.00,11.00,411.00,411.00,"Balaenopteridae","Cetacea","Balaenopteridae","ND","ND","ND","ND","Gray","1864",819.00,1.00
-415.50,15.00,415.00,415.00,"Balaenoptera","Cetacea","Balaenopteridae","Balaenoptera","ND","ND","ND","Lacépède","1804",819.00,1.00
-416.00,21.00,415.50,415.50,"Balaenoptera acutorostrata","Cetacea","Balaenopteridae","Balaenoptera","acutorostrata","ND","CEBABALACU","Lacépède","1804",819.00,1.00
+415.50,15.00,415.00,415.00,"Balaenoptera","Cetacea","Balaenopteridae","Balaenoptera","ND","ND","ND","Lacpde","1804",819.00,1.00
+416.00,21.00,415.50,415.50,"Balaenoptera acutorostrata","Cetacea","Balaenopteridae","Balaenoptera","acutorostrata","ND","CEBABALACU","Lacpde","1804",819.00,1.00
 417.00,21.00,415.50,415.50,"Balaenoptera borealis","Cetacea","Balaenopteridae","Balaenoptera","borealis","ND","CEBABALBOR","Lesson","1828",819.00,1.00
 418.00,21.00,415.50,415.50,"Balaenoptera edeni","Cetacea","Balaenopteridae","Balaenoptera","edeni","ND","CEBABALEDE","Anderson","1878",819.00,1.00
 419.00,21.00,415.50,415.50,"Balaenoptera musculus","Cetacea","Balaenopteridae","Balaenoptera","musculus","ND","CEBABALMUS","(Linnaeus)","1758",819.00,1.00
@@ -602,7 +602,7 @@
 470.50,15.00,470.00,470.00,"Berardius","Cetacea","Ziphiidae","Berardius","ND","ND","ND","Duvernoy","1851",,1.00
 471.00,21.00,470.50,470.50,"Berardius bairdii","Cetacea","Ziphiidae","Berardius","bairdii","ND","CEZIBERBAI","Steineger","1833",,1.00
 472.00,21.00,470.50,470.50,"Berardius sp.","Cetacea","Ziphiidae","Berardius","sp.","ND","ND","ND","ND",999999999.00,1.00
-472.50,15.00,470.00,470.00,"Hyperoodon","Cetacea","Ziphiidae","Hyperoodon","ND","ND","ND","Lacépède","1804",,1.00
+472.50,15.00,470.00,470.00,"Hyperoodon","Cetacea","Ziphiidae","Hyperoodon","ND","ND","ND","Lacpde","1804",,1.00
 473.00,21.00,472.50,472.50,"Hyperoodon planifrons","Cetacea","Ziphiidae","Hyperoodon","planifrons","ND","CEZIHYPPLA","Flower","1882",,1.00
 474.00,21.00,472.50,472.50,"Hyperoodon sp.","Cetacea","Ziphiidae","Hyperoodon","sp.","ND","ND","ND","ND",999999999.00,1.00
 474.50,15.00,470.00,470.00,"Mesoplodon","Cetacea","Ziphiidae","Mesoplodon","ND","ND","ND","Gervais","1850",,1.00
@@ -661,7 +661,7 @@
 518.00,21.00,500.50,500.50,"Equus sp.","Perissodactyla","Equidae","Equus","sp.","EQ","ND","ND","ND",999999999.00,1.00
 519.00,21.00,500.50,500.50,"Equus tau","Perissodactyla","Equidae","Equus","tau","EQta","ND","Owen","1869",,1.00
 520.00,11.00,499.00,499.00,"Tapiridae","Perissodactyla","Tapiridae","ND","ND","TAP","ND","Gray","1821",,1.00
-520.50,15.00,520.00,520.00,"Tapirus","Perissodactyla","Tapiridae","Tapirus","ND","ND","ND","Brünnich","1771",,1.00
+520.50,15.00,520.00,520.00,"Tapirus","Perissodactyla","Tapiridae","Tapirus","ND","ND","ND","Brnnich","1771",,1.00
 521.00,21.00,520.50,520.50,"Tapirus bairdii","Perissodactyla","Tapiridae","Tapirus","bairdii","ND","PETATAPBAI","(Gill)","1865",,1.00
 522.00,21.00,520.50,520.50,"Tapirus copei","Perissodactyla","Tapiridae","Tapirus","copei","TPco","ND","Simpson","1945",,1.00
 523.00,21.00,520.50,520.50,"Tapirus haysii","Perissodactyla","Tapiridae","Tapirus","haysii","TPha","ND","ND","ND",,1.00
@@ -675,7 +675,7 @@
 529.00,21.00,528.50,528.50,"Pecari sp.","Artiodactyla","Tayassuidae","Pecari","sp.","ND","ND","ND","ND",999999999.00,1.00
 530.00,21.00,528.50,528.50,"Pecari tajacu","Artiodactyla","Tayassuidae","Pecari","tajacu","TYta","AETATAYTAJ","(Linnaeus)","1758",819.00,1.00
 530.50,15.00,528.00,528.00,"Platygonus","Artiodactyla","Tayassuidae","Platygonus","ND","ND","ND","Le Conte","1848",,1.00
-530.70,21.00,530.50,530.50,"Platygonus alemanii","Artiodactyla","Tayassuidae","Platygonus","alemanii","ND","ND","Dugés","1887",,1.00
+530.70,21.00,530.50,530.50,"Platygonus alemanii","Artiodactyla","Tayassuidae","Platygonus","alemanii","ND","ND","Dugs","1887",,1.00
 531.00,21.00,530.50,530.50,"Platygonus compressus","Artiodactyla","Tayassuidae","Platygonus","compressus","PTco","ND","Le Conte","1848",295.00,1.00
 532.00,21.00,530.50,530.50,"Platygonus sp.","Artiodactyla","Tayassuidae","Platygonus","sp.","PT","ND","ND","ND",999999999.00,1.00
 533.00,21.00,528.00,528.00,"Platygonus ticuli","Artiodactyla","Tayassuidae","Platygonus","ticuli","ND","ND","Mones","1973",263.00,1.00
@@ -711,7 +711,7 @@
 550.50,15.00,548.00,548.00,"Mazama","Artiodactyla","Cervidae","Mazama","ND","ND","ND","Rafinesque","1817",819.00,1.00
 551.00,21.00,550.50,550.50,"Mazama americana","Artiodactyla","Cervidae","Mazama","americana","ND","ARCEMAZAME","(Erxleben)","1777",819.00,1.00
 552.00,21.00,550.50,550.50,"Mazama sp.","Artiodactyla","Cervidae","Mazama","sp.","ND","ND","ND","ND",999999999.00,1.00
-552.50,15.00,548.00,548.00,"Navahoceros","Artiodactyla","Cervidae","Navahoceros","ND","ND","ND","Kurtén","1975",34.00,1.00
+552.50,15.00,548.00,548.00,"Navahoceros","Artiodactyla","Cervidae","Navahoceros","ND","ND","ND","Kurtn","1975",34.00,1.00
 553.00,21.00,552.50,552.50,"Navahoceros fricki","Artiodactyla","Cervidae","Navahoceros","fricki","NVfr","ND","(Schultz y Howard)","1935",34.00,1.00
 554.00,21.00,552.50,552.50,"Navahoceros sp.","Artiodactyla","Cervidae","Navahoceros","sp.","ND","ND","ND","ND",999999999.00,1.00
 554.50,15.00,548.00,548.00,"Odocoileus","Artiodactyla","Cervidae","Odocoileus","ND","ND","ND","Rafinesque","1832",819.00,1.00
@@ -937,7 +937,7 @@
 749.50,15.00,719.00,719.00,"Neotoma","Rodentia","Muridae","Neotoma","ND","ND","ND","Say y Ord","1825",819.00,1.00
 750.00,21.00,749.50,749.50,"Neotoma albigula","Rodentia","Muridae","Neotoma","albigula","NEal","ROMUNEOALB","Hartley","1894",819.00,1.00
 751.00,21.00,749.50,749.50,"Neotoma angustapalata","Rodentia","Muridae","Neotoma","angustapalata","ND","ROMUNEOANG","Baker","1951",819.00,1.00
-752.00,21.00,749.50,749.50,"Neotoma anomala","Rodentia","Muridae","Neotoma","anomala","ND","ND","Alvarez y Hernández C.","1994",68.00,1.00
+752.00,21.00,749.50,749.50,"Neotoma anomala","Rodentia","Muridae","Neotoma","anomala","ND","ND","Alvarez y Hernndez C.","1994",68.00,1.00
 753.00,21.00,749.50,749.50,"Neotoma anthonyi","Rodentia","Muridae","Neotoma","anthonyi","ND","ROMUNEOANT","J. A. Allen","1898",819.00,1.00
 754.00,21.00,749.50,749.50,"Neotoma bryanti","Rodentia","Muridae","Neotoma","bryanti","ND","ROMUNEOBRY","Merriam","1887",819.00,1.00
 755.00,21.00,749.50,749.50,"Neotoma bunkeri","Rodentia","Muridae","Neotoma","bunkeri","ND","ROMUNEOBUN","Burt","1932",819.00,1.00
@@ -956,7 +956,7 @@
 769.00,21.00,749.50,749.50,"Neotoma palatina","Rodentia","Muridae","Neotoma","palatina","ND","ROMUNEOPAL","Goldman","1905",819.00,1.00
 770.00,21.00,749.50,749.50,"Neotoma phenax","Rodentia","Muridae","Neotoma","phenax","ND","ROMUNEOPHE","(Merriam)","1903",819.00,1.00
 771.00,21.00,749.50,749.50,"Neotoma sp.","Rodentia","Muridae","Neotoma","sp.","NE","ND","ND","ND",999999999.00,1.00
-772.00,21.00,749.50,749.50,"Neotoma tlapacoyana","Rodentia","Muridae","Neotoma","tlapacoyana","ND","ND","Alvarez y Hernández C.","1994",68.00,1.00
+772.00,21.00,749.50,749.50,"Neotoma tlapacoyana","Rodentia","Muridae","Neotoma","tlapacoyana","ND","ND","Alvarez y Hernndez C.","1994",68.00,1.00
 773.00,21.00,749.50,749.50,"Neotoma varia","Rodentia","Muridae","Neotoma","varia","ND","ROMUNEOVAR","Burt","1932",819.00,1.00
 773.50,15.00,719.00,719.00,"Neotomodon","Rodentia","Muridae","Neotomodon","ND","ND","ND","Merriam","1898",819.00,1.00
 774.00,21.00,773.50,773.50,"Neotomodon alstoni","Rodentia","Muridae","Neotomodon","alstoni","ND","ROMUNEOALS","Merriam","1898",819.00,1.00
@@ -1105,7 +1105,7 @@
 895.00,21.00,893.50,893.50,"Dasyprocta punctata","Rodentia","Dasyproctidae","Dasyprocta","punctata","ND","RODADASPUN","Gray","1842",819.00,1.00
 896.00,21.00,893.50,893.00,"Dasyprocta sp.","Rodentia","Dasyproctidae","Dasyprocta","sp.","ND","ND","ND","ND",999999999.00,1.00
 897.00,11.00,590.00,590.00,"Agoutidae","Rodentia","Agoutidae","ND","ND","ND","ND","Gray","1821",819.00,1.00
-897.50,15.00,897.00,897.00,"Agouti","Rodentia","Agoutidae","Agouti","ND","ND","ND","Lacépède","1799",819.00,1.00
+897.50,15.00,897.00,897.00,"Agouti","Rodentia","Agoutidae","Agouti","ND","ND","ND","Lacpde","1799",819.00,1.00
 898.00,21.00,897.50,897.50,"Agouti paca","Rodentia","Agoutidae","Agouti","paca","ND","ROAGAGOPAC","(Linnaeus)","1766",819.00,1.00
 899.00,21.00,897.50,897.50,"Agouti sp.","Rodentia","Agoutidae","Agouti","sp.","ND","ND","ND","ND",999999999.00,1.00
 900.00,8.00,1000.00,1000.00,"Lagomorpha","Lagomorpha","ND","ND","ND","ND","ND","Brandt","1855",833.00,1.00
@@ -1122,7 +1122,7 @@
 910.00,21.00,903.50,903.50,"Lepus sp.","Lagomorpha","Leporidae","Lepus","sp.","LS","ND","ND","ND",999999999.00,1.00
 911.00,21.00,903.50,903.50,"Lepus townsendii","Lagomorpha","Leporidae","Lepus","townsendii","LSti","LALELEPTOW","Bachman","1839",819.00,1.00
 911.50,15.00,901.00,901.00,"Romerolagus","Lagomorpha","Leporidae","Romerolagus","ND","ND","ND","Merriam","1896",833.00,1.00
-912.00,21.00,911.50,911.50,"Romerolagus diazi","Lagomorpha","Leporidae","Romerolagus","diazi","ND","LALEROMDIA","(Ferrari-Pérez in Díaz)","1893",834.00,1.00
+912.00,21.00,911.50,911.50,"Romerolagus diazi","Lagomorpha","Leporidae","Romerolagus","diazi","ND","LALEROMDIA","(Ferrari-Prez in Daz)","1893",834.00,1.00
 913.00,21.00,911.50,911.50,"Romerolagus sp.","Lagomorpha","Leporidae","Romerolagus","sp.","ND","ND","ND","ND",999999999.00,1.00
 913.50,15.00,901.00,901.00,"Sylvilagus","Lagomorpha","Leporidae","Sylvilagus","ND","ND","ND","Gray","1867",833.00,1.00
 914.00,21.00,913.50,913.50,"Sylvilagus audubonii","Lagomorpha","Leporidae","Sylvilagus","audubonii","SYau","LALESYLAUD","(Baird)","1858",834.00,1.00

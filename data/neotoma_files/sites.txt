@@ -1,0 +1,773 @@
+"siteid"	"sitename"	"longitudeeast"	"latitudenorth"	"longitudewest"	"latitudesouth"	"altitude"	"area"	"sitedescription"	"notes"
+1	"Cueva de San Josecito"	-99.9125	23.9558333333333	-99.9125	23.9558333333333	2250	NA	NA	"1 Km S Ejido San Josecito; Arroyo Cabrales y Ray (1997): 24 05' N, 9949' W: SW Aramberri"
+2	"Tlapacoya"	-98.9441666666667	19.3441666666667	-98.9441666666667	19.3441666666667	2240	NA	NA	"1.5 Km S Tlapacoya; ref. 740:150m Oeste de zona arqueologica de Tlapacoya en parte N del cerro de Tlapacoya; 26 Km SE de la ciudad de Mxico; sur de la Sierra del Pino: los trabajos de Arroyo Cabrales dicen que est a 11302'40\" W asi como 11317'40\"W, pero obviamente hay problemas. El dato correcto podra ser 99, se desconoce si hay problemas en minutos y segundos. Para la ubicacin que ahora se proporciona se sigui a Manuel Reyes"
+3	"Tequixquiac"	999	999	999	999	9999	NA	NA	"ref. 847: en la margen N de la Cuenca de Mxico"
+4	"Gruta de Loltn"	-89.4941666666667	20.2775	-89.4941666666667	20.2775	40	NA	NA	"ref. 741: 110 Km S de Mrida Yucatn; ref. 791: 3 millas E de Tabi, Yucatan; S de Oxkutzcab, dos horas de Oxkutzcab; ref 467 (Arroyo Cabrales y Ray, 1997) 7 km S Oxkutzcab"
+5	"Cueva de Jimnez"	-104.944166666667	27.1441666666667	-104.944166666667	27.1441666666667	9999	NA	NA	"al sur del estado de Chihuahua; ref. 138 (tesis de Joaqun) dice que est al norte del estado"
+6	"Cueva de La Boca"	-100.1775	25.4441666666667	-100.1775	25.4441666666667	540	NA	NA	"3 km E Santiago"
+7	"El Cedral"	-100.744166666667	23.8441666666667	-100.744166666667	23.8441666666667	9999	NA	NA	"1.7 km SE El Cedral, adjunto a los ranchos La Laguna y Pilar de Cedros"
+8	"Cueva de la Presita"	-100.6775	23.6775	-100.6775	23.6775	1540	NA	NA	"21.4 km S Matehuala, del lado E del cerro La Presita, cerca del poblado La Bonita"
+9	"Actun Spukil"	999	999	999	999	9999	NA	NA	"aprox. 6 Km S Calcehtok. Cerca de Oxkimtock, ruinas con edad anterior a 475 AD"
+10	"Cueva de El Abra"	-99.025	22.6083333333333	-99.025	22.6083333333333	9999	NA	NA	NA
+11	"Emilio Carranza"	999	999	999	999	9999	NA	NA	"ref. 855: a lo largo del arroyo EL Molino, aguas arriba del poblado de Emilio Carranza, en el SE de Zacatecas"
+12	"Chapala-Zacoalco"	999	999	999	999	9999	NA	NA	NA
+13	"Apaxco"	999	999	999	999	9999	NA	NA	NA
+14	"San Vicente Chicoloapan"	999	999	999	999	9999	NA	NA	"cerca de San Vicente Chicoalapan, en el km 29 de la carretera Ciudad de Mxico-Texcoco. Algunos autores consideran que son dos localidaddes distintas San Vicente Chicoloapan y cerca de Sanvicente Chicoloapan. En el Catlogo del INAH, se observa que son una misma localidad, la cual dice \"minas de arena de San Vicente Chicoloapan\""
+15	"Atepetzingo"	999	999	999	999	9999	NA	NA	NA
+16	"Valsequillo"	999	999	999	999	9999	NA	NA	NA
+17	"Villa Corzo"	-93.2941666666667	16.2108333333333	-93.2941666666667	16.2108333333333	580	NA	NA	"Terracera Villa de Corzo-Monterrey; aprx. 900 m S entronque con la carretera pavimentada a Revolucin Mexicana. El carnvoro puede ser de otro sitio dif. al del perezoso y el proboscideo"
+18	"El Golfo"	-114.5275	32.6941666666667	-114.5275	32.6941666666667	9999	NA	NA	NA
+19	"Cerro del Tepeyac"	999	999	999	999	9999	NA	NA	"junto a la Basilica de Guadalupe, al N del D.F.; 2 millas NW Peon; al pie del cerro del Tepeyac; cerca de una legua del Peon; en la falda SW de la pequea cordillera de Tepeyac; en la base de los cerros Guadalupe"
+20	"Tlapacoya II"	999	999	999	999	9999	NA	NA	"ref. 774: cerrro de Tlaplacoya al S de la Sierra del Pino al SE de la cuenca de Mxico"
+21	"Arroyo San Francisco"	999	999	999	999	9999	NA	NA	"Formacin Tacubaya"
+22	"Arroyo Cedazo"	-102.260833333333	21.875	-102.260833333333	21.875	9999	NA	NA	"Carranza-Castaeda le dan la ubicacin del Arroyo San Francisco, en algunos de los fsiles: 4 km SE ciudad de Aguascalientes Ref 150:"
+23	"Mxico"	999	999	999	999	9999	NA	NA	NA
+24	"Arroyo del Arenal"	999	999	999	999	9999	NA	NA	"2 Km NE Rancho Durazno, Valle de El Durazno, Parras"
+25	"Arroyo Ojuelo"	-100.900833333333	25.5427777777778	-100.900833333333	25.5427777777778	1390	NA	NA	"1 Km NW Rancho Ojuelo, Valle de El Durazno, Parras; Original NUMERO_MAPA = G14-G24"
+26	"Texcoco"	999	999	999	999	9999	NA	NA	"cerca de Texcoco"
+27	"Calle Hornedo, Cd. de Aguascalientes"	999	999	999	999	9999	NA	NA	"frente al Templo de San Juan Nepomuceno"
+28	"Tula"	999	999	999	999	9999	NA	NA	"cerca de la poblacin de Tula, ref. 824 la menciona como area de Tula"
+29	"San Pedro de las Salinas"	999	999	999	999	9999	NA	NA	NA
+30	"Rancho Viejo"	999	999	999	999	9999	NA	NA	"Distrito San Miguel Allende"
+31	"Valle de Mxico"	999	999	999	999	9999	NA	NA	"ref. 49 dice que es Edo. Mxico"
+32	"Las Tunas"	999	999	999	999	9999	NA	NA	NA
+33	"Rancho El Carrizal"	999	999	999	999	9999	NA	NA	NA
+34	"Rancho Algodones"	999	999	999	999	9999	NA	NA	NA
+35	"Santa Rita"	999	999	999	999	9999	NA	NA	NA
+36	"Ameca"	999	20.5608333333333	999	20.5608333333333	9999	NA	NA	"cerca de Ameca; Valle del Ro Ameca; ref.:150 pone la localidad como: Ameca (?), y se basa en Brown (1912) y este ltimo dice: near the town of Ameca"
+37	"Ario"	999	999	999	999	9999	NA	NA	"Todo parece indicar que Ario, Ario de Rosales y Ario de Rayn son la misma localidad"
+38	"Arizpe"	999	999	999	999	9999	NA	NA	"1) 1.5 Km E Arizpe y 97 Km SE Cananea; 2) Rancho la Brisca en el cruce del Rio Sn. Miguel, 25 Km NW Arizpe; ref. 689:1 mi E Arizpe; ref. 737: 1 mi E Arizpe, 60 mi SE Cananea; Ref: 689 Rio Sonora: 60 millas sureste de Cananea; Ref  : sobre el ro Sonora 60 mi SE Cananea y 100 mi N La Prietas y San Jos de Pimas; ref. 876: 1.6 km NE Arizpe, al SW del Cerro Picacho Arizpe: en el mapa est al lado NW del rancho El Basimachi, prcticamente en la unin del ro Bacanuchi con el ro Sonora."
+39	"Arperos"	-101.398333333333	21.1016666666667	-101.398333333333	21.1016666666667	1980	NA	NA	"Municipio La Luz; ONO del Mineral de la Luz; jabal es de Moreolen o de Arperos? Consultar a Freudenberg para el mastodonte; Original NUMERO_MAPA = F14-C42"
+40	"Arroyo de Cieneguita"	-102.746666666667	21.8033333333333	-102.746666666667	21.8033333333333	1600	NA	NA	"14 km Ciudad de Aguascalientes, aprox. a 2000 msnm, entre el camino a Calvillo y la ranchera \"Cieneguita\"; Original NUMERO_MAPA = F13-D17"
+41	"Arroyo de las Barrancas Blancas"	999	999	999	999	9999	NA	NA	NA
+42	"Arroyo de las Calabazas"	999	999	999	999	9999	NA	NA	NA
+43	"Arroyo de los Burros"	999	999	999	999	9999	NA	NA	NA
+44	"Atlixco"	999	999	999	999	9999	NA	NA	NA
+45	"Barranca Seca"	999	999	999	999	9999	NA	NA	"cerca de Acultzingo; 3 Km E de Acultzingo (ref. 354  y 1)"
+46	"Candela"	999	999	999	999	9999	NA	NA	NA
+47	"Caada Honda"	999	999	999	999	9999	NA	NA	"Pequeo arroyo que cruza la carretera nueva a Loreto, a 1100 m antes de llegar a Caada Honda"
+48	"Can de Acultzingo"	999	999	999	999	9999	NA	NA	"verificar sean una misma que la loc. 485 y 130"
+49	"Cerro de la Silla"	999	999	999	999	9999	NA	NA	"Monterrey; Algunos autores dicen que hay gliptodonte, pero la referencia original no lo menciona"
+50	"Cuevas del Padre"	999	999	999	999	9999	NA	NA	"30 Km NW Monterrey"
+51	"Ejutla"	999	999	999	999	9999	NA	NA	NA
+52	"El Rosario"	-105.8775	23.0108333333333	-105.8775	23.0108333333333	20	NA	NA	"inmediaciones de El Rosario"
+53	"Guadalajara"	999	999	999	999	9999	NA	NA	"Guadalajara"
+54	"Guerrero"	-107.510833333333	28.5775	-107.510833333333	28.5775	2000	NA	NA	" cerca de Concepcin"
+55	"\"Hochtals von Mexiko\""	999	999	999	999	9999	NA	NA	"ref. 49 dice que es Edo. Mxico; ref. 150 propone que se trata de Tequixquiac"
+56	"Isla Tiburn"	999	999	999	999	9999	NA	NA	"Lado N Isla Tiburn; Mitad norte de la isla"
+57	"La Goleta"	999	999	999	999	9999	NA	NA	NA
+58	"Lago de Chapala"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 155 (del edo. de Jalisco)"
+59	"Lomas de Zoyatal"	999	999	999	999	9999	NA	NA	NA
+60	"Los Mochis"	-109.0275	25.8275	-109.0275	25.8275	10	NA	NA	"Alvarez (1965; ref.1) dice que Los Mochis est en Sonora, y se basa para ello en el trabajo de Maldonado-Koerdell (1954; ref.112), pero en esta dice claramente que es Sinaloa, por lo que se procedi a poner como estado a Sinaloa"
+61	"Morelia"	999	999	999	999	9999	NA	NA	NA
+62	"Morolen"	999	999	999	999	9999	NA	NA	"ref 150: Morolen?; ref.39 y 548 dicen que el material es de Arperos. localidad y ao del trabajo dudosos"
+63	"Ro Aguascalientes"	999	999	999	999	9999	NA	NA	"Cerca del Rancho San Angel"
+64	"Ro Encantado"	999	999	999	999	9999	NA	NA	"cerca de Ramos Arizpe, San Juan y Encantado, Region de Saltillo. Refs.1 y 242 hablan de la localidad como Saltillo, pero es Rio Encantado"
+65	"San Juan de los Lagos"	999	999	999	999	9999	NA	NA	NA
+66	"San Luis"	999	999	999	999	9999	NA	NA	"probablemente est en el estado de Mxico"
+67	"San Pedro"	999	999	999	999	9999	NA	NA	NA
+68	"San Pedro Zacachimalpa"	-97.6066666666667	19.9416666666667	-97.6066666666667	19.9416666666667	2130	NA	NA	"Revisar Felix y Lenk 1891 para confirmar localidad de algunos materiales; ref. 846: barranca de Sn Pedro Zacachimalpa en la regon de la presa de Valsequillo, al S de ciudad de Puebla; Original NUMERO_MAPA = E14-5"
+69	"Santa F"	999	999	999	999	9999	NA	NA	NA
+70	"San Pedro Aae"	999	999	999	999	9999	NA	NA	"650m E-NEde San Pedro Aae"
+71	"ejidos de San Cristobal"	999	999	999	999	2240	NA	NA	"se hall en la parte en la que se angostaban los antiguos lagos y se unan el Xaltocan-Ecatepec con el de Texcoco. En el predio no. 50 de la calle Cedro."
+72	"Tacubaya"	999	999	999	999	9999	NA	NA	"Formacin Tacubaya; ref. 862: Tacubaya, cerca de la ciudad de Tacubaya"
+73	"San Pedro Tecamachalco"	999	999	999	999	9999	NA	NA	NA
+74	"Tehuichila"	999	999	999	999	9999	NA	NA	"ref. 793: es mioceno"
+75	"Tepexpan"	999	999	999	999	9999	NA	NA	"ref. 766: 250 m al N del sitio donde se encontr el esqueleto humano; ref. 840 y 845: Km 7 de la carretera venta de Carpio-Teotihuacn; ref. 835: junto a la carretera que desde la capital federal conduce a Teotihuacn"
+76	"Tesopaco"	999	999	999	999	9999	NA	NA	NA
+77	"Tinajitas"	999	999	999	999	9999	NA	NA	"verificar que efectivamente la loc. sea del mun. de Ycora"
+78	"Tlatlauqui"	999	999	999	999	9999	NA	NA	"verificar sean una misma localidad (sierra de Puebla)"
+79	"Bolsn de Mapim"	999	999	999	999	9999	NA	NA	"cerca de Torren: refo original (Freudenberg, 1919): Aus Torreon (im Bolson de Mapimi, ...)"
+80	"Yepmera"	999	999	999	999	9999	NA	NA	NA
+81	"Colonia Estrella"	999	999	999	999	9999	NA	NA	"colindante con los terrenos de la antigua Hda. \"Aragn\"; 25 Km S Tepexpan, cerca de Tepeyac"
+82	"Villa de Guadalupe"	999	999	999	999	9999	NA	NA	"Mezcla de localidades: ref. 49 dice que es Edo. Mxico; ref 150 que es en el Valle de Mxico"
+83	"Yolomecatl"	999	999	999	999	9999	NA	NA	"aprox. 100 Km NW Cd. Oaxaca, 1 Km S Yolomecatl. (En el Km 98 de la carretera Oaxaca-Acatln, tomar camino entre Yolomecatl y Tlaxiaco"
+84	"Zumpango"	999	999	999	999	9999	NA	NA	NA
+85	"Estado de Baja California"	999	999	999	999	9999	NA	NA	NA
+86	"Estado de Chihuahua"	999	999	999	999	9999	NA	NA	NA
+87	"100 km de Chihuahua"	999	999	999	999	9999	NA	NA	"100 Km de Chihuahua"
+88	"Estado de Michoacn"	999	999	999	999	9999	NA	NA	NA
+89	"Estado de Puebla"	999	999	999	999	9999	NA	NA	NA
+90	"Estado de Tlaxcala"	999	999	999	999	9999	NA	NA	NA
+91	"Desconocido"	999	999	999	999	9999	NA	NA	NA
+92	"Cuatro Cinegas"	999	999	999	999	9999	NA	NA	NA
+93	"Cedazo"	-102.160833333333	21.7941666666667	-102.160833333333	21.7941666666667	9999	NA	NA	"Toba Aguascalientes"
+94	"Acultzingo"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 193 (del edo. Veracruz)"
+95	"Chichihualco"	-99.7108333333333	17.6775	-99.7108333333333	17.6775	1140	NA	NA	NA
+96	"Cd. de Mxico"	999	999	999	999	9999	NA	NA	"verificar que sea diferente a la loc. 763"
+97	"Valle de Bravo"	999	999	999	999	9999	NA	NA	"A orillas de una barranca en el Distrito de Valle de Bravo, en el estado de Mxico; ref. 548 (Barrios, 1985) la consigna como Villa de Bravo, pero al revisar la referencia original, result obvio que no era as, sino Valle de Bravo"
+98	"Ekmul"	-89.3483333333333	20.965	-89.3483333333333	20.965	9999	NA	NA	NA
+99	"Cueva El Chifln"	999	999	999	999	9999	NA	NA	NA
+100	"Estado de Tabasco"	999	999	999	999	9999	NA	NA	NA
+101	"Los Reyes La Paz"	-98.975	19.3616666666667	-98.975	19.3616666666667	2210	NA	NA	"Ref. 768: los materiales provienen de varias cuadras, incluyendo la dos y la 10, cuadras que para esa referencia se manejaron como unidad de anlisis.; Original NUMERO_MAPA = E14-B31"
+102	"Los Reyes Acozac"	-98.9816666666667	19.7733333333333	-98.9816666666667	19.7733333333333	2250	NA	NA	"ref. 846: aledaos del poblado Los Reyes de Acozac; ref. 692: cerca de la Villa de los Reyes de Acozac; ref. 49: cerca de Zumpango de Ocampo; Original NUMERO_MAPA = E14-B41"
+103	"San Bartolo Atepehuacn"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 255"
+104	"Xaltocan"	999	999	999	999	9999	NA	NA	NA
+105	"Chimalhuacn"	999	999	999	999	9999	NA	NA	"verificar estado; ref. 747: patio de la casa, sita en Manzana 3, Lote 4, fraccionamiento Cristo Rey, Col. Embarcadero en el Barrio de Xochitenco en Chimalhuacn"
+106	"Tulpetlac"	999	999	999	999	9999	NA	NA	NA
+107	"Santa Isabel Iztapan"	999	999	999	999	9999	NA	NA	"Ref.548: probablemente se refiera a la localidad de Santa Isabel Iztapan (SII-I), ya que dice \"W-NW Santa Isabel Iztapan, 2 Km SW Tepexpan sobre la carretera San Juan Teotihuacn zanja en la labor del Sr. Mariano Vallejo\" , y esa es la localidad de SII-I; ref. 687: 350 m S del 1er mammut y 2600 S de sitio del hombre de Tepexpan"
+108	"Calxicatl, Chinconcuac"	-98.9275	19.5775	-98.9275	19.5775	2240	NA	NA	"a unos metros del Puente Renacimiento y sobre la calle Salitre, Chinconcuac; en el barrio de Calxiacatl, a unos metros del puente Renacimiento que se encuentra en la calle salitre; Original NUMERO_MAPA = E14-B21"
+109	"Venta de Carpio"	999	999	999	999	9999	NA	NA	"ref. 169: 3.5 Km de Venta de Carpio, en el camino tanto al lado derecho como izquierdo, comunicando al D. F. con Sn. Juan Teotihuacan, en el tramo comprendido entre la estacin de bandera de Venta de Carpio y la de Tepexpan, del Ferrocarril Hidalgo"
+110	"Santa Luca"	999	999	999	999	9999	NA	NA	NA
+111	"Canal de Valsequillo (Tecamachalco)"	999	999	999	999	9999	NA	NA	NA
+112	"Almoloya del Ro"	999	999	999	999	9999	NA	NA	"Ref. 50: Km 11 de Almoloya del Rio; ref. 74: Acueducto de Lerma en Almoloya del Ro; como ambas referencias tratan de los proboscideos del museo de Geologa de la UNAM, se asumi que eran el mismo material y la misma localidad"
+113	"General Zuazua"	999	999	999	999	9999	NA	NA	NA
+114	"San Juan Camargo"	999	999	999	999	9999	NA	NA	NA
+115	"Caborca"	999	999	999	999	9999	NA	NA	NA
+116	"Presa Marte"	999	999	999	999	9999	NA	NA	NA
+117	"Cueva de San Agustn"	999	999	999	999	9999	NA	NA	"Huentla, cerca de Oaxaca, Oax."
+118	"Cueva de Bustamante"	999	999	999	999	9999	NA	NA	NA
+119	"Cueva de la Mina"	999	999	999	999	9999	NA	NA	NA
+120	"Cueva Las Cruces"	999	999	999	999	9999	NA	NA	NA
+121	"Cantera El Tajo"	999	999	999	999	9999	NA	NA	NA
+122	"Potrecito cerca Cienega"	999	999	999	999	9999	NA	NA	NA
+123	"Sierra de Tamaulipas"	999	999	999	999	9999	NA	NA	NA
+124	"Jonuta"	-92.1316666666667	18.0883333333333	-92.1316666666667	18.0883333333333	5	NA	NA	"en los mrgenes de los ros Usumacinta y Palizada, en el lmite de Tabasco y Campeche; Original NUMERO_MAPA = E15-5"
+125	"Sureste"	999	999	999	999	9999	NA	NA	NA
+126	"cercanas del Valle del Maz"	999	999	999	999	9999	NA	NA	NA
+127	"Cueva de la Zona de Derrumbes"	999	999	999	999	9999	NA	NA	"ver.localidad, en una ref. es desconocida y en 94 es N.L."
+128	"cerca de Tehuantepec"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma que la loc. 683 del edo de Oaxaca"
+129	"Amanalco de Becerra? Valle de Bravo"	999	999	999	999	9999	NA	NA	NA
+130	"Caada de Aculzingo"	999	999	999	999	9999	NA	NA	"verificar sean una misma que la loc. 485 (del edo. de Veracruz), o loc. 48 (del edo. de Puebla)"
+131	"cerca de Lagunilla, Valle del Mezquital"	999	999	999	999	1800	NA	NA	"ref. 131: cerca de Lagunilla. de Ixmiquilpan rumbo al noroeste, oriente y sureste,un amplio valle."
+133	"regin de Tepexpan"	999	999	999	999	9999	NA	NA	"aprox. 35 Km al NE de la ciudad de Mxico; formacin Becerra superior"
+134	"El Risco I"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma que la loc. 815"
+135	"El Pen de los Baos? Texcoco"	999	999	999	999	9999	NA	NA	NA
+136	"Iztln?"	999	999	999	999	9999	NA	NA	NA
+137	"Regin de Juchipila"	999	999	999	999	9999	NA	NA	NA
+138	"Ro Bravo"	999	999	999	999	9999	NA	NA	NA
+139	"Tehuichila"	999	999	999	999	9999	NA	NA	NA
+140	"Tehuichila"	999	999	999	999	9999	NA	NA	"Edad relativa: Loup Fork age"
+141	"una llanura en el territorio sur de la peninsula"	999	999	999	999	9999	NA	NA	"ref. 845: dice unicamente del edo. de Baja California"
+142	"Valle de Amajaque"	999	999	999	999	9999	NA	NA	"Alvarez 1965 y Mena de la Pea 1975: es plioceno."
+143	"Valle de Toluca"	999	999	999	999	9999	NA	NA	"Todos se basan en las mismas referencias Villada (1897, 1903, 1905), que no mencionan claramente el estado, pero todos los demas autores lo refieren al estado de Mxico, por lo que se dej com Edo. Mx."
+144	"Xico"	999	999	999	999	9999	NA	NA	"cerca de Xico. ref. 847 y 692: margen sur del lago de Texcoco, en una mina de arenas fosilferas (basadas en Herrera, 1893: ref. 837); en una cantera a orillas del lago de Chalco; cerca de Astahuacn. Ref. 841 y 842 no dicen de que estado es, pero como son trabajos posteriores a la ref. 837, se dej con el mismo estado que en ese trabajo"
+145	"antigua ribera de Lago de Chapala"	999	999	999	999	9999	NA	NA	"aprox. 700 m al NO de \"Petatn\", casero de pescadores situados en la antigua ribera del lago, aunos 6 Km al NO de Cojumatlan"
+146	"Tehuacn"	999	999	999	999	9999	NA	NA	NA
+147	"Tehuantepec"	999	999	999	999	9999	NA	NA	NA
+149	"Estado de Oaxaca"	999	999	999	999	9999	NA	NA	NA
+150	"Estado de Coahuila"	999	999	999	999	9999	NA	NA	NA
+151	"Arroyo Comond"	999	999	999	999	9999	NA	NA	"llanura en las cercanas del arroyo Comond, aprox. a 40 km W Loreto. PROB. SEA IGUAL QUE LOC. 296"
+152	"Estado de Jalisco"	999	999	999	999	9999	NA	NA	NA
+153	"Estado de Guanajuato"	999	999	999	999	9999	NA	NA	NA
+154	"SW de la regin de Tepechpan (sic)"	999	999	999	999	9999	NA	NA	NA
+155	"Tlapanayola"	999	999	999	999	9999	NA	NA	NA
+156	"Cerrito de la Cruz"	999	999	999	999	9999	NA	NA	"cerca de Arroyo del Cedazo"
+157	"Arroyo Malacate"	999	999	999	999	9999	NA	NA	NA
+158	"Arroyo Pargas"	999	999	999	999	9999	NA	NA	NA
+159	"Paso Hondo y Cobos"	999	999	999	999	9999	NA	NA	NA
+160	"Caada de Cotorina"	999	999	999	999	9999	NA	NA	NA
+161	"Ixtapalapa"	999	999	999	999	9999	NA	NA	NA
+162	"San Buenaventura"	-101.546666666667	27.0625	-101.546666666667	27.0625	490	NA	NA	"Original NUMERO_MAPA = G14-A42"
+163	"Villa Flores"	-93.3108333333333	16.2608333333333	-93.3108333333333	16.2608333333333	540	NA	NA	NA
+164	"Ciudad Delicias"	999	999	999	999	9999	NA	NA	NA
+165	"Iguala"	999	999	999	999	9999	NA	NA	"inmediaciones de Iguala"
+166	"Cueva La Nopalera"	999	999	999	999	9999	NA	NA	"Tepeapulco"
+167	"Mineral del Monte"	999	999	999	999	9999	NA	NA	NA
+168	"Juchitln"	999	999	999	999	9999	NA	NA	NA
+169	"Santa Catarina"	999	999	999	999	9999	NA	NA	NA
+170	"Barranca de Acatln, Tequixquiac"	999	999	999	999	9999	NA	NA	NA
+171	"Teatro Latino (Paseo de la Reforma)"	999	999	999	999	9999	NA	NA	"verificar que la localidad no tenga los datos de Paseo de la Reforma y Havre (pozo P-366-2), que segn Barrios (1985;ref.548), es otra localidad"
+172	"Barranca del Muerto"	999	999	999	999	9999	NA	NA	NA
+173	"Edificio Latino Americano"	999	999	999	999	9999	NA	NA	"Av. Insurgentes esq. Q. Roo"
+174	"Jilotepec"	999	999	999	999	9999	NA	NA	NA
+175	"Tecolapa"	999	999	999	999	9999	NA	NA	"cerca de Jilotepec"
+176	"Tonatico"	999	999	999	999	9999	NA	NA	NA
+177	"Panten Dolores"	999	999	999	999	9999	NA	NA	NA
+178	"San Jernimo Ldice"	999	999	999	999	9999	NA	NA	NA
+180	"Apaxco (en mina de Calhidra)"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 13"
+181	"Zacapu"	999	999	999	999	9999	NA	NA	NA
+182	"Rancho Las Ollas"	999	999	999	999	9999	NA	NA	NA
+183	"Cuautla"	999	999	999	999	9999	NA	NA	NA
+184	"Acatln"	999	999	999	999	9999	NA	NA	NA
+185	"San Martn Texmelucan"	999	999	999	999	9999	NA	NA	NA
+186	"Hda. de Zotoluca (cerca de Apizaco)"	999	999	999	999	9999	NA	NA	NA
+187	"Estado de Veracruz"	999	999	999	999	9999	NA	NA	NA
+188	"Xicotncatl"	999	999	999	999	9999	NA	NA	"dentro del Valle del Mamut, a la izquierda del camino que va el Ejido de Santa Rosa, a 500m de la entrada"
+189	"Rancho Peotillos"	999	999	999	999	9999	NA	NA	NA
+190	"Estado de San Luis Potos"	999	999	999	999	9999	NA	NA	NA
+191	"Paso del Aguila (cerca de San Nicols Tolentino)"	999	999	999	999	9999	NA	NA	NA
+192	"Rayn"	999	999	999	999	9999	NA	NA	NA
+193	"Caada de Aculcingo"	999	999	999	999	9999	NA	NA	"ref. 846: a 25 Km al W de Orizaba"
+194	"Tantoyuca"	-98.2283333333333	21.3516666666667	-98.2283333333333	21.3516666666667	100	NA	NA	"Original NUMERO_MAPA = F14-8"
+195	"Ciudad de Zacatecas"	999	999	999	999	9999	NA	NA	NA
+196	"San Miguel Tecamachalco"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 648 (del Edo. de Mx.)"
+197	"Santa Catalina Chinango"	999	999	999	999	9999	NA	NA	"1 Km SE Santa Catalina Chinango, en la barranca formada en una planicie llamada Llano de la Luna"
+198	"Aramberri"	999	999	999	999	9999	NA	NA	"probablemente sea Cueva de San Josecito"
+199	"Tlhuac"	999	999	999	999	9999	NA	NA	NA
+200	"Hacienda de Hornos"	999	999	999	999	9999	NA	NA	NA
+201	"Ro Verde"	999	999	999	999	9999	NA	NA	NA
+202	"Ro San Juan"	999	999	999	999	9999	NA	NA	NA
+203	"Quitovac"	999	999	999	999	9999	NA	NA	NA
+204	"Peon Viejo"	999	999	999	999	9999	NA	NA	NA
+205	"Santa Isabel Iztapan I"	999	999	999	999	9999	NA	NA	"Mamut no. 1: NW Santa Isabel Iztapan. Ref. 846: en un punto situado a 2.25 km SSW estacin ferroviaria de Tepexpan; S de Tepexpan; 2 km SW Tepexpan y WNW Santa Isabel Iztapan; ref.1: dice errneamente \"WNE Santa Isabel Iztapan\""
+206	"estacin Tepexpan"	999	999	999	999	9999	NA	NA	"al lado derecho del camino, justamente a espaldas de la estacin del ferrocarril Tepexpan"
+207	"Hacienda de Tepexpan"	999	999	999	999	9999	NA	NA	NA
+208	"El Ocotln"	999	999	999	999	9999	NA	NA	"Cerca de Jonuta, Tabasco"
+209	"Zohapilco"	999	999	999	999	9999	NA	NA	"en la base E-N del cerro de Las Cruces , uno de los puntos culminantes del cerro de Tlapacoya, y en la extremidad sur del actual pueblo del mismo nombre"
+210	"Mina"	999	999	999	999	9999	NA	NA	NA
+211	"Actun Lara"	999	999	999	999	9999	NA	NA	"Serrana entre Yokat y Ticul; cerca de Ticul; ref 713: Cueva Actn y Lara"
+212	"Cueva de las Iglesias"	999	999	999	999	9999	NA	NA	"en el caon del Soldado, Mpio. de Lerdo"
+213	"Can del Soldado"	999	999	999	999	9999	NA	NA	NA
+214	"Tlatilco"	999	999	999	999	9999	NA	NA	"2.5 Km S San Bartolo Naucalpan"
+215	"Chichen Itza"	-88.51	20.67	-88.51	20.67	9999	NA	NA	NA
+216	"Cueva de Monte Flor"	999	999	999	999	9999	NA	NA	NA
+217	"Tequesquinahua"	999	999	999	999	9999	NA	NA	NA
+218	"Santa Ana Babcora"	999	999	999	999	9999	NA	NA	NA
+219	"Azcapotzalco"	999	999	999	999	9999	NA	NA	NA
+220	"Atotonilco El Bajo"	999	999	999	999	9999	NA	NA	NA
+221	"Hueyatlaco"	999	999	999	999	2056	NA	NA	"ref. 490: 50 m Ndel nucleo principal de excavaciones arqueolgicas de la localidad Hueyatlaco (proyecto Valsequillo); en el pie de una elevacin donde afloran las brayas Valsequillo (cota 2056)"
+222	"cerca del valle de Tequixquiac"	999	999	999	999	9999	NA	NA	"regon ded Zumpango, en el extremo N de la Cuenca de Mxico, verificar que sea diferente a la loc. 332 y 276"
+223	"La Guitarra"	999	999	999	999	9999	NA	NA	"aprox. a la mitad del camino Tonichi-Sahuaripa, cerca del poblado La Guitarra"
+224	"pueblo de San Pedro Atzompa"	999	999	999	999	9999	NA	NA	NA
+225	"Tepeji de Rodriguez"	-98.1441666666667	18.5275	-98.1441666666667	18.5275	9999	NA	NA	NA
+226	"Templo Mayor"	999	999	999	999	9999	NA	NA	NA
+227	"Laguna de la Media Luna"	-100.110833333333	21.9441666666667	-100.110833333333	21.9441666666667	9999	NA	NA	NA
+228	"El Meco"	999	999	999	999	9999	NA	NA	NA
+229	"Tepexpan (El Risco II)"	999	999	999	999	9999	NA	NA	"Tepexpan es una pequea villa emplazada sobre la carretera que conduce desde Mxico a Acolman y las pirmides de Teotihuacn. Se encuentra a 300 m al N de una tajea, cerca del poste de piedra indicador del Km 6 de la carretera y a 900 m al W de la pared que rodea al Hospital de enfermos cronicos"
+230	"Actun Coyok"	999	999	999	999	9999	NA	NA	"cerca de 6.5 Km SW Oxkutzcab"
+231	"Actun Chacaljas"	999	999	999	999	9999	NA	NA	"cerca de 0.5 Km Actun Spukil en direccin a Hacienda Calcehtok"
+232	"Actun Has"	999	999	999	999	9999	NA	NA	"a la mitad de la Sierra, alrededor de 6.5 Km S de Yokat"
+233	"Cuitzeo"	999	999	999	999	9999	NA	NA	"a la orilla S del lago, dentro de la pennsula y casi pegado a las ltimas casas del pueblo"
+234	"Valle de Puebla-Tlax."	999	999	999	999	9999	NA	NA	NA
+235	"Altiplanicie Central de Mxico"	999	999	999	999	9999	NA	NA	NA
+236	"Norte de Mxico (pas)"	999	999	999	999	9999	NA	NA	NA
+237	"Cueva de Santa Marta"	999	999	999	999	9999	NA	NA	"7.5 Km al NW de Ocozocoautla, Chiapas, la cueva esta en la finca Kikap a unos 5 Km W de Ocozocoautla"
+238	"Cueva del Tepeyolo"	999	999	999	999	9999	NA	NA	"10 Km Totemihuacn mrgenes de la Presa de Valsequillo"
+239	"Cueva del Texcal"	999	999	999	999	9999	NA	NA	"6 Km S de Totemihuacn, margenes de la Presa de Valsequillo; 6.5 Km W Cueva de Tepeyolo"
+240	"Regin de Gmez Faras"	999	999	999	999	9999	NA	NA	"Alvarez y Arroyo( 1989) engloban con \"regin de Gmez Faras\", las tres localidades de Koopman y Martn (1959): Infiernillo, Paraiso y Rancho del Cielo"
+241	"Cuevas de Yucatn"	999	999	999	999	9999	NA	NA	NA
+242	"Chimalhuacan-Atenco"	999	999	999	999	9999	NA	NA	"oriente de la ciudad de Mxico hacia el Noroeste del cerro Chimalhuacn, Edo. de Mxico"
+243	"Tonin"	999	999	999	999	9999	NA	NA	NA
+244	"Rancho La Brisca"	999	999	999	999	9999	NA	NA	NA
+245	"Estado de Aguascalientes"	999	999	999	999	9999	NA	NA	NA
+246	"Aguacatenango"	-92.4108333333333	16.6275	-92.4108333333333	16.6275	9999	NA	NA	"Serrana limtrofe de la Mesa Central y la Depresin Central, Carretera El Carmelito-Villa de las Rosas, Municipio de Aguacatenango (ref. 548)"
+247	"Santa Isabel Iztapan II"	999	999	999	999	9999	NA	NA	"Mamut no. 2: W Santa Isabel Iztapan. Ref. 847: cerca de Tepexpan; ref. 723: aprox. 350m S del sitio que fue explorado el 1er. mamut en Iztapan y aprox. 2600m SSW del sitio del hallazgo del hombre fsil de Tepexpan."
+248	"ranchera \"Margaritas\""	-102.273333333333	22.0133333333333	-102.273333333333	22.0133333333333	1890	NA	NA	"junto al ro Chicalote, sobre la carretera internacional; Original NUMERO_MAPA = F13-B89"
+250	"Cuenca Chapala, Zacoalco"	999	999	999	999	9999	NA	NA	NA
+251	"Lago de Texcoco"	999	999	999	999	9999	NA	NA	NA
+252	"Laguna de las Cruces"	-101.881111111111	22.6513888888889	-101.881111111111	22.6513888888889	2100	NA	NA	"Original NUMERO_MAPA = F14-A61"
+254	"Monterrey"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 399 y loc. 742 (del edo. de Jalisco)"
+256	"Santa Luca I, II"	999	999	999	999	9999	NA	NA	NA
+257	"Iztapan"	999	999	999	999	9999	NA	NA	"El estado no es seguro"
+258	"Santa Martha Acatitla Sur"	999	999	999	999	9999	NA	NA	"en la calle Emilio Madero, casi esquina con Tito Ferrer, a un costado de la Escuela Primaria \"24 de febrero\" en la colonia Santa Martha Acatitla Sur"
+259	"Tepexpan-Arellano"	999	999	999	999	9999	NA	NA	NA
+260	"Tepexpan-Totolcingo"	999	999	999	999	9999	NA	NA	"ref. 776: en la zona entre los pueblos de Tepexpan y Totolcingo"
+261	"Tepexpan-Hospital"	999	999	999	999	9999	NA	NA	"ref. 846: en el punto inmediato al Hospital para enfermos incurables"
+263	"Plaza de las Tres Culturas, Tlatelolco"	999	999	999	999	9999	NA	NA	NA
+264	"Ciudad de los Deportes"	999	999	999	999	9999	NA	NA	NA
+265	"Cueva Encantada"	999	999	999	999	9999	NA	NA	"2 Km W Chimalacatln, a unos 200 m sobre el nivel del valle"
+266	"Atotonilco"	999	999	999	999	9999	NA	NA	NA
+267	"esquina de la 2 Norte y Portal Hidalgo"	999	999	999	999	9999	NA	NA	"Edificio Caldern"
+268	"Cholula"	999	999	999	999	9999	NA	NA	NA
+269	"Pen de los Baos"	999	999	999	999	9999	NA	NA	"cerca de 2.5 millas al E de la ciudad de Mxico"
+270	"Pedregal de San Angel"	999	999	999	999	9999	NA	NA	"Lave du Pedregal (Valle de Mexico) (traduccin en el escrito en francs ref. 473)"
+272	"llanura de Tepexpan"	999	999	999	999	9999	NA	NA	NA
+273	"Cantera de Jocotepec"	999	999	999	999	9999	NA	NA	"5 km W Jocotepec, hacia Guadalajara (carret. 15)"
+274	"Tlalnepantla"	999	999	999	999	9999	NA	NA	NA
+276	"Tajo de Tequixquiac"	999	999	999	999	9999	NA	NA	NA
+277	"Barranca de Acutcingo"	999	999	999	999	9999	NA	NA	"El contenido de fauna es diferente a las de las loc. 45 y 193"
+278	"Tajo de Tequixquiac-Barranca de Acatln"	999	999	999	999	9999	NA	NA	"E de la boca norte del tunel del desague"
+280	"Estado de Nuevo Len"	999	999	999	999	9999	NA	NA	NA
+281	"Colonia Los Alamos"	999	999	999	999	9999	NA	NA	NA
+282	"Tepexpan en el Museo de Prehistoria"	999	999	999	999	9999	NA	NA	"en le punto donde se levanta actualmente dicho museo"
+283	"Rancho de la Verdolaga"	999	999	999	999	9999	NA	NA	"Dugs (1982;ref.176) dice que es de la jurisdiccin de San Juan de los Lagos, pero nunca dice a que estado pertenece. Se  sique a Barrios (1985;ref.548) quien lo ubica en Jalisco"
+284	"Guil Naquitz"	999	999	999	999	9999	NA	NA	NA
+285	"Cueva de los Afligidos"	999	999	999	999	9999	NA	NA	NA
+286	"Cd. Serdn"	-97.445	18.9441666666667	-97.445	18.9441666666667	2600	NA	NA	"Original NUMERO_MAPA = E14-6"
+287	"Ixtapan"	-92.9275	16.8275	-92.9275	16.8275	1120	NA	NA	NA
+288	"Tepexpan cerca del sitio del hombre fsil"	999	999	999	999	9999	NA	NA	"ref. 846: a corta distancia del sitio de hallazgo del hombre fsil"
+289	"Barranca del Toro"	-97.9683333333333	19.5633333333333	-97.9683333333333	19.5633333333333	2500	NA	NA	"Original NUMERO_MAPA = E14-B24"
+290	"cercano al radio faro de Tepexpan"	999	999	999	999	9999	NA	NA	NA
+291	"Estado de Mxico"	999	999	999	999	9999	NA	NA	NA
+293	"Teotihuacn"	999	999	999	999	9999	NA	NA	"camino periferico de la zona arqueolgica, cerca del Rio San Juan, sector N2E2"
+294	"Cueva de las Ventanas"	999	999	999	999	9999	NA	NA	NA
+295	"La Ascensin"	-99.9133333333333	24.325	-99.9133333333333	24.325	1960	NA	NA	"cercanias Rancho La Angostura; Original NUMERO_MAPA = G14-C77"
+296	"Comondu"	999	999	999	999	9999	NA	NA	"Prob. sea igual a la localidad 151"
+297	"Punta Molas"	999	999	999	999	9999	NA	NA	NA
+298	"Cinco Puertas"	999	999	999	999	9999	NA	NA	NA
+299	"San Miguel"	999	999	999	999	9999	NA	NA	NA
+300	"El Cedral"	999	999	999	999	9999	NA	NA	NA
+301	"Buena Vista"	999	999	999	999	9999	NA	NA	NA
+302	"San Gervasio"	999	999	999	999	9999	NA	NA	NA
+303	"La Expedicin, Cinco Manos"	999	999	999	999	9999	NA	NA	NA
+304	"Aguada Grande"	999	999	999	999	9999	NA	NA	NA
+305	"Zuuk"	999	999	999	999	9999	NA	NA	NA
+306	"Cozumel"	999	999	999	999	9999	NA	NA	NA
+307	"Tlatilco"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 214 (del Edo. de Mx.)"
+308	"Ixtapan"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 287 (del edo. de Chiapas)"
+309	"Tajo de desemboque-canal de desage Tequixquiac"	999	999	999	999	9999	NA	NA	"regon ded Zumpango, en el extremo N de la Cuenca de Mxico, verificar que sea diferente a la loc. 332 y 276"
+310	"Las Morenas"	999	999	999	999	9999	NA	NA	NA
+311	"Campn"	999	999	999	999	9999	NA	NA	NA
+312	"Tlacuachero"	999	999	999	999	9999	NA	NA	NA
+313	"La Palma"	999	999	999	999	9999	NA	NA	NA
+314	"Ro Arriba"	999	999	999	999	9999	NA	NA	NA
+315	"Las Lomas"	999	999	999	999	9999	NA	NA	NA
+316	"San Pedro Cara"	999	999	999	999	9999	NA	NA	"15 Km al este de Cojumatln, en las afueras del pueblo, direccin SO, cerca de la carretera a Saguayo"
+317	"Al este de la Laguna El Barreal, Sitio 2"	999	999	999	999	9999	NA	NA	NA
+318	"Al este de la Laguna El Barreal, Sitio 1"	999	999	999	999	9999	NA	NA	NA
+319	"Ejrcito de Oriente"	999	999	999	999	9999	NA	NA	"en la calle de Batalln de Zapadores, frente al N. 55 A, en la unidad Ejrcito de Oriente. Delagacin Iztapalapa"
+320	"Tlapacoya"	-98.9083333333333	19.3083333333333	-98.9083333333333	19.3083333333333	9999	NA	NA	"relacionado con el Lago de Chalco; Agenbroad 1984), ubica la localidad errneamente en Puebla, la bibligrafa que usa es de Lorenzo, Mirammbell y Haynes"
+321	"San Pedro de Roma"	999	999	999	999	9999	NA	NA	NA
+323	"Colonia Gertrudis Snchez"	999	999	999	999	9999	NA	NA	"lote 6006 de la calle Norte 86-A; verificar que no sea la misma a la loc. 104"
+324	"Los Reyes-La Paz I"	999	999	999	999	9999	NA	NA	"Los Reyes La Paz (cuadra 2): Ver los planos que existen en Lorenzo y Mirambell (1986) para ubicar la cuadra 2"
+325	"Calle Ro Yaqui"	999	999	999	999	9999	NA	NA	NA
+326	"Los Reyes-La Paz II"	999	999	999	999	9999	NA	NA	"Los Reyes La Paz (cuadra 10): Ver los planos que existen en Lorenzo y Mirambell (1986) para ubicar la cuadra 10"
+327	"Santa Luca I"	999	999	999	999	9999	NA	NA	NA
+328	"Santa Luca II"	999	999	999	999	9999	NA	NA	"ref. 857: base area de Santa Luca. 365 m del sitio excavado 1976 (Santa Luca I) dentro de los terrenos de la base area"
+329	"San Juan Capistrano"	999	999	999	999	9999	NA	NA	NA
+330	"Tamazulapan"	999	999	999	999	9999	NA	NA	"En las cercanas del poblado de Tamazulapan; cerca de la Villa de Tamazulapan"
+331	"Estado de Baja California Sur"	999	999	999	999	9999	NA	NA	NA
+332	"Tajo del desage viejo (Tequixquiac)"	999	999	999	999	9999	NA	NA	NA
+333	"Barranca de Tequixquiac"	999	999	999	999	9999	NA	NA	NA
+334	"cercanas de la Laguna de Chamicaris"	999	999	999	999	9999	NA	NA	NA
+335	"Cuenca del Balsas"	999	999	999	999	9999	NA	NA	"citada en los estados de Michoacn y Guerrero"
+336	"Vistahermosa"	999	999	999	999	9999	NA	NA	NA
+337	"Arroyo Alseseca"	-98.5466666666667	19.1266666666667	-98.5466666666667	19.1266666666667	9999	NA	NA	"Original NUMERO_MAPA = E14-2"
+338	"Guasave I"	-108.3275	25.6775	-108.3275	25.6775	20	NA	NA	"a 19 Km en lnea recta, al NE de la ciudad de Guasave"
+339	"Estado de Sinaloa"	999	999	999	999	9999	NA	NA	NA
+340	"Ro de Juchipila"	999	999	999	999	9999	NA	NA	NA
+341	"Cerro de las Palmas"	999	999	999	999	9999	NA	NA	"cerca de Tacubaya; ref. 846: en Tacubaya, en excavaciones hechas para la cimentacin de \"un garita de vigilancia a la salida de la carretera a Toluca\""
+342	"Barranca de Regla"	999	999	999	999	9999	NA	NA	NA
+343	"Huehuetoca"	-99.2016666666667	19.98	-99.2016666666667	19.98	2260	NA	NA	"Original NUMERO_MAPA = E14-A19"
+344	"Chapultepec"	999	999	999	999	9999	NA	NA	NA
+345	"Xalapa"	999	999	999	999	9999	NA	NA	NA
+346	"Atotonilco El Grande"	999	999	999	999	9999	NA	NA	"cerca del Real del Monte; verificar que no sea la misma a la loc. 665 (del edo. de Hidalgo); tanto Falconer (ref. 251) como Barrios (ref. 540) se basan en Freudenberg."
+347	"Paraiso"	999	999	999	999	420	NA	NA	"13 km NNW Chamal; 13 Km SW Gmez Faras"
+348	"Rancho del Cielo"	999	999	999	999	1050	NA	NA	"6 km NW Gmez Faras"
+349	"Infierno"	999	999	999	999	1320	NA	NA	"2 km S del mill poblado llamado La Gloria; 7 km W Gmez Faras"
+350	"Estado de Chiapas"	999	999	999	999	9999	NA	NA	NA
+351	"llanura en el territorio sur de la Pennsula"	999	999	999	999	9999	NA	NA	NA
+352	"Valle de Puebla"	999	999	999	999	9999	NA	NA	"Verificar que realmente est en el estado de Puebla"
+353	"Arroyo Amajac"	999	999	999	999	9999	NA	NA	"Asignada tentativamente a ese estado, debido a que no existe otro Amajac (Santa Cruz Amajac, valle de Amajaque, etc.) en la literatura ms que en Hidalgo."
+354	"Rio Vrgenes"	-99.6816666666667	24.1933333333333	-99.6816666666667	24.1933333333333	900	NA	NA	"Original NUMERO_MAPA = G14-C87"
+355	"Peninsula de Yucatn"	999	999	999	999	9999	NA	NA	NA
+356	"metro STC ruta 1"	999	999	999	999	9999	NA	NA	NA
+357	"Tajo viejo de Tequixquac? Nochistongo?"	999	999	999	999	9999	NA	NA	NA
+358	"esquina de la Av. 5 de mayo y 2 Poniente"	999	999	999	999	9999	NA	NA	"Edificio Alles"
+359	"Temamatla"	999	999	999	999	9999	NA	NA	NA
+360	"San Marcos Necoxtla"	-97.8183333333333	18.8933333333333	-97.8183333333333	18.8933333333333	2000	NA	NA	"Original NUMERO_MAPA = E14-6"
+361	"Tequixquiac (near)"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 3 (del Edo. de Mx.)"
+362	"Mina Erupcin"	-102.0275	31.6775	-102.0275	31.6775	9999	NA	NA	"145 Km S-SE de Cd. Juarez, Montaa Los Lamentos; 15 S en el cerro Los Lamentos; 72 E en el cerro Los Lamentos"
+363	"Tlascala"	999	999	999	999	9999	NA	NA	"verificar que sea con \"s\" y no con \"x\""
+364	"Estado de Durango"	999	999	999	999	9999	NA	NA	NA
+365	"Estado de Tamaulipas"	999	999	999	999	9999	NA	NA	NA
+366	"Venustiano Carranza"	-104.721666666667	20.0775	-104.721666666667	20.0775	560	NA	NA	"Original NUMERO_MAPA = F13-D81"
+367	"Arteaga"	-102.29	18.3566666666667	-102.29	18.3566666666667	820	NA	NA	"Original NUMERO_MAPA = E13-9"
+368	"Grutas de Cocon"	999	999	999	999	9999	NA	NA	"cerca de Teapa"
+369	"Santa Cruz Aguiahua"	-98.2816666666667	19.2383333333333	-98.2816666666667	19.2383333333333	2220	NA	NA	"Original NUMERO_MAPA = E14-B43"
+370	"Tlaltlaya"	999	999	999	999	9999	NA	NA	"Provienen del Rancho La Cofradia, en Tlaltlaya"
+371	"Mayapan"	-89.2441666666667	20.4941666666667	-89.2441666666667	20.4941666666667	20	NA	NA	NA
+372	"Cerro del Tecolote"	999	999	999	999	9999	NA	NA	"30 m de la ribera pominte del Lago de Zacoalco, 1.2 m del terreno y 1.5 sobre el nivel del agua"
+373	"El Tule"	999	999	999	999	9999	NA	NA	"en el camino entre Catarina y Atotonilco el Bajo"
+374	"construcciones en el arroyo San Francisco"	999	999	999	999	9999	NA	NA	"a la altura 48 poniente"
+375	"Estado de Yucatn"	999	999	999	999	9999	NA	NA	NA
+376	"Iztapan de la Sal"	999	999	999	999	9999	NA	NA	NA
+377	"Cuanalan"	999	999	999	999	9999	NA	NA	"Valle de Teotihuacn; Snchez (1985) dice, rroneamente, que tiene 2 ooo aos, mexvlando los datos de dos localidades que vienen en la referencia original"
+378	"Torre Latinoamericana"	999	999	999	999	9999	NA	NA	"debajo de la Torre Latinoamericana"
+379	"Mexican plateau"	999	999	999	999	9999	NA	NA	NA
+380	"Tecualilla"	999	999	999	999	9999	NA	NA	"Se asign tentativamente a Nayarit, ya que Wing (1968) dice que est en el estero Teacapan, y la mayor parte de ese estero est en Nayarit, aunque el poblado de Teacapan est en Sinaloa."
+381	"Juana Gomez"	999	999	999	999	9999	NA	NA	"Se refiere por deduccin a ese estado, debido a que Wing dice que el sitio esta situado \"farther inland on high ground near the town of Escuinapa\""
+382	"Chalpa"	999	999	999	999	9999	NA	NA	"Se asign tentativamente a Nayarit, ya que Wing (1968) dice que est en el estero Teacapan, y la mayor parte de ese estero est en Nayarit, aunque el poblado de Teacapan est en Sinaloa."
+383	"Cancn"	999	999	999	999	9999	NA	NA	"ref. 306: localidad en la pennsula de Yucatn; ref. 309: loc. en Yucatn, pero en mapa si est en Q. Roo"
+384	"Chalahuites"	-96.3716666666667	19.47	-96.3716666666667	19.47	30	NA	NA	"Original NUMERO_MAPA = E14-3"
+385	"Santa Luisa"	999	999	999	999	9999	NA	NA	NA
+386	"San Lorenzo"	999	999	999	999	9999	NA	NA	NA
+387	"Patarata"	999	999	999	999	9999	NA	NA	NA
+388	"Golfo de Mxico"	999	999	999	999	9999	NA	NA	NA
+389	"Limoncito"	999	999	999	999	9999	NA	NA	NA
+390	"Palo Dulce"	999	999	999	999	9999	NA	NA	"S del municipio de Atotonilco el Alto aproximadamente 70 Km al E (en lnea resta) de la ciudad de Guadalajara, se localizo en el lecho del Arroyo Zula"
+391	"Santa Mara Ixtapn"	999	999	999	999	9999	NA	NA	NA
+392	"Tlaltenco I"	999	999	999	999	9999	NA	NA	NA
+393	"lecho del arroyo San Francisco"	999	999	999	999	9999	NA	NA	"a la altura de la 4 oriente"
+394	"Tlapacoya"	999	999	999	999	9999	NA	NA	NA
+395	"Mixcoac"	999	999	999	999	9999	NA	NA	NA
+396	"Valle de Puebla-Tlaxcala"	999	999	999	999	9999	NA	NA	NA
+397	"Palacio de Tetitla, Teotihuacn"	999	999	999	999	9999	NA	NA	"Ojo, en la ref.356 (Starbuck, 1975), esta localidad se maneja como una unidad de anlisis"
+398	"Chiconautla"	999	999	999	999	9999	NA	NA	NA
+399	"zcalo de Puebla"	999	999	999	999	9999	NA	NA	NA
+400	"Cine Latino"	999	999	999	999	9999	NA	NA	NA
+403	"Rancho del Reparo"	999	999	999	999	9999	NA	NA	"Cerca de Guajuco, y Guajuco est aprox. 10 leguas (lieues) SE Monterrey"
+405	"esquina de la 3 Poniente y 5 Sur"	999	999	999	999	9999	NA	NA	"Edificio Barranco"
+407	"Hacienda Ojocaliente"	-102.673333333333	21.875	-102.673333333333	21.875	1690	NA	NA	"Original NUMERO_MAPA = F13-D17"
+408	"frente al Rancho La Trinidad"	999	999	999	999	9999	NA	NA	NA
+409	"calle 4 Poniente 306"	999	999	999	999	9999	NA	NA	"Edificio Matanzo"
+410	"Barranca del Cedazo"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 93 y 22"
+411	"Pabelln"	999	999	999	999	9999	NA	NA	NA
+412	"Ciudad de Aguascalientes"	999	999	999	999	9999	NA	NA	NA
+413	"Hacienda Aragn"	999	999	999	999	9999	NA	NA	NA
+414	"Oztoyahualco"	999	999	999	999	9999	NA	NA	NA
+415	"Santa Mara Coatln"	-98.8266666666667	19.685	-98.8266666666667	19.685	2290	NA	NA	"Original NUMERO_MAPA = E14-B31"
+416	"Xocotitla"	999	999	999	999	9999	NA	NA	NA
+417	"Mezquititla"	999	999	999	999	9999	NA	NA	NA
+418	"Tlailotlacan"	999	999	999	999	9999	NA	NA	NA
+419	"Santa Mara Tecola (Valsequillo)"	-98.1916666666667	18.905	-98.1916666666667	18.905	2050	NA	NA	"Original NUMERO_MAPA = E14-5"
+420	"Cantera de Guadalupe"	999	999	999	999	9999	NA	NA	"cerca de Pesqueiria Chica (10 leguas NE Monterrey)"
+421	"Topo"	999	999	999	999	9999	NA	NA	"cerca de los manatiales sulfurosos de Topo (2 leguas de Monterrey"
+422	"Yayahuala"	999	999	999	999	9999	NA	NA	NA
+423	"Tepantila"	999	999	999	999	9999	NA	NA	NA
+424	"Teopancazco, Teotihuacn"	999	999	999	999	9999	NA	NA	NA
+425	"Tlajinga 33, Teothihuacn"	999	999	999	999	9999	NA	NA	NA
+426	"Tlachinolpan, Teotihuacn"	999	999	999	999	9999	NA	NA	NA
+428	"Sur de Nuevo Len"	999	999	999	999	9999	NA	NA	"Entre Montemorelos y Linares"
+429	"Villa de Tequixquiac"	999	999	999	999	9999	NA	NA	NA
+430	"Chocoy"	999	999	999	999	9999	NA	NA	NA
+431	"Huchichil"	999	999	999	999	9999	NA	NA	NA
+432	"Cerro del Tepalcate"	999	999	999	999	9999	NA	NA	NA
+434	"Acultzingo"	999	999	999	999	9999	NA	NA	NA
+435	"Baja California"	999	999	999	999	9999	NA	NA	NA
+436	"Linares"	-99.5941666666667	24.59	-99.5941666666667	24.59	350	NA	NA	"Original NUMERO_MAPA = G14-C58"
+437	"30 km W del Rancho del Gramal"	999	999	999	999	9999	NA	NA	"30 Km W Rancho del Gramal en el km 668 Pan American highway al sur de Nejapan Villa"
+438	"Buena Vista"	999	999	999	999	9999	NA	NA	"2 leguas S Saltillo"
+439	"Villa de Tatlauquitepec"	999	999	999	999	9999	NA	NA	"Ojo esta localidad est mal asociada por Mena de la Pea. debiese estar asociada a Mammuthus y no a Equus"
+440	"Matehuala"	-100.643611111111	23.4788888888889	-100.643611111111	23.4788888888889	1570	NA	NA	"Original NUMERO_MAPA = F14-A25"
+441	"Zacualtipan Villa"	999	999	999	999	9999	NA	NA	NA
+442	"Noreste de Mxico"	999	999	999	999	9999	NA	NA	"Menciona de manera general los estados de Tamaulipas, Veracruz, Nuevo Len  y Coahuila"
+443	"Baja California (Lower) it self"	999	999	999	999	9999	NA	NA	NA
+447	"Costa del Pacfico"	999	999	999	999	9999	NA	NA	NA
+448	"Estado de Colima"	999	999	999	999	9999	NA	NA	NA
+449	"Calamotln, Sto. Domingo Ocotitlan"	-99.06	19.0116666666667	-99.06	19.0116666666667	2050	NA	NA	"Original NUMERO_MAPA = E14-A49"
+450	"Plaza de Toros"	999	999	999	999	9999	NA	NA	NA
+451	"Valley of Bones"	999	999	999	999	9999	NA	NA	NA
+452	"Rancheria Parga, Arroyo San Francisco"	999	999	999	999	9999	NA	NA	"Prob. sea igual a loc. 21"
+453	"El Golfo"	999	999	999	999	9999	NA	NA	NA
+454	"S. T. C. Metro"	999	999	999	999	9999	NA	NA	NA
+455	"Vega de Paso"	999	999	999	999	9999	NA	NA	NA
+456	"La Angostura"	999	999	999	999	9999	NA	NA	NA
+457	"S. T. C. Tultepec"	999	999	999	999	9999	NA	NA	NA
+458	"Chinampas"	999	999	999	999	9999	NA	NA	NA
+459	"Ibarrilla"	999	999	999	999	9999	NA	NA	NA
+460	"S. T. C. I F7 S1"	999	999	999	999	9999	NA	NA	NA
+461	"esquina NE de las calles Homero y Sudermann"	999	999	999	999	9999	NA	NA	NA
+462	"Barranca del Diablo, Chalpulualpan"	999	999	999	999	9999	NA	NA	NA
+463	"? Museo Nacional de Antropologa, INAH"	999	999	999	999	9999	NA	NA	NA
+465	"Coulapan"	999	999	999	999	9999	NA	NA	NA
+466	"Colonia Los Cuartos"	999	999	999	999	9999	NA	NA	"margen boreal del Ro Totolica, a 10m de distancia horizontal del cauce y unos 300m aguas de la presa del mismo nombre"
+467	"Resumidero de 22 m de prof. en el tiro de una mina"	999	999	999	999	9999	NA	NA	NA
+468	"Fraccionamiento Ojo de Agua"	999	999	999	999	9999	NA	NA	NA
+469	"zona Arqueolgica de Ranas"	999	999	999	999	9999	NA	NA	NA
+470	"San Joaqun"	999	999	999	999	9999	NA	NA	NA
+471	"Cerro San Antonio"	999	999	999	999	9999	NA	NA	NA
+472	"La Ciudad"	999	999	999	999	9999	NA	NA	NA
+473	"Mina Escobilla"	999	999	999	999	9999	NA	NA	NA
+474	"Mina Prieta"	999	999	999	999	9999	NA	NA	NA
+476	"Zacatenco"	999	999	999	999	9999	NA	NA	NA
+477	"La Villita"	999	999	999	999	9999	NA	NA	"la localidad esta entre los estados de  Guerrero y Michoacn"
+478	"La Nopalera, Valsequillo"	999	999	999	999	9999	NA	NA	NA
+479	"Villa de Reyes"	999	999	999	999	9999	NA	NA	"Original NUMERO_MAPA = F14-C14"
+480	"S. T. C. Metro Km 2 (Chapultepec)"	999	999	999	999	9999	NA	NA	NA
+482	"Tlatelolco"	999	999	999	999	9999	NA	NA	NA
+483	"Iztatlan?"	999	999	999	999	9999	NA	NA	NA
+484	"San Antonio El Pobre"	999	999	999	999	9999	NA	NA	NA
+487	"Centro de Tequixquiac"	999	999	999	999	9999	NA	NA	NA
+488	"Estado de Sonora"	999	999	999	999	9999	NA	NA	NA
+489	"SE del Riego"	999	999	999	999	9999	NA	NA	"cerca de Tehuacn"
+490	"Alcozaula"	999	999	999	999	9999	NA	NA	NA
+491	"Cerro de las Mesas"	999	999	999	999	9999	NA	NA	NA
+492	"Carretera Teoloyucan-Huehuetoca"	999	999	999	999	9999	NA	NA	NA
+493	"Santa Clara"	999	999	999	999	9999	NA	NA	NA
+494	"Av. Universidad, Banco de Comercio"	999	999	999	999	9999	NA	NA	NA
+495	"Kohunlich"	999	999	999	999	9999	NA	NA	NA
+496	"Km 28 camino Cuernavaca-Amacuzac"	999	999	999	999	9999	NA	NA	NA
+497	"Rancho del Tlacuache"	999	999	999	999	9999	NA	NA	NA
+498	"Valle de la Piedad"	999	999	999	999	9999	NA	NA	NA
+499	"Trinitaria"	999	999	999	999	9999	NA	NA	"trabajos arqueolgicos en la seccin de mquinas electronicas, MNA"
+500	"Las Cuarenta Casas"	999	999	999	999	9999	NA	NA	NA
+501	"San Joaqun"	999	999	999	999	9999	NA	NA	NA
+502	"Tomatln"	999	999	999	999	9999	NA	NA	NA
+503	"Ex-convento de San Jernimo"	999	999	999	999	9999	NA	NA	NA
+505	"La Negreta"	999	999	999	999	9999	NA	NA	NA
+506	"Cueva de Pilancn"	-97.9066666666667	19.5016666666667	-97.9066666666667	19.5016666666667	3020	NA	NA	"Original NUMERO_MAPA = E14-B24"
+507	"Petatln"	-101.294166666667	17.5608333333333	-101.294166666667	17.5608333333333	40	NA	NA	NA
+508	"San Pedro Totoltepec"	999	999	999	999	9999	NA	NA	"ref. 752: en el canal del patio de la fbrica en construccin \"Cierres Ideal de Mxico\", en carreteraMexico-Toluca tomar lateral hasta entronque de Sn. Pedro Toltepec, seguir 1.5 Km."
+509	"Tepeapulco"	999	999	999	999	9999	NA	NA	NA
+510	"Calpulalpan"	999	999	999	999	9999	NA	NA	NA
+511	"San Pablo Tecalco"	999	999	999	999	9999	NA	NA	NA
+512	"Cuauhtochco"	999	999	999	999	9999	NA	NA	NA
+513	"Tlaxcoapan"	999	999	999	999	9999	NA	NA	NA
+514	"Tizatlan y Totolac"	999	999	999	999	9999	NA	NA	NA
+515	"Sayultepec"	999	999	999	999	9999	NA	NA	NA
+516	"Hueyotlipan"	999	999	999	999	9999	NA	NA	NA
+517	"Pichilingue"	999	999	999	999	9999	NA	NA	NA
+518	"Santiago Temixco"	999	999	999	999	9999	NA	NA	NA
+519	"Balneario Rosa Azul, Jocotitln"	999	999	999	999	9999	NA	NA	NA
+520	"Santa Mara del Oro"	-105.394166666667	25.9775	-105.394166666667	25.9775	1700	NA	NA	"Manzana 32, Arroyo del Agua Buena, Barrio del Llano"
+521	"Tetitlan"	999	999	999	999	9999	NA	NA	"Sitio CC-1 (con acento?)"
+522	"Col. Francisco R. Serrano (El Burrero)"	999	999	999	999	9999	NA	NA	NA
+523	"Ixil"	-89.5108333333333	21.1775	-89.5108333333333	21.1775	10	NA	NA	NA
+524	"Fogtico (pozo 3)"	999	999	999	999	9999	NA	NA	NA
+525	"Cob"	999	999	999	999	9999	NA	NA	NA
+526	"Laguna de Viesca, ojo grande de Bilbao (O2)"	999	999	999	999	9999	NA	NA	NA
+527	"Laguna de Viesca, Ojo de Lourdes (O1)"	999	999	999	999	9999	NA	NA	NA
+528	"Patuichan"	999	999	999	999	9999	NA	NA	NA
+530	"Barranca cerca de S. Antonio Miltepec"	999	999	999	999	9999	NA	NA	NA
+531	"Tomatln 28 (Nahuapa II)"	999	999	999	999	9999	NA	NA	NA
+532	"Calzada Sta. Ana 1000"	999	999	999	999	9999	NA	NA	NA
+533	"Coixtlahuaca"	999	999	999	999	9999	NA	NA	NA
+534	"San Jose Tepenen"	999	999	999	999	9999	NA	NA	NA
+535	"Cuicuilco"	999	999	999	999	9999	NA	NA	NA
+536	"Sta. Catarina, Cholula"	999	999	999	999	9999	NA	NA	NA
+537	"Palenque"	-92.0108333333333	17.5441666666667	-92.0108333333333	17.5441666666667	60	NA	NA	NA
+539	"Corral de Piedra"	999	999	999	999	9999	NA	NA	NA
+540	"Yaxchiln"	-91.0275	16.9275	-91.0275	16.9275	9999	NA	NA	NA
+541	"Cerro de la Mesa"	999	999	999	999	9999	NA	NA	NA
+542	"Arroyo Concha"	-91.695	17.7183333333333	-91.695	17.7183333333333	20	NA	NA	"Original NUMERO_MAPA = E15-9"
+545	"Reserva de Valsequillo"	999	999	999	999	9999	NA	NA	NA
+546	"Estado de Hidalgo"	999	999	999	999	9999	NA	NA	NA
+549	"Vaso de la Presa El Infiernillo"	999	999	999	999	9999	NA	NA	NA
+550	"Cerro Huatepeque"	999	999	999	999	9999	NA	NA	NA
+552	"Las Pilas"	999	999	999	999	9999	NA	NA	NA
+553	"Huatabampo"	999	999	999	999	9999	NA	NA	NA
+554	"Tequizquiac (localidad exacta desconocida)"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 3 (del Edo. de Mx.)"
+556	"San Juan Evangelista"	999	999	999	999	9999	NA	NA	NA
+557	"Casa del Conde de Heras y Soto"	999	999	999	999	9999	NA	NA	NA
+558	"(Mxico central)"	999	999	999	999	9999	NA	NA	NA
+559	"El Ranchito"	999	999	999	999	9999	NA	NA	NA
+560	"Los Llanos"	999	999	999	999	9999	NA	NA	NA
+561	"Municipio de Cuencame"	999	999	999	999	9999	NA	NA	NA
+562	"Presa Francisco Zarco"	999	999	999	999	9999	NA	NA	NA
+563	"Calakmul"	999	999	999	999	9999	NA	NA	NA
+564	"Centro de Veracruz"	999	999	999	999	9999	NA	NA	NA
+565	"Etla"	-96.7941666666667	17.1775	-96.7941666666667	17.1775	1630	NA	NA	NA
+566	"Lacamtn"	999	999	999	999	9999	NA	NA	NA
+567	"Barrio Ebansta, Chimalhuacn"	999	999	999	999	9999	NA	NA	NA
+568	"Cerro del Pino"	999	999	999	999	9999	NA	NA	"Ladera baja del Cerro del Pino, hacia la barranca las Palmas"
+569	"Anhuac"	999	999	999	999	9999	NA	NA	NA
+570	"Ecatepec"	999	999	999	999	9999	NA	NA	NA
+571	"Santa Martha Acatitla"	999	999	999	999	9999	NA	NA	"en la esquina entre calles las calles Francisco Manriquez y Emilio Madero, en la acera de esta ultima, col. Santa Martha acatitla, Del. Iztapalapa; ref. 864: entre las calles de Luco Blanco y Francisco Manrique, de la colonia Sta. Martha Acatitla Sur"
+572	"Papaguera"	999	999	999	999	9999	NA	NA	"Noroeste del estado"
+573	"Santa Casilda"	999	999	999	999	9999	NA	NA	NA
+574	"Huandacareo"	999	999	999	999	9999	NA	NA	"Cuenca de Cuitzeo"
+575	"Arroyo del Parral, Sierra de San Francisco"	999	999	999	999	9999	NA	NA	NA
+576	"Xochimilco"	999	999	999	999	9999	NA	NA	NA
+577	"Cerritos"	999	999	999	999	9999	NA	NA	NA
+578	"Tzintzuntzan"	999	999	999	999	9999	NA	NA	NA
+579	"San Blas, en las faldas del Cerro La Contadura"	999	999	999	999	9999	NA	NA	NA
+580	"San Francisco Mazapa, cueva 5, grupo III"	999	999	999	999	9999	NA	NA	NA
+581	"San Francisco Mazapa"	999	999	999	999	9999	NA	NA	NA
+583	"hombre de Tepexpan"	999	999	999	999	9999	NA	NA	NA
+584	"Lobol"	999	999	999	999	9999	NA	NA	NA
+585	"Tepetitln"	999	999	999	999	9999	NA	NA	NA
+586	"Opatara"	999	999	999	999	9999	NA	NA	"Noreste del estado"
+587	"Cucurpe"	-110.7275	30.3608333333333	-110.7275	30.3608333333333	860	NA	NA	"cerca de Cucurpe, sobre el ro San Miguel, en la porcin central del estado; sitio G:10:2"
+588	"La Nopalera"	999	999	999	999	9999	NA	NA	NA
+589	"Morales"	999	999	999	999	9999	NA	NA	NA
+590	"Terremote-Tlaltenco"	999	999	999	999	9999	NA	NA	"ref. 852: S de la Cuenca de Mxico, el asentamiento en un islote cercano a la ribera del antiguo lago Chalco-Xochimilco; ref. 863: al poniente de Tlapacoya"
+591	"Mixtequilla"	999	999	999	999	9999	NA	NA	NA
+592	"Tres Cerritos"	999	999	999	999	9999	NA	NA	NA
+593	"Edificio de los Cinco Pisos, Edzn"	999	999	999	999	9999	NA	NA	NA
+594	"El Limonal"	999	999	999	999	9999	NA	NA	NA
+595	"Huapalcalco"	999	999	999	999	9999	NA	NA	"en el valle de Tulancingo"
+596	"Guatemala # 90"	999	999	999	999	9999	NA	NA	NA
+597	"Unidad Habitacional Potrero La Laguna"	999	999	999	999	9999	NA	NA	"ref. 856 y 857: la localidad la cita como Coacalco (verificar que se ha asignado bien el nombre de la localidad)"
+598	"Xcaret"	-87.1275	20.6275	-87.1275	20.6275	9999	NA	NA	NA
+599	"Xochicalco"	999	999	999	999	9999	NA	NA	NA
+600	"Bomentzab"	999	999	999	999	9999	NA	NA	NA
+601	"Gruta \"Flor de Mayo\""	999	999	999	999	9999	NA	NA	NA
+602	"Chalco (Ch-Az-172, montculo 65)"	999	999	999	999	9999	NA	NA	NA
+603	"Los Moctezumas"	999	999	999	999	9999	NA	NA	NA
+604	"Chilpancingo"	999	999	999	999	9999	NA	NA	"Colonia Temixco II"
+605	"Cueva de Chimalacatepec"	-99.0916666666667	18.4616666666667	-99.0916666666667	18.4616666666667	1000	NA	NA	"Original NUMERO_MAPA = E14-A79"
+606	"El Pantanal"	-104.860833333333	21.4441666666667	-104.860833333333	21.4441666666667	9999	NA	NA	"14 Km SE de la ciudad de Tepic, siguiendo la carretera Federal No. 15 hacia Guadalajara y tomando la desviacin que se encuentra a la altura de la pobalcin de San Cayetano con rumbo al Aeropuerto de Tepic"
+607	"Don Martn"	999	999	999	999	9999	NA	NA	NA
+609	"Valle de Tehuacn"	999	999	999	999	9999	NA	NA	NA
+610	"San Luis La Loma"	-100.895	17.2661111111111	-100.895	17.2661111111111	9999	NA	NA	NA
+611	"Frente 2, Teotihuacn"	999	999	999	999	9999	NA	NA	NA
+612	"Las Ventanas"	999	999	999	999	9999	NA	NA	NA
+613	"El Japn"	999	999	999	999	9999	NA	NA	NA
+614	"Templo de Quetzalcatl, Teotihuacn"	999	999	999	999	9999	NA	NA	NA
+616	"Tehuacn Viejo"	999	999	999	999	9999	NA	NA	NA
+618	"Tlalpizhuac"	-98.9416666666667	19.3222222222222	-98.9416666666667	19.3222222222222	9999	NA	NA	"Altitud 2245 y 2280 msnm"
+620	"Punta San Jos"	999	999	999	999	9999	NA	NA	NA
+623	"Barranca de Busuchil (Basuchil)"	999	999	999	999	9999	NA	NA	"cerca de Cd, Guerrero"
+624	"cerca de Cd. Jurez"	999	999	999	999	9999	NA	NA	NA
+625	"Monclova"	999	999	999	999	9999	NA	NA	NA
+626	"Rancho El Corte"	999	999	999	999	9999	NA	NA	"al N de la capital"
+629	"Ladrillera La Moderna"	999	999	999	999	9999	NA	NA	NA
+630	"Colonia Vallejo"	999	999	999	999	9999	NA	NA	NA
+631	"Convento de San Diego"	999	999	999	999	9999	NA	NA	NA
+634	"Atzacoalco"	999	999	999	999	9999	NA	NA	NA
+635	"San Jernimo y El Beltrn"	999	999	999	999	9999	NA	NA	NA
+638	"area de Zumpango de Ocampo"	999	999	999	999	9999	NA	NA	NA
+639	"Colonia Mxico"	999	999	999	999	9999	NA	NA	"NE de la colonia Mxico, al S volcn Cerro de Chiconautla, a poca distancia de su falda"
+645	"area de localidades de Chimalhuacn"	999	999	999	999	9999	NA	NA	NA
+646	"Tzocuilco del Barrio de San Juan Xochitengo"	-98.9608333333333	19.4441666666667	-98.9608333333333	19.4441666666667	9999	NA	NA	"N del cerro de Chimalhuacn"
+647	"Ejido Chimalhuacn"	999	999	999	999	9999	NA	NA	NA
+648	"San Miguel Tecamachalco"	999	999	999	999	9999	NA	NA	NA
+650	"Km 16.5, carretera Mxico-Puebla"	999	999	999	999	9999	NA	NA	NA
+651	"aprox. Km 50 carretera Mxico-Toluca"	999	999	999	999	9999	NA	NA	"acueducto del Lerma en el Km 11 a partir del Almolaya (sic.) del Ro y aproximadamente a 4 Km de Amomolulco"
+653	"Ixtapantongo (de Coatzingo?)"	999	999	999	999	9999	NA	NA	NA
+655	"Paraje Las Parotas"	999	999	999	999	9999	NA	NA	"15 Km W Tlataya, Dto. Quetepec"
+656	"Ciudad Stelite"	999	999	999	999	9999	NA	NA	NA
+657	"Ranchera Almoloya"	999	999	999	999	9999	NA	NA	"unweit Ocoyoacas in dein Thale von Toluca, Edo. Mex."
+658	"Totolcingo"	999	999	999	999	2264	NA	NA	"entre las cotas de nivel 2263 y 2265; cerca de 1 mi Totolzingo"
+659	"Nanacatla"	999	999	999	999	9999	NA	NA	NA
+660	"Len"	999	999	999	999	9999	NA	NA	NA
+661	"San Luis de la Paz"	-100.51	21.2966666666667	-100.51	21.2966666666667	2020	NA	NA	"junto al ojo de agua; Original NUMERO_MAPA = F14-C35"
+664	"Rancho de San Simn"	999	999	999	999	9999	NA	NA	"Real del Monte"
+665	"Atotonilco El Grande"	999	999	999	999	9999	NA	NA	NA
+666	"Pachuca"	999	999	999	999	9999	NA	NA	NA
+669	"Centro Turstico Roca Azul, Jocotepec"	999	999	999	999	9999	NA	NA	"aprox. 2 Km SE Jocotepec; 2 Km Jocotepec"
+672	"Ejutla"	999	999	999	999	9999	NA	NA	"distrito de Acatln de la Grande"
+673	"Ario de Rayn"	999	999	999	999	9999	NA	NA	NA
+674	"Santa Gertrudis"	999	999	999	999	9999	NA	NA	NA
+676	"rechte Unterkieferast wierde von unde-"	999	999	999	999	9999	NA	NA	"-im staat Michoacan gesamment"
+677	"Palpan"	999	999	999	999	9999	NA	NA	NA
+679	"Cosoltepec"	999	999	999	999	9999	NA	NA	NA
+680	"Huajuapan"	999	999	999	999	9999	NA	NA	NA
+682	"Tlaxiaco"	999	999	999	999	9999	NA	NA	NA
+683	"Tehuantepec"	999	999	999	999	9999	NA	NA	"cerca de Tehuantepec"
+686	"Rio Colorado en San Miguel Marcos Prez"	999	999	999	999	9999	NA	NA	"sobre el Rio Colorado, 300-500 m N-NW San Miguel Marcos Prez, Distrito de Teposcolula; ref. 488 la menciona como 2 localidades diferentes, una a 300 y otra a 500"
+687	"Tepelmeme"	999	999	999	999	9999	NA	NA	"aprox. 25 Km al N-NE Tamazulapan"
+688	"San Pedro Candelaria"	999	999	999	999	9999	NA	NA	"Cd. Serdan"
+690	"area de localidades de Valsequillo"	999	999	999	999	9999	NA	NA	NA
+692	"Huayatlaco"	-98.2108333333333	18.9608333333333	-98.2108333333333	18.9608333333333	9999	NA	NA	"a 5.5 km S Totimehuacan. A la orilla de la presa de Valsequillo"
+693	"San Antonio Arenillas"	999	999	999	999	9999	NA	NA	"cerca de Valsequillo; ref. original 730 (Guenther, 1968) no especifica claramente el estado; se sui a Barrios (1985;ref.548) para asignar la localidad en Puebla"
+694	"Puente de Atepetzingo"	999	999	999	999	9999	NA	NA	NA
+695	"Barranca Caulapan"	999	999	999	999	9999	NA	NA	"Verificar en ref 730 que sea efectivamente estado de Puebla. ref 724 (Guenther, 1967) localidades en mapa"
+696	"San Baltazar Tetela"	999	999	999	999	9999	NA	NA	NA
+697	"San Francisco Totimehuacan"	-98.1816666666667	18.865	-98.1816666666667	18.865	2060	NA	NA	"Original NUMERO_MAPA = E14-5"
+698	"El Cerro del Oire"	999	999	999	999	9999	NA	NA	NA
+699	"Hacienda de Tamontao"	-97.8608333333333	21.4941666666667	-97.8608333333333	21.4941666666667	25	NA	NA	"N sierra de Otontepec, zona faja de Oro, margen izquierdo del arroyo principal al N, a unos 4 Km del casco abandonado de la Hacienda Pitahaya; Original NUMERO_MAPA = F14-9"
+700	"Brechas coloradas"	-101.059722222222	22.7619444444444	-101.059722222222	22.7619444444444	1700	NA	NA	"Original NUMERO_MAPA = F14-A53"
+701	"Hacienda de La Tinaja"	999	999	999	999	9999	NA	NA	"35 Km N-NE Cd. San Luis Potos"
+704	"El Salitrillo"	999	999	999	999	9999	NA	NA	"aprox. 5 Km N Villa Xicotencatl"
+705	"Atlihuetzia"	999	999	999	999	9999	NA	NA	"aprox. 12 Km Cd. Tlaxcala"
+706	"Real del Monte"	999	999	999	999	9999	NA	NA	NA
+707	"Tlilapan"	999	999	999	999	9999	NA	NA	"cerca de Orizaba, Veracruz"
+708	"Laguna del Salitre"	999	999	999	999	9999	NA	NA	"S de la Laguna del Salitre, Mpio. de Villa Hidalgo, en una noria de 16 m de profundidad, Dto. de Pinos, Zac."
+709	"Distrito de Pinos"	999	999	999	999	9999	NA	NA	NA
+711	"Tecota"	999	999	999	999	9999	NA	NA	NA
+713	"Colotlan"	999	999	999	999	9999	NA	NA	"180 Km SW Guadalajara"
+714	"Tula"	999	999	999	999	9999	NA	NA	NA
+716	"Tecolatlan"	999	999	999	999	9999	NA	NA	NA
+717	"San Francisco Xocotitla"	999	999	999	999	9999	NA	NA	NA
+719	"Aldama"	-98.0733333333333	22.9183333333333	-98.0733333333333	22.9183333333333	130	NA	NA	"Original NUMERO_MAPA = F14-B53"
+720	"Tlapacoya III"	999	999	999	999	9999	NA	NA	NA
+721	"Rio Axamilpa"	999	999	999	999	9999	NA	NA	"S del estado de Puebla"
+722	"Cueva del Pirul"	999	999	999	999	9999	NA	NA	NA
+723	"antigua ciudad de Tula"	999	999	999	999	9999	NA	NA	NA
+725	"Tulum"	999	999	999	999	9999	NA	NA	NA
+727	"Acmbaro"	999	999	999	999	9999	NA	NA	NA
+728	"Coatetelco"	999	999	999	999	9999	NA	NA	NA
+729	"Rancho El Retiro, Orizaba"	999	999	999	999	9999	NA	NA	NA
+730	"Regin Valle de Atotonilco, Zacoalco y Sayula"	999	999	999	999	9999	NA	NA	NA
+731	"Acambay"	999	999	999	999	9999	NA	NA	NA
+732	"Vizarrn (Sierra Gorda)"	999	999	999	999	9999	NA	NA	NA
+733	"estacin Tezozomoc"	999	999	999	999	9999	NA	NA	NA
+734	"Ticomn"	999	999	999	999	9999	NA	NA	NA
+735	"Cd. Anhuac"	999	999	999	999	9999	NA	NA	NA
+736	"Nadadores"	999	999	999	999	9999	NA	NA	NA
+737	"Atotonilco"	999	999	999	999	9999	NA	NA	"Gonzlez-Quintanilla dice que hay mamut en Atotonilco: verificar que no se trate de una abreviacin para Atotonilco El Bajo."
+738	"Los Ramones"	999	999	999	999	9999	NA	NA	NA
+739	"General Bravo"	999	999	999	999	9999	NA	NA	NA
+740	"Dr. Arroyo"	-100.18	23.6733333333333	-100.18	23.6733333333333	1720	NA	NA	"Original NUMERO_MAPA = F14-A26"
+741	"China"	999	999	999	999	9999	NA	NA	NA
+742	"Monterrey"	999	999	999	999	9999	NA	NA	"Fbrica Nacional de Autmoviles S. A.; N de la ciudad de Monterrey, aprox. 14 Km en el Km 6 de carretera a Colombia, en Gral. Escobedo, Nuevo Len"
+743	"Sabinas Hidalgo"	999	999	999	999	9999	NA	NA	NA
+744	"Hualahuises"	-99.6716666666667	24.8816666666667	-99.6716666666667	24.8816666666667	1960	NA	NA	"Original NUMERO_MAPA = G14-C57"
+745	"San Nicols de los Garza"	999	999	999	999	9999	NA	NA	NA
+749	"Calzada de Tlapan"	999	999	999	999	9999	NA	NA	NA
+750	"Batn"	999	999	999	999	9999	NA	NA	NA
+751	"San Jernimo"	999	999	999	999	9999	NA	NA	NA
+753	"Chapingo"	999	999	999	999	9999	NA	NA	NA
+754	"Totolcingo y Tepexpan"	999	999	999	999	9999	NA	NA	NA
+756	"cerca de Tequixquiac"	999	999	999	999	9999	NA	NA	NA
+757	"Nuevo Leon"	999	999	999	999	9999	NA	NA	NA
+760	"Cruces"	999	999	999	999	9999	NA	NA	"en el Valle Guadiana, a 6200 pies de Alt, est al este de la Laguna de Santiaguillo"
+763	"Distrito Federal"	999	999	999	999	9999	NA	NA	NA
+764	"Cueva Frightful"	999	999	999	999	9999	NA	NA	"situada en Cuatro Cinegas"
+766	"Tlapacoya"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 2 (Edo. Mex.) y 394 (del edo. de Puebla)"
+770	"cerca de Iztpan en la regin de Tepexpan"	999	999	999	999	9999	NA	NA	"Verificar que sea Santa Isabel Iztapan I"
+771	"Bancos del Ro Panuco"	999	999	999	999	9999	NA	NA	NA
+775	"El Horno, Tetela"	999	999	999	999	2040	NA	NA	NA
+782	"Arroyo Chinobampo"	999	999	999	999	9999	NA	NA	"ref. 417, 846 y 847: a 25 Km del SE de Navojoa, Son."
+783	"Rincon de Guadalupe"	-99.995	19.27	-99.995	19.27	2420	NA	NA	"cercano a Amanalco de Becerra; Original NUMERO_MAPA = E14-A37"
+784	"Punta Blanca"	999	999	999	999	9999	NA	NA	"cerca de Guaymas, Sonora"
+785	"Villa de San Joaquin"	999	999	999	999	9999	NA	NA	"parte central de la Peninsula de Baja California"
+786	"La Mota, Samalayuca"	-104.898333333333	27.1063333333333	-104.898333333333	27.1063333333333	9999	NA	NA	"corta distancia sur del paso; Original NUMERO_MAPA = G13-B4"
+787	"Arroyo Chorreras"	999	999	999	999	9999	NA	NA	"ref. 844: corte del terreno en Arroyo Chorreras, a mitad de la carretera de Ciudad Victoria a Brownsville; ref. 846: margen izquierdo del Arroyo adelante de Encinal a la mitad de la carretera Ciudad Victoria-Matamoros"
+789	"Arroyo Salinillas"	999	999	999	999	9999	NA	NA	"en el area ahora inundada por el dique (presa) de Falcon, al N de Tamaulipas; cercano al rancho \"El cabaret\", aprox. 10 Km NO del punto exacto, sobre el Bravo donde quedar el centro de la cortina de la presa"
+795	"cerca de Huehuetoca"	999	999	999	999	9999	NA	NA	"donde inicia tajo de Nochistongo"
+796	"bajo sedimento de Lago de Texcoco"	999	999	999	999	9999	NA	NA	NA
+797	"cercanas de Tepexpan"	999	999	999	999	9999	NA	NA	NA
+798	"Sierra de la Misericordia"	999	999	999	999	9999	NA	NA	NA
+799	"Caon de la Fragua"	999	999	999	999	9999	NA	NA	NA
+800	"Puerto Ventanillas"	-102.736111111111	26.0294444444444	-102.736111111111	26.0294444444444	1090	NA	NA	"Original NUMERO_MAPA = G13-B87"
+801	"Desierto de Chihuahua"	999	999	999	999	9999	NA	NA	NA
+803	"Iztapan"	999	999	999	999	9999	NA	NA	"verificar que no sea la misma a la loc. 257 (del Edo. de Mx.)"
+804	"fase ajuereado del Valle de Tehuacn"	999	999	999	999	9999	NA	NA	NA
+805	"Valle del Ro Juchipila"	999	999	999	999	9999	NA	NA	NA
+806	"Caada de Marfil"	999	999	999	999	9999	NA	NA	NA
+808	"Ro Valle Atoyac"	999	999	999	999	9999	NA	NA	NA
+809	"Ventoquipa"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-9"
+810	"Xilotepec"	999	999	999	999	9999	NA	NA	"Ver que no sea la misma loc que Jilotepec, Edo Mx (ID 174)"
+811	"Mina de San Antonio"	999	999	999	999	9999	NA	NA	NA
+813	"Tlapacoya I"	999	999	999	999	9999	NA	NA	"ref. 774: cerrro de Tlaplacoya al S de la Sierra del Pino al SE de la cuenca de Mxico"
+814	"Tlapacoya (T1 XVIII)"	999	999	999	999	9999	NA	NA	NA
+815	"El Risco"	999	999	999	999	9999	NA	NA	"cerca de Atzacoalco en la autopista a Pachuca. no muy lejos de los lmites del Distrito Federal, ref. 736: unos 12 Km NNW de la ciudad de Mxico. Ref. 766: Ojo podra tratarse del nombre del estrato."
+822	"Cueva Chekt-a-leh"	999	999	999	999	9999	NA	NA	NA
+823	"Actun Sayab"	999	999	999	999	9999	NA	NA	"cerca Opichen"
+825	"Actun Jih"	999	999	999	999	9999	NA	NA	"en los cerros alrededor de 3 Km de la plaza de Ticul"
+827	"La Pinta de Vaqueras"	999	999	999	999	9999	NA	NA	"20 Km NW del rea de Santa Mara Amajac a 8Km S de la ciudad Metztitln, en la Rancheria de Agua Bendita y 2Km al E del arroyo del muerto, la localidad esta situada en el cause del rio"
+828	"Actun Oxkintok"	999	999	999	999	9999	NA	NA	"450 m de una de las ruinas de un templo del viejo imperio Maya, sitio Oxkintok"
+829	"Actun Xkyc"	999	999	999	999	9999	NA	NA	"aprox. 2 Km Hacienda Calcehtok"
+830	"cerca de Isidro"	999	999	999	999	9999	NA	NA	"sobre la carretera a Puebla"
+831	"Las Cruces"	-105.444166666667	25.0533333333333	-105.444166666667	25.0533333333333	2000	NA	NA	"9.7 Km NO por carretera pavimentada que comunica a Santiago Papasquiaro con Tepehuanes, en el paraje conocido como Las Cruces"
+832	"Landa de Matamoros"	-99.32	21.1816666666667	-99.32	21.1816666666667	1040	NA	NA	NA
+835	"Colonia El Capuln (ampliacin Olimpica)"	999	999	999	999	9999	NA	NA	"ref. 835: esquina en las calles Jesus Castillo y Luis Estrada."
+839	"Roma"	999	999	999	999	9999	NA	NA	"en las orillas de la carretera pavimentada Mapimi-Bermejillo a 14 Km de la cabecera municipal"
+840	"estacin Tacubaya, lnea 9 del metro"	999	999	999	999	9999	NA	NA	NA
+842	"Santamara Malinalco"	999	999	999	999	9999	NA	NA	"en la delegacin Azcapotzalco, en la calle de Santa Mara no. 181. La gua roji reconoce nicamente al pueblo de Santa Mara Maninalco en la delegacin Azcapotzalco: verificar ortografa del informe."
+843	"La Laguna de Chairel"	-97.965	22.2716666666667	-97.965	22.2716666666667	10	NA	NA	"en el area de un parque en la construccin de la calle Aparicio s/n, al N del centro del puerto; Original NUMERO_MAPA = F14-B74"
+850	"cantera vieja de Tequixquiac"	999	999	999	999	9999	NA	NA	NA
+851	"Tepexpan (SE del Hospital)"	999	999	999	999	9999	NA	NA	NA
+852	"Cueva de La Candelaria"	999	999	999	999	9999	NA	NA	"ref. 850: El Valle de las Delicias se halla hacia el SW de Coahuila y la cuenca se encuentra en la ladera N del extremo septentrional de la pequea sierra de la Candelaria al S del mismo valle"
+854	"cerca de la Cueva Frightful"	999	999	999	999	9999	NA	NA	NA
+855	"Ciudad Guerrero"	999	999	999	999	9999	NA	NA	"Es probable que se trate de la localidad de Arroyo Salinillas"
+856	"Borjas I"	999	999	999	999	9999	NA	NA	"desviacin al rancho de Borjas se encuentra a 5 Km de la carretera Cd. Guerreo-Chihuahua, aprox. a 500 m de esta se localiza el rancho"
+857	"Borjas II"	999	999	999	999	9999	NA	NA	"desviacin al rancho de Borjas se encuentra a 5 Km de la carretera Cd. Guerreo-Chihuahua, aprox. a 500 m de esta se localiza el rancho"
+858	"Ranchera El Torren"	999	999	999	999	9999	NA	NA	"en las inmediaciones de la ranchera, cerca de ciudad Guerrero"
+860	"Cueva de la Paila"	999	999	999	999	9999	NA	NA	"la cueva est en el Arroyo del Muerto, de 48 a 50 Km al N de Parras, en lnea recta al E-SE de la cueva La Candelaria, en el Bolsn de las Delicias"
+861	"Lnea 6 del Sistema de Transporte Colectivo metro"	999	999	999	999	9999	NA	NA	"En la va rpida de Lzaro Cardenas (antes Av. Parque va) a la altura de la calle Puente de Guerra, frente a la unidad habitacional del Rosario; los restos de caballo a pocos metros y en capas superiores de los restos al norte del mamut"
+863	"Tepexpan-Hospital Dr. Adolfo M. Nieto"	999	999	999	999	9999	NA	NA	"se encuentra en el extremo occidental de la poblacin Tepexpan, sobre la esquina noroeste del cruce formado por la carretera federal Mxico-San Martn de las Pirmides y el acceso a la caseta de cuota de Tepexpan de la autopista Mxico-Pirmides"
+864	"Tepexpan-SE del Museo de Prehistoria de Tepexpan"	999	999	999	999	9999	NA	NA	"en terrenos del Hospital de enfermos incurables"
+868	"Inguaran lnea 4 norte"	999	999	999	999	9999	NA	NA	"NE del centro de la ciudad de Mxico, sobre la Av. Inguaran entre las calles oriente 171 y Av. Talisman, bajo la zona del trabajo de la construccin del metro"
+869	"Altamirano (Hv-24)"	-98.4233333333333	22.07	-98.4233333333333	22.07	13	NA	NA	"el asentamiento se localiza en la margen izquierda del ro Panuco, rea que ahora pertenece a la zona de riego de Pujal-Coy 1a fase; pertenece al ejido Flavio Altamirano. Para la ubicacin corresta se sigui a Merino y Garca Cook, 1881: Informe 23-10"
+872	"Actun Xmak"	999	999	999	999	9999	NA	NA	"4 millas NW de la hacienda Yokat"
+875	"Cueva Chumul"	999	999	999	999	9999	NA	NA	NA
+876	"Cueva Sabaka"	999	999	999	999	9999	NA	NA	NA
+877	"Cueva Tiplamas"	999	999	999	999	9999	NA	NA	NA
+879	"Santa Cruz de Amajac"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-12, 3 Km NW de la localidad La Curva (se encuentra 1 Km al este del poblado de Santa Mara Amajac)"
+880	"La Moneda"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-14, 8 Km SE de Santrum, 3 Km al S del camino de terracera que conduce a este poblado"
+881	"La Concepcin"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-24, 8 Km NW de Pachuca, por la carretera que va de esta ciudad Actopan"
+882	"Arroyo Tejocote"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-5, 17 Km S de la ciudad de Tula, por la carretera que una esta ciudad con la poblacin de Jorobas, 2 Km a SE del poblado de Conejos, en donde est ubicado del arroyo Tecolotes con direccin NW-SE"
+883	"La Cementera"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-3, 2 Km W de la cementera La Tolteca"
+884	"Puerta de las Lajas"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-16, 2 Km W de la localidad La Moneda (se ubica 8 Km al SE de Santrum al sur del camino de terraceria que conduce a este pobaldo"
+885	"Epazoyucan"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-23, 20 Km SE de la ciudad de Pachuca, por la carretera vieja que va a Tulancingo. La zona fosilfera se encuentra siguiendo la desviacin de la carretera principal 1 Km antes de llegar al poblado de Epazuyacan"
+886	"El Frontn"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-15, 3 Km S del poblado El Sauz Xhat, a un costado del camino de terracera"
+888	"Minas Anaya"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-21, 15 Km NW de la ciudad de Actopan, aprx. 8 Km al NW del poblado de Lagunilla y 1 Km al NE de Santiago Anaya en el municipio del mismo nombre"
+889	"Lagunilla"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-7, 12 Km NW de la ciudad de Actopan, 2 Km al NW del poblado de Lagunilla, por el camino de terraceria que va hacia Santiago de Anaya"
+890	"Dos Cerritos"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-6, 8 Km S de la ciudad de Actopan, 1 Km antes de llegar a la ciudad de Actopan, hacia el SE existe una desviacin que conduce a la hacienda Chicavasco, se continua por esta carretera y 2 Km antes de llegar a la hacienda"
+891	"Chicavasco"	999	999	999	999	9999	NA	NA	"ref. 793: clave H60-8, 3 Km S de la localidad Dos cerritos, se encuentra a 8 Km al S de cuidad Actopan, por el camino de terraceria que conduce al poblado de Chivasco"
+892	"Margen del Ro Carrizal"	999	999	999	999	9999	NA	NA	NA
+893	"Estado de Morelos"	999	999	999	999	9999	NA	NA	NA
+894	"Valle de los Mamuts, en Xicotncatl"	999	999	999	999	9999	NA	NA	NA
+895	"San Jos de las Rusias"	-98.0433333333333	23.56	-98.0433333333333	23.56	40	NA	NA	"Original NUMERO_MAPA = F14-B23"
+897	"Estado de Guerrero"	999	999	999	999	9999	NA	NA	NA
+900	"Coxcatlan"	999	999	999	999	9999	NA	NA	"SW del edo. de Puebla, cerca de la villa de San Rafael y cerca de 7 Km SE del pueblo de Coaxcatlan en la qutopista Teotilan del camino"
+901	"finca Quinta del Altillo"	999	999	999	999	9999	NA	NA	"situada en la orilla N de la regin volcanica llamada \"EL Pedregal\", la cual se extiende al SW del Valle de Mxico"
+906	"Loma Alta, Zacap"	999	999	999	999	9999	NA	NA	NA
+907	"Cueva Coxcatln"	999	999	999	999	9999	NA	NA	"ref. 860: 10 Km SE de Coxcatln, Puebla y 5 Km al E de la carretera y del rancho Guadalupe de la victoria; est al pie de una barranca, al N de un cerro llamado \"Ajuereados\""
+908	"Rancho El Mezquital"	999	999	999	999	9999	NA	NA	"1 Km al SW de San Joaqun que a su vez est 13 Km S de San Ignacio, Delegacin de Santa Rosala"
+909	"Osario de la Quemada"	999	999	999	999	9999	NA	NA	"el osario se hall en el rincn formado por dos banquetas de 12 a 14 m de altura, al norte de \"Cuartel de Armillas\" con vista al suroriente"
+910	"Guadalupe, Zacap"	999	999	999	999	9999	NA	NA	NA
+911	"Nextlalpan"	999	999	999	999	9999	NA	NA	"N del estado"
+912	"barrio de San Pedro Miltenco"	999	999	999	999	9999	NA	NA	"en el esctremo sureste de la poblacin de Nextlalpan"
+914	"junto a \"Punta de las Candelas\""	999	999	999	999	9999	NA	NA	"aprox. 4 Km al N-NE de Cojumatln, en el ejido del \"Puerto del Len\""
+918	"El Fuerte"	-108.644166666667	26.4441666666667	-108.644166666667	26.4441666666667	80	NA	NA	"se localizaron en varios puntos a lo largo del canal de conexin entre las Presas Miguel Hidalgo y Costilla y Josefina Ortiz de Domnguez"
+919	"area de Cuitzeo"	999	999	999	999	9999	NA	NA	"N del poblado de Ciutzeo a 2 Km de ste y a 2.5 Km aprox. al oriente de la carretera que comunica con el poblado de Norolon, Guanajuato"
+920	"ribera S del lago de Cuitzeo"	999	999	999	999	9999	NA	NA	NA
+921	"Santa Ana Mara"	999	999	999	999	9999	NA	NA	"N de la laguna de Cuitzeo"
+922	"Tocuila"	999	999	999	999	9999	NA	NA	"en cercanas de Tezcoco, en el patio interior de una casa habitacin anexa a una tienda de abarrotes llamada La Lupita, situada en la calle Emiliano Zapata No. 51 del poblado de Tocuila"
+923	"Ventanilla frente 3, Teotihuacn"	999	999	999	999	9999	NA	NA	NA

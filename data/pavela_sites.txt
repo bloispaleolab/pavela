@@ -1,0 +1,773 @@
+"IDLOCALIDAD"	"IDESTADO"	"IDMUNICIPI"	"NOMBRE_LOCALIDAD"	"NUMERO_MAPA"	"ESCALA_MAPA"	"LATITUD_GRADOS"	"LATITUD_MINUTOS"	"LATITUD_SEGUNDOS"	"LONGITUD_GRADOS"	"LONGITUD_MINUTOS"	"LONGITUD_SEGUNDOS"	"MERCATOR_NORTE"	"MERCATOR_ESTE"	"LOCALIDAD"	"COORDENADA_N.S"	"COORDENADA_E.W"	"ELEVACION"	"IDPRECISION"	"COMENTARIOS"	"suma"	"with.coords"	"num.abs.dates"	"num.rel.ages"	"primary.pubs"	"num.taxa"	"spatial.rank"	"temporal.rank"	"material.rank"	"taxa.rank"
+1	19	24	"Cueva de San Josecito"	"ND"	"ND"	23	57	21	99	54	45	"ND"	"ND"	"Ejido San Josecito"	"1 Km S"	"ND"	2250	"ND"	"1 Km S Ejido San Josecito; Arroyo Cabrales y Ray (1997): 24 05' N, 9949' W: SW Aramberri"	1	"Y"	14	9	TRUE	115	1	1	1	1
+2	15	0	"Tlapacoya"	"ND"	"ND"	19	19	99	98	55	99	"ND"	"ND"	"Tlapacoya"	"1.5 Km S"	"ND"	2240	"ND"	"1.5 Km S Tlapacoya; ref. 740:150m Oeste de zona arqueologica de Tlapacoya en parte N del cerro de Tlapacoya; 26 Km SE de la ciudad de Mxico; sur de la Sierra del Pino: los trabajos de Arroyo Cabrales dicen que est a 11302'40\" W asi como 11317'40\"W, pero obviamente hay problemas. El dato correcto podra ser 99, se desconoce si hay problemas en minutos y segundos. Para la ubicacin que ahora se proporciona se sigui a Manuel Reyes"	1	"Y"	1	5	TRUE	39	1	1	1	1
+3	15	0	"Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 847: en la margen N de la Cuenca de Mxico"	1	"N"	0	12	TRUE	84	2	2	1	1
+4	31	0	"Gruta de Loltn"	"ND"	"ND"	20	15	99	89	28	99	"ND"	"ND"	"Oxkutzcab"	"ND"	"ND"	40	"ND"	"ref. 741: 110 Km S de Mrida Yucatn; ref. 791: 3 millas E de Tabi, Yucatan; S de Oxkutzcab, dos horas de Oxkutzcab; ref 467 (Arroyo Cabrales y Ray, 1997) 7 km S Oxkutzcab"	1	"Y"	9	13	TRUE	89	1	1	1	1
+5	8	0	"Cueva de Jimnez"	"ND"	"ND"	27	7	99	104	55	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"al sur del estado de Chihuahua; ref. 138 (tesis de Joaqun) dice que est al norte del estado"	1	"Y"	0	5	TRUE	41	1	2	1	1
+6	19	0	"Cueva de La Boca"	"ND"	"ND"	25	25	99	100	9	99	"ND"	"ND"	"ND"	"ND"	"ND"	540	"ND"	"3 km E Santiago"	1	"Y"	0	1	TRUE	8	1	2	1	2
+7	24	0	"El Cedral"	"ND"	"ND"	23	49	99	100	43	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"1.7 km SE El Cedral, adjunto a los ranchos La Laguna y Pilar de Cedros"	1	"Y"	18	4	TRUE	48	1	1	1	1
+8	24	0	"Cueva de la Presita"	"ND"	"ND"	23	39	99	100	39	99	"ND"	"ND"	"ND"	"ND"	"ND"	1540	"ND"	"21.4 km S Matehuala, del lado E del cerro La Presita, cerca del poblado La Bonita"	1	"Y"	0	1	TRUE	37	1	2	1	1
+9	31	0	"Actun Spukil"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Calcehtok"	"6 Km S"	"ND"	9999	"ND"	"aprox. 6 Km S Calcehtok. Cerca de Oxkimtock, ruinas con edad anterior a 475 AD"	1	"N"	0	4	TRUE	57	2	2	1	1
+10	28	0	"Cueva de El Abra"	"ND"	"ND"	22	36	30	99	1	30	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"CP"	"ND"	1	"Y"	0	2	TRUE	29	1	2	1	1
+11	32	0	"Emilio Carranza"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 855: a lo largo del arroyo EL Molino, aguas arriba del poblado de Emilio Carranza, en el SE de Zacatecas"	1	"N"	0	1	TRUE	2	2	2	1	3
+12	14	0	"Chapala-Zacoalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	5	TRUE	79	2	1	1	1
+13	15	0	"Apaxco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	6	2	2	1	2
+14	15	0	"San Vicente Chicoloapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de San Vicente Chicoalapan, en el km 29 de la carretera Ciudad de Mxico-Texcoco. Algunos autores consideran que son dos localidaddes distintas San Vicente Chicoloapan y cerca de Sanvicente Chicoloapan. En el Catlogo del INAH, se observa que son una misma localidad, la cual dice \"minas de arena de San Vicente Chicoloapan\""	1	"N"	0	2	TRUE	6	2	2	1	2
+15	21	0	"Atepetzingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	4	2	TRUE	4	2	1	1	3
+16	21	0	"Valsequillo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	4	3	TRUE	45	2	1	1	1
+17	7	107	"Villa Corzo"	"ND"	"ND"	16	11	99	93	16	99	"ND"	"ND"	"ND"	"ND"	"ND"	580	"ND"	"Terracera Villa de Corzo-Monterrey; aprx. 900 m S entronque con la carretera pavimentada a Revolucin Mexicana. El carnvoro puede ser de otro sitio dif. al del perezoso y el proboscideo"	1	"Y"	0	2	TRUE	3	1	2	1	3
+18	26	0	"El Golfo"	"ND"	"ND"	32	40	99	114	30	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"Y"	0	6	TRUE	46	1	2	1	1
+19	9	0	"Cerro del Tepeyac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"junto a la Basilica de Guadalupe, al N del D.F.; 2 millas NW Peon; al pie del cerro del Tepeyac; cerca de una legua del Peon; en la falda SW de la pequea cordillera de Tepeyac; en la base de los cerros Guadalupe"	1	"N"	0	2	TRUE	8	2	2	1	2
+20	15	0	"Tlapacoya II"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 774: cerrro de Tlaplacoya al S de la Sierra del Pino al SE de la cuenca de Mxico"	1	"N"	0	1	TRUE	5	2	2	1	2
+21	1	0	"Arroyo San Francisco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ciudad de Aguascalientes"	"4 Km SE"	"ND"	9999	"ND"	"Formacin Tacubaya"	1	"N"	0	2	TRUE	36	2	2	1	1
+22	1	0	"Arroyo Cedazo"	"ND"	"ND"	21	52	30	102	14	99	"ND"	"ND"	"ciudad de Aguascalientes"	"3 Km SE"	"ND"	9999	"ND"	"Carranza-Castaeda le dan la ubicacin del Arroyo San Francisco, en algunos de los fsiles: 4 km SE ciudad de Aguascalientes Ref 150:"	1	"Y"	1	6	TRUE	51	1	1	1	1
+23	33	0	"Mxico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Ref. 336 dice cuenca de Mxico"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	7	TRUE	129	2	1	1	1
+24	5	0	"Arroyo del Arenal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"2 Km NE Rancho Durazno, Valle de El Durazno, Parras"	1	"N"	0	1	TRUE	2	2	2	1	3
+25	5	27	"Arroyo Ojuelo"	"G14-G24"	"1:50,000"	25	32	34	100	54	3	"ND"	"ND"	"ND"	"ND"	"ND"	1390	"ND"	"1 Km NW Rancho Ojuelo, Valle de El Durazno, Parras"	1	"Y"	0	1	TRUE	2	1	2	1	3
+26	15	0	"Texcoco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Texcoco"	1	"N"	1	1	TRUE	2	2	1	1	3
+27	1	1	"Calle Hornedo, Cd. de Aguascalientes"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ciudad de Aguascalientes"	"ND"	"ND"	9999	"ND"	"frente al Templo de San Juan Nepomuceno"	1	"N"	0	1	TRUE	1	2	2	1	3
+28	28	0	"Tula"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de la poblacin de Tula, ref. 824 la menciona como area de Tula"	1	"N"	0	1	TRUE	5	2	2	1	2
+29	15	0	"San Pedro de las Salinas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	2	2	TRUE	5	2	1	1	2
+30	11	0	"Rancho Viejo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Distrito San Miguel Allende"	"ND"	"ND"	9999	"ND"	"Distrito San Miguel Allende"	1	"N"	0	1	FALSE	1	2	2	2	3
+31	33	0	"Valle de Mxico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 49 dice que es Edo. Mxico"	1	"N"	3	8	TRUE	107	2	1	1	1
+32	3	0	"Las Tunas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	6	2	2	2	2
+33	3	0	"Rancho El Carrizal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	3	TRUE	14	2	2	1	1
+34	3	0	"Rancho Algodones"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+35	3	0	"Santa Rita"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+36	14	0	"Ameca"	"ND"	"ND"	20	32	99	999	99	99	"ND"	"ND"	"Ameca"	"ND"	"ND"	9999	"ND"	"cerca de Ameca; Valle del Ro Ameca; ref.:150 pone la localidad como: Ameca (?), y se basa en Brown (1912) y este ltimo dice: near the town of Ameca"	1	"Y"	0	4	TRUE	13	1	2	1	1
+37	16	9	"Ario"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Ario"	"ND"	"ND"	9999	"ND"	"Todo parece indicar que Ario, Ario de Rosales y Ario de Rayn son la misma localidad"	1	"N"	0	1	FALSE	1	2	2	2	3
+38	26	0	"Arizpe"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Arizpe"	"ND"	"ND"	9999	"ND"	"1) 1.5 Km E Arizpe y 97 Km SE Cananea; 2) Rancho la Brisca en el cruce del Rio Sn. Miguel, 25 Km NW Arizpe; ref. 689:1 mi E Arizpe; ref. 737: 1 mi E Arizpe, 60 mi SE Cananea; Ref: 689 Rio Sonora: 60 millas sureste de Cananea; Ref  : sobre el ro Sonora 60 mi SE Cananea y 100 mi N La Prietas y San Jos de Pimas; ref. 876: 1.6 km NE Arizpe, al SW del Cerro Picacho Arizpe: en el mapa est al lado NW del rancho El Basimachi, prcticamente en la unin del ro Bacanuchi con el ro Sonora."	1	"N"	0	4	TRUE	5	2	2	1	2
+39	11	15	"Arperos"	"F14-C42"	"1:50,000"	21	6	6	101	23	54	"ND"	"ND"	"Arperos"	"ND"	"ND"	1980	"ND"	"Municipio La Luz; ONO del Mineral de la Luz; jabal es de Moreolen o de Arperos? Consultar a Freudenberg para el mastodonte"	1	"Y"	0	1	TRUE	3	1	2	1	3
+40	1	3	"Arroyo de Cieneguita"	"F13-D17"	"1:50,000"	21	48	12	102	44	48	"ND"	"ND"	"ciudad de Aguascalientes"	"ND"	"ND"	1600	"ND"	"14 km Ciudad de Aguascalientes, aprox. a 2000 msnm, entre el camino a Calvillo y la ranchera \"Cieneguita\""	1	"Y"	0	1	TRUE	3	1	2	1	3
+41	8	0	"Arroyo de las Barrancas Blancas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+42	8	0	"Arroyo de las Calabazas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+43	8	0	"Arroyo de los Burros"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+44	21	0	"Atlixco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	3	2	2	1	3
+45	30	0	"Barranca Seca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Acultzingo"	"ND"	"3 km E"	9999	"ND"	"cerca de Acultzingo; 3 Km E de Acultzingo (ref. 354  y 1)"	1	"N"	0	2	TRUE	7	2	2	1	2
+46	5	0	"Candela"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+47	1	0	"Caada Honda"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Pequeo arroyo que cruza la carretera nueva a Loreto, a 1100 m antes de llegar a Caada Honda"	1	"N"	0	1	FALSE	2	2	2	2	3
+48	21	0	"Can de Acultzingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar sean una misma que la loc. 485 y 130"	1	"N"	0	2	TRUE	4	2	2	1	3
+49	19	0	"Cerro de la Silla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Monterrey"	"ND"	"ND"	9999	"ND"	"Monterrey; Algunos autores dicen que hay gliptodonte, pero la referencia original no lo menciona"	1	"N"	0	1	TRUE	5	2	2	1	2
+50	19	0	"Cuevas del Padre"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Monterrey"	"ND"	"ND"	9999	"ND"	"30 Km NW Monterrey"	1	"N"	0	1	TRUE	1	2	2	1	3
+51	20	0	"Ejutla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	8	2	2	1	2
+52	25	14	"El Rosario"	"ND"	"1:50,000"	22	59	99	105	51	99	"ND"	"ND"	"El Rosario"	"ND"	"ND"	20	"ND"	"inmediaciones de El Rosario"	1	"Y"	0	1	TRUE	3	1	2	1	3
+53	14	0	"Guadalajara"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Guadalajara"	"ND"	"ND"	9999	"ND"	"Guadalajara"	1	"N"	0	1	TRUE	2	2	2	1	3
+54	8	31	"Guerrero"	"ND"	"1:50,000"	28	33	99	107	29	99	"ND"	"ND"	"ND"	"ND"	"ND"	2000	"ND"	" cerca de Concepcin"	1	"Y"	0	2	TRUE	4	1	2	1	3
+55	33	0	"\"Hochtals von Mexiko\""	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 49 dice que es Edo. Mxico; ref. 150 propone que se trata de Tequixquiac"	1	"N"	0	2	FALSE	16	2	2	2	1
+56	26	0	"Isla Tiburn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Isla Tiburn"	"ND"	"ND"	9999	"ND"	"Lado N Isla Tiburn; Mitad norte de la isla"	1	"N"	0	1	TRUE	1	2	2	1	3
+57	16	0	"La Goleta"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+58	14	0	"Lago de Chapala"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 155 (del edo. de Jalisco)"	1	"N"	0	1	TRUE	17	2	2	1	1
+59	1	0	"Lomas de Zoyatal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+60	25	0	"Los Mochis"	"ND"	"1:50,000"	25	48	99	109	0	99	"ND"	"ND"	"ND"	"ND"	"ND"	10	"ND"	"Alvarez (1965; ref.1) dice que Los Mochis est en Sonora, y se basa para ello en el trabajo de Maldonado-Koerdell (1954; ref.112), pero en esta dice claramente que es Sinaloa, por lo que se procedi a poner como estado a Sinaloa"	1	"Y"	0	1	TRUE	1	1	2	1	3
+61	16	0	"Morelia"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+62	11	0	"Morolen"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref 150: Morolen?; ref.39 y 548 dicen que el material es de Arperos. localidad y ao del trabajo dudosos"	1	"N"	0	1	TRUE	2	2	2	1	3
+63	1	0	"Ro Aguascalientes"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Rancho San Angel"	"ND"	"ND"	9999	"ND"	"Cerca del Rancho San Angel"	1	"N"	0	1	TRUE	5	2	2	1	2
+64	5	0	"Ro Encantado"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Ramos Arizpe"	"ND"	"ND"	9999	"ND"	"cerca de Ramos Arizpe, San Juan y Encantado, Region de Saltillo. Refs.1 y 242 hablan de la localidad como Saltillo, pero es Rio Encantado"	1	"N"	0	1	TRUE	3	2	2	1	3
+65	14	0	"San Juan de los Lagos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+66	33	0	"San Luis"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"probablemente est en el estado de Mxico"	1	"N"	0	1	TRUE	5	2	2	1	2
+67	21	0	"San Pedro"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+68	21	114	"San Pedro Zacachimalpa"	"E14-5"	"1:250,000"	19	56	30	97	36	24	"ND"	"ND"	"ND"	"ND"	"ND"	2130	"ND"	"Revisar Felix y Lenk 1891 para confirmar localidad de algunos materiales; ref. 846: barranca de Sn Pedro Zacachimalpa en la regon de la presa de Valsequillo, al S de ciudad de Puebla"	1	"Y"	0	2	TRUE	13	1	2	1	1
+69	9	0	"Santa F"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	3	2	2	1	3
+70	20	0	"San Pedro Aae"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"San Pedro Aae"	"ND"	"ND"	9999	"ND"	"650m E-NEde San Pedro Aae"	1	"N"	0	1	TRUE	1	2	2	1	3
+71	15	0	"ejidos de San Cristobal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	2240	"ND"	"se hall en la parte en la que se angostaban los antiguos lagos y se unan el Xaltocan-Ecatepec con el de Texcoco. En el predio no. 50 de la calle Cedro."	1	"N"	1	1	TRUE	1	2	1	1	3
+72	9	0	"Tacubaya"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Formacin Tacubaya; ref. 862: Tacubaya, cerca de la ciudad de Tacubaya"	1	"N"	0	2	TRUE	3	2	2	1	3
+73	21	0	"San Pedro Tecamachalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	7	2	2	1	2
+74	13	0	"Tehuichila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: es mioceno"	1	"N"	3	1	TRUE	3	2	1	1	3
+75	15	0	"Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 766: 250 m al N del sitio donde se encontr el esqueleto humano; ref. 840 y 845: Km 7 de la carretera venta de Carpio-Teotihuacn; ref. 835: junto a la carretera que desde la capital federal conduce a Teotihuacn"	1	"N"	3	4	TRUE	14	2	1	1	1
+76	15	0	"Tesopaco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+77	26	69	"Tinajitas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que efectivamente la loc. sea del mun. de Ycora"	1	"N"	0	1	FALSE	0	2	2	2	4
+78	21	0	"Tlatlauqui"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar sean una misma localidad (sierra de Puebla)"	1	"N"	0	1	TRUE	2	2	2	1	3
+79	10	0	"Bolsn de Mapim"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Torren: refo original (Freudenberg, 1919): Aus Torreon (im Bolson de Mapimi, ...)"	1	"N"	0	3	TRUE	3	2	2	1	3
+80	8	0	"Yepmera"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	14	2	2	1	1
+81	9	5	"Colonia Estrella"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"colindante con los terrenos de la antigua Hda. \"Aragn\"; 25 Km S Tepexpan, cerca de Tepeyac"	1	"N"	0	1	TRUE	3	2	2	1	3
+82	9	0	"Villa de Guadalupe"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Mezcla de localidades: ref. 49 dice que es Edo. Mxico; ref 150 que es en el Valle de Mxico"	1	"N"	0	2	TRUE	6	2	2	1	2
+83	20	0	"Yolomecatl"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Cd. Oaxaca"	"ND"	"NW"	9999	"ND"	"aprox. 100 Km NW Cd. Oaxaca, 1 Km S Yolomecatl. (En el Km 98 de la carretera Oaxaca-Acatln, tomar camino entre Yolomecatl y Tlaxiaco"	1	"N"	0	1	TRUE	1	2	2	1	3
+84	15	0	"Zumpango"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	3	TRUE	14	2	2	1	1
+85	2	0	"Estado de Baja California"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+86	8	0	"Estado de Chihuahua"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	4	TRUE	14	2	2	1	1
+87	8	0	"100 km de Chihuahua"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Chihuahua"	"ND"	"ND"	9999	"ND"	"100 Km de Chihuahua"	1	"N"	0	1	FALSE	1	2	2	2	3
+88	16	0	"Estado de Michoacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	3	2	2	1	3
+89	21	0	"Estado de Puebla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	5	TRUE	13	2	2	1	1
+90	29	0	"Estado de Tlaxcala"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	3	2	2	1	3
+91	33	0	"Desconocido"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	25	2	2	1	1
+92	5	0	"Cuatro Cinegas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	5	TRUE	47	2	2	1	1
+93	1	0	"Cedazo"	"ND"	"ND"	21	46	99	102	8	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Toba Aguascalientes"	1	"Y"	0	5	TRUE	71	1	2	1	1
+94	33	0	"Acultzingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 193 (del edo. Veracruz)"	1	"N"	0	1	FALSE	1	2	2	2	3
+95	12	0	"Chichihualco"	"ND"	"ND"	17	39	99	99	41	99	"ND"	"ND"	"ND"	"ND"	"ND"	1140	"ND"	"ND"	1	"Y"	0	1	TRUE	4	1	2	1	3
+96	9	0	"Cd. de Mxico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que sea diferente a la loc. 763"	1	"N"	0	1	FALSE	2	2	2	2	3
+97	15	0	"Valle de Bravo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"A orillas de una barranca en el Distrito de Valle de Bravo, en el estado de Mxico; ref. 548 (Barrios, 1985) la consigna como Villa de Bravo, pero al revisar la referencia original, result obvio que no era as, sino Valle de Bravo"	1	"N"	0	2	TRUE	2	2	2	1	3
+98	31	0	"Ekmul"	"ND"	"ND"	20	57	54	89	20	54	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+99	17	0	"Cueva El Chifln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	13	2	2	1	1
+100	27	0	"Estado de Tabasco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+101	15	70	"Los Reyes La Paz"	"E14-B31"	"1:50,000"	19	21	42	98	58	30	"ND"	"ND"	"ND"	"ND"	"ND"	2210	"ND"	"Ref. 768: los materiales provienen de varias cuadras, incluyendo la dos y la 10, cuadras que para esa referencia se manejaron como unidad de anlisis."	1	"Y"	4	4	TRUE	19	1	1	1	1
+102	15	0	"Los Reyes Acozac"	"E14-B41"	"1:50,000"	19	46	24	98	58	54	"ND"	"ND"	"ND"	"ND"	"ND"	2250	"ND"	"ref. 846: aledaos del poblado Los Reyes de Acozac; ref. 692: cerca de la Villa de los Reyes de Acozac; ref. 49: cerca de Zumpango de Ocampo"	1	"Y"	4	2	TRUE	5	1	1	1	2
+103	15	0	"San Bartolo Atepehuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 255"	1	"N"	11	3	TRUE	4	2	1	1	3
+104	33	0	"Xaltocan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	13	2	2	1	1
+105	15	0	"Chimalhuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar estado; ref. 747: patio de la casa, sita en Manzana 3, Lote 4, fraccionamiento Cristo Rey, Col. Embarcadero en el Barrio de Xochitenco en Chimalhuacn"	1	"N"	4	1	TRUE	10	2	1	1	1
+106	15	0	"Tulpetlac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+107	15	11	"Santa Isabel Iztapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Santa Isabel Iztapan"	"ND"	"ND"	9999	"ND"	"Ref.548: probablemente se refiera a la localidad de Santa Isabel Iztapan (SII-I), ya que dice \"W-NW Santa Isabel Iztapan, 2 Km SW Tepexpan sobre la carretera San Juan Teotihuacn zanja en la labor del Sr. Mariano Vallejo\" , y esa es la localidad de SII-I; ref. 687: 350 m S del 1er mammut y 2600 S de sitio del hombre de Tepexpan"	1	"N"	10	4	TRUE	3	2	1	1	3
+108	15	30	"Calxicatl, Chinconcuac"	"E14-B21"	"1:50,000"	19	33	99	98	54	99	"ND"	"ND"	"ND"	"ND"	"ND"	2240	"ND"	"a unos metros del Puente Renacimiento y sobre la calle Salitre, Chinconcuac; en el barrio de Calxiacatl, a unos metros del puente Renacimiento que se encuentra en la calle salitre"	1	"Y"	0	2	TRUE	3	1	2	1	3
+109	15	0	"Venta de Carpio"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 169: 3.5 Km de Venta de Carpio, en el camino tanto al lado derecho como izquierdo, comunicando al D. F. con Sn. Juan Teotihuacan, en el tramo comprendido entre la estacin de bandera de Venta de Carpio y la de Tepexpan, del Ferrocarril Hidalgo"	1	"N"	0	1	TRUE	2	2	2	1	3
+110	15	0	"Santa Luca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	2	2	TRUE	5	2	1	1	2
+111	21	0	"Canal de Valsequillo (Tecamachalco)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+112	15	0	"Almoloya del Ro"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Almoloya del Ro"	"ND"	"ND"	9999	"ND"	"Ref. 50: Km 11 de Almoloya del Rio; ref. 74: Acueducto de Lerma en Almoloya del Ro; como ambas referencias tratan de los proboscideos del museo de Geologa de la UNAM, se asumi que eran el mismo material y la misma localidad"	1	"N"	0	1	TRUE	2	2	2	1	3
+113	19	0	"General Zuazua"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+114	33	0	"San Juan Camargo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+115	26	0	"Caborca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+116	33	0	"Presa Marte"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+117	20	0	"Cueva de San Agustn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Huentla, cerca de Oaxaca, Oax."	1	"N"	0	1	TRUE	2	2	2	1	3
+118	19	0	"Cueva de Bustamante"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	4	2	2	1	3
+119	33	0	"Cueva de la Mina"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+120	33	0	"Cueva Las Cruces"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+121	15	0	"Cantera El Tajo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+122	33	0	"Potrecito cerca Cienega"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+123	33	0	"Sierra de Tamaulipas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+124	27	11	"Jonuta"	"E15-5"	"1:250,000"	18	5	18	92	7	54	"ND"	"ND"	"ND"	"ND"	"ND"	5	"ND"	"en los mrgenes de los ros Usumacinta y Palizada, en el lmite de Tabasco y Campeche"	1	"Y"	0	1	FALSE	4	1	2	2	3
+125	33	0	"Sureste"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+126	28	0	"cercanas del Valle del Maz"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+127	19	0	"Cueva de la Zona de Derrumbes"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ver.localidad, en una ref. es desconocida y en 94 es N.L."	1	"N"	0	1	TRUE	25	2	2	1	1
+128	33	0	"cerca de Tehuantepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma que la loc. 683 del edo de Oaxaca"	1	"N"	0	1	TRUE	1	2	2	1	3
+129	15	0	"Amanalco de Becerra? Valle de Bravo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+130	33	0	"Caada de Aculzingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar sean una misma que la loc. 485 (del edo. de Veracruz), o loc. 48 (del edo. de Puebla)"	1	"N"	0	1	FALSE	2	2	2	2	3
+131	13	0	"cerca de Lagunilla, Valle del Mezquital"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	1800	"ND"	"ref. 131: cerca de Lagunilla. de Ixmiquilpan rumbo al noroeste, oriente y sureste,un amplio valle."	1	"N"	0	2	TRUE	1	2	2	1	3
+133	15	0	"regin de Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"aprox. 35 Km al NE de la ciudad de Mxico; formacin Becerra superior"	1	"N"	0	1	TRUE	1	2	2	1	3
+134	33	0	"El Risco I"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma que la loc. 815"	1	"N"	0	1	TRUE	3	2	2	1	3
+135	15	0	"El Pen de los Baos? Texcoco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+136	14	0	"Iztln?"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+137	14	0	"Regin de Juchipila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+138	33	0	"Ro Bravo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+139	17	0	"Tehuichila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+140	30	0	"Tehuichila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Edad relativa: Loup Fork age"	1	"N"	0	1	TRUE	3	2	2	1	3
+141	33	0	"una llanura en el territorio sur de la peninsula"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 845: dice unicamente del edo. de Baja California"	1	"N"	0	1	TRUE	3	2	2	1	3
+142	13	0	"Valle de Amajaque"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Alvarez 1965 y Mena de la Pea 1975: es plioceno."	1	"N"	0	1	TRUE	2	2	2	1	3
+143	15	0	"Valle de Toluca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Todos se basan en las mismas referencias Villada (1897, 1903, 1905), que no mencionan claramente el estado, pero todos los demas autores lo refieren al estado de Mxico, por lo que se dej com Edo. Mx."	1	"N"	0	2	TRUE	3	2	2	1	3
+144	15	0	"Xico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Xico. ref. 847 y 692: margen sur del lago de Texcoco, en una mina de arenas fosilferas (basadas en Herrera, 1893: ref. 837); en una cantera a orillas del lago de Chalco; cerca de Astahuacn. Ref. 841 y 842 no dicen de que estado es, pero como son trabajos posteriores a la ref. 837, se dej con el mismo estado que en ese trabajo"	1	"N"	0	2	TRUE	4	2	2	1	3
+145	33	0	"antigua ribera de Lago de Chapala"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"aprox. 700 m al NO de \"Petatn\", casero de pescadores situados en la antigua ribera del lago, aunos 6 Km al NO de Cojumatlan"	1	"N"	0	1	TRUE	1	2	2	1	3
+146	21	0	"Tehuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+147	33	0	"Tehuantepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+149	20	0	"Estado de Oaxaca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	4	2	2	2	3
+150	5	0	"Estado de Coahuila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+151	3	0	"Arroyo Comond"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"llanura en las cercanas del arroyo Comond, aprox. a 40 km W Loreto. PROB. SEA IGUAL QUE LOC. 296"	1	"N"	0	1	TRUE	3	2	2	1	3
+152	14	0	"Estado de Jalisco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	3	TRUE	26	2	2	1	1
+153	11	0	"Estado de Guanajuato"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	8	2	2	1	2
+154	15	0	"SW de la regin de Tepechpan (sic)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+155	15	0	"Tlapanayola"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	1	2	1	1	3
+156	1	0	"Cerrito de la Cruz"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Arroyo del Cedazo"	1	"N"	0	1	TRUE	4	2	2	1	3
+157	10	0	"Arroyo Malacate"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+158	1	0	"Arroyo Pargas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+159	1	0	"Paso Hondo y Cobos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+160	1	0	"Caada de Cotorina"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+161	9	0	"Ixtapalapa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	1	2	1	1	3
+162	5	31	"San Buenaventura"	"G14-A42"	"1:50,000"	27	3	45	101	32	48	"ND"	"ND"	"ND"	"ND"	"ND"	490	"ND"	"ND"	1	"Y"	0	1	FALSE	1	1	2	2	3
+163	7	0	"Villa Flores"	"ND"	"1:50,000"	16	14	99	93	17	99	"ND"	"ND"	"ND"	"ND"	"ND"	540	"ND"	"ND"	1	"Y"	0	1	TRUE	3	1	2	1	3
+164	8	0	"Ciudad Delicias"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+165	12	0	"Iguala"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"inmediaciones de Iguala"	1	"N"	0	1	FALSE	1	2	2	2	3
+166	13	0	"Cueva La Nopalera"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Tepeapulco"	"10 Km"	"ND"	9999	"ND"	"Tepeapulco"	1	"N"	0	8	TRUE	26	2	2	1	1
+167	13	0	"Mineral del Monte"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+168	14	0	"Juchitln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+169	14	119	"Santa Catarina"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+170	15	0	"Barranca de Acatln, Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	15	2	2	1	1
+171	9	0	"Teatro Latino (Paseo de la Reforma)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que la localidad no tenga los datos de Paseo de la Reforma y Havre (pozo P-366-2), que segn Barrios (1985;ref.548), es otra localidad"	1	"N"	0	1	TRUE	1	2	2	1	3
+172	9	0	"Barranca del Muerto"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+173	9	0	"Edificio Latino Americano"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Av. Insurgentes esq. Q. Roo"	1	"N"	0	1	FALSE	2	2	2	2	3
+174	15	0	"Jilotepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+175	15	0	"Tecolapa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Jilotepec"	1	"N"	0	1	FALSE	1	2	2	2	3
+176	15	0	"Tonatico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+177	9	0	"Panten Dolores"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	3	2	2	1	3
+178	9	0	"San Jernimo Ldice"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+180	15	0	"Apaxco (en mina de Calhidra)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"en mina de calhidra"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 13"	1	"N"	0	1	FALSE	1	2	2	2	3
+181	16	0	"Zacapu"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+182	16	10	"Rancho Las Ollas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+183	17	10	"Cuautla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+184	21	0	"Acatln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+185	21	0	"San Martn Texmelucan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+186	29	0	"Hda. de Zotoluca (cerca de Apizaco)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+187	30	0	"Estado de Veracruz"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+188	28	0	"Xicotncatl"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"dentro del Valle del Mamut, a la izquierda del camino que va el Ejido de Santa Rosa, a 500m de la entrada"	1	"N"	0	1	TRUE	3	2	2	1	3
+189	24	0	"Rancho Peotillos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	2	2	2	1	3
+190	24	0	"Estado de San Luis Potos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	9	2	2	1	2
+191	24	0	"Paso del Aguila (cerca de San Nicols Tolentino)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+192	24	23	"Rayn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	FALSE	1	2	1	2	3
+193	30	0	"Caada de Aculcingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 846: a 25 Km al W de Orizaba"	1	"N"	0	2	TRUE	2	2	2	1	3
+194	30	155	"Tantoyuca"	"F14-8"	"1:250,000"	21	21	6	98	13	42	"ND"	"ND"	"ND"	"ND"	"ND"	100	"ND"	"ND"	1	"Y"	0	1	FALSE	1	1	2	2	3
+195	32	0	"Ciudad de Zacatecas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+196	33	0	"San Miguel Tecamachalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 648 (del Edo. de Mx.)"	1	"N"	0	1	TRUE	2	2	2	1	3
+197	20	0	"Santa Catalina Chinango"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"1 Km SE Santa Catalina Chinango, en la barranca formada en una planicie llamada Llano de la Luna"	1	"N"	0	1	TRUE	2	2	2	1	3
+198	19	0	"Aramberri"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"probablemente sea Cueva de San Josecito"	1	"N"	0	1	TRUE	1	2	2	1	3
+199	9	0	"Tlhuac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+200	5	0	"Hacienda de Hornos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+201	24	24	"Ro Verde"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+202	28	0	"Ro San Juan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+203	26	0	"Quitovac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+204	9	0	"Peon Viejo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+205	15	11	"Santa Isabel Iztapan I"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Santa Isabel Iztapan"	"ND"	"ND"	9999	"ND"	"Mamut no. 1: NW Santa Isabel Iztapan. Ref. 846: en un punto situado a 2.25 km SSW estacin ferroviaria de Tepexpan; S de Tepexpan; 2 km SW Tepexpan y WNW Santa Isabel Iztapan; ref.1: dice errneamente \"WNE Santa Isabel Iztapan\""	1	"N"	8	3	TRUE	2	2	1	1	3
+206	15	0	"estacin Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"al lado derecho del camino, justamente a espaldas de la estacin del ferrocarril Tepexpan"	1	"N"	0	1	TRUE	1	2	2	1	3
+207	15	0	"Hacienda de Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+208	4	0	"El Ocotln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Cerca de Jonuta, Tabasco"	1	"N"	0	1	FALSE	4	2	2	2	3
+209	15	0	"Zohapilco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en la base E-N del cerro de Las Cruces , uno de los puntos culminantes del cerro de Tlapacoya, y en la extremidad sur del actual pueblo del mismo nombre"	1	"N"	22	8	TRUE	25	2	1	1	1
+210	19	0	"Mina"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	2	TRUE	24	2	1	1	1
+211	31	0	"Actun Lara"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Serrana entre Yokat y Ticul; cerca de Ticul; ref 713: Cueva Actn y Lara"	1	"N"	0	3	TRUE	22	2	2	1	1
+212	10	0	"Cueva de las Iglesias"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en el caon del Soldado, Mpio. de Lerdo"	1	"N"	0	1	TRUE	1	2	2	1	3
+213	10	0	"Can del Soldado"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+214	15	0	"Tlatilco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"San Bartolo Naucalpan"	"2.5 Km S"	"ND"	9999	"ND"	"2.5 Km S San Bartolo Naucalpan"	1	"N"	0	1	TRUE	21	2	2	1	1
+215	31	0	"Chichen Itza"	"ND"	"ND"	20	40	12	88	30	36	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"Y"	0	1	TRUE	29	1	2	1	1
+216	20	0	"Cueva de Monte Flor"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+217	15	0	"Tequesquinahua"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	18	2	2	1	1
+218	26	0	"Santa Ana Babcora"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+219	9	0	"Azcapotzalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	1	2	1	1	3
+220	14	0	"Atotonilco El Bajo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	4	TRUE	13	2	2	1	1
+221	21	0	"Hueyatlaco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	2056	"ND"	"ref. 490: 50 m Ndel nucleo principal de excavaciones arqueolgicas de la localidad Hueyatlaco (proyecto Valsequillo); en el pie de una elevacin donde afloran las brayas Valsequillo (cota 2056)"	1	"N"	5	3	TRUE	20	2	1	1	1
+222	15	0	"cerca del valle de Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"regon ded Zumpango, en el extremo N de la Cuenca de Mxico, verificar que sea diferente a la loc. 332 y 276"	1	"N"	0	1	TRUE	2	2	2	1	3
+223	26	0	"La Guitarra"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"aprox. a la mitad del camino Tonichi-Sahuaripa, cerca del poblado La Guitarra"	1	"N"	0	2	TRUE	1	2	2	1	3
+224	15	0	"pueblo de San Pedro Atzompa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+225	21	0	"Tepeji de Rodriguez"	"ND"	"ND"	18	30	99	98	7	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"Y"	0	1	TRUE	6	1	2	1	2
+226	9	0	"Templo Mayor"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	16	2	2	1	1
+227	24	24	"Laguna de la Media Luna"	"ND"	"ND"	21	55	99	100	5	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"Y"	0	2	TRUE	15	1	2	1	1
+228	23	0	"El Meco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	7	2	2	1	2
+229	15	0	"Tepexpan (El Risco II)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Tepexpan es una pequea villa emplazada sobre la carretera que conduce desde Mxico a Acolman y las pirmides de Teotihuacn. Se encuentra a 300 m al N de una tajea, cerca del poste de piedra indicador del Km 6 de la carretera y a 900 m al W de la pared que rodea al Hospital de enfermos cronicos"	1	"N"	0	1	TRUE	2	2	2	1	3
+230	31	0	"Actun Coyok"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Oxkutzcab"	"ND"	"ND"	9999	"ND"	"cerca de 6.5 Km SW Oxkutzcab"	1	"N"	0	1	TRUE	34	2	2	1	1
+231	31	0	"Actun Chacaljas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Actun Spukil"	"ND"	"ND"	9999	"ND"	"cerca de 0.5 Km Actun Spukil en direccin a Hacienda Calcehtok"	1	"N"	0	1	TRUE	12	2	2	1	1
+232	31	0	"Actun Has"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"a la mitad de la Sierra, alrededor de 6.5 Km S de Yokat"	1	"N"	0	1	TRUE	24	2	2	1	1
+233	16	0	"Cuitzeo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"a la orilla S del lago, dentro de la pennsula y casi pegado a las ltimas casas del pueblo"	1	"N"	0	1	TRUE	2	2	2	1	3
+234	33	0	"Valle de Puebla-Tlax."	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+235	33	0	"Altiplanicie Central de Mxico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	13	2	2	1	1
+236	33	0	"Norte de Mxico (pas)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+237	7	0	"Cueva de Santa Marta"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"7.5 Km al NW de Ocozocoautla, Chiapas, la cueva esta en la finca Kikap a unos 5 Km W de Ocozocoautla"	1	"N"	36	1	TRUE	38	2	1	1	1
+238	21	0	"Cueva del Tepeyolo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Totemihuacn"	"10 Km"	"ND"	9999	"ND"	"10 Km Totemihuacn mrgenes de la Presa de Valsequillo"	1	"N"	0	8	TRUE	22	2	2	1	1
+239	21	0	"Cueva del Texcal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Totemihuacn"	"6 Km S"	"ND"	9999	"ND"	"6 Km S de Totemihuacn, margenes de la Presa de Valsequillo; 6.5 Km W Cueva de Tepeyolo"	1	"N"	0	10	TRUE	25	2	2	1	1
+240	28	0	"Regin de Gmez Faras"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Alvarez y Arroyo( 1989) engloban con \"regin de Gmez Faras\", las tres localidades de Koopman y Martn (1959): Infiernillo, Paraiso y Rancho del Cielo"	1	"N"	0	1	TRUE	1	2	2	1	3
+241	31	0	"Cuevas de Yucatn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+242	15	0	"Chimalhuacan-Atenco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"oriente de la ciudad de Mxico hacia el Noroeste del cerro Chimalhuacn, Edo. de Mxico"	1	"N"	1	5	TRUE	10	2	1	1	1
+243	7	0	"Tonin"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	17	TRUE	27	2	2	1	1
+244	26	0	"Rancho La Brisca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	16	2	2	1	1
+245	1	0	"Estado de Aguascalientes"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	5	TRUE	32	2	2	1	1
+246	7	0	"Aguacatenango"	"ND"	"ND"	16	36	99	92	23	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Serrana limtrofe de la Mesa Central y la Depresin Central, Carretera El Carmelito-Villa de las Rosas, Municipio de Aguacatenango (ref. 548)"	1	"Y"	0	1	TRUE	3	1	2	1	3
+247	15	11	"Santa Isabel Iztapan II"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Santa Isabel Iztapan"	"ND"	"ND"	9999	"ND"	"Mamut no. 2: W Santa Isabel Iztapan. Ref. 847: cerca de Tepexpan; ref. 723: aprox. 350m S del sitio que fue explorado el 1er. mamut en Iztapan y aprox. 2600m SSW del sitio del hallazgo del hombre fsil de Tepexpan."	1	"N"	1	1	TRUE	2	2	1	1	3
+248	1	1	"ranchera \"Margaritas\""	"F13-B89"	"1:50,000"	22	0	48	102	16	24	"ND"	"ND"	"ND"	"ND"	"ND"	1890	"ND"	"junto al ro Chicalote, sobre la carretera internacional"	1	"Y"	0	1	FALSE	1	1	2	2	3
+250	14	0	"Cuenca Chapala, Zacoalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+251	15	0	"Lago de Texcoco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	0	TRUE	8	2	3	1	2
+252	24	0	"Laguna de las Cruces"	"F14-A61"	"1:50,000"	22	39	5	101	52	52	"ND"	"ND"	"ND"	"ND"	"ND"	2100	"ND"	"ND"	1	"Y"	0	1	TRUE	6	1	2	1	2
+254	19	0	"Monterrey"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 399 y loc. 742 (del edo. de Jalisco)"	1	"N"	0	1	FALSE	1	2	2	2	3
+256	15	0	"Santa Luca I, II"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+257	15	0	"Iztapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"El estado no es seguro"	1	"N"	0	1	FALSE	1	2	2	2	3
+258	9	0	"Santa Martha Acatitla Sur"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en la calle Emilio Madero, casi esquina con Tito Ferrer, a un costado de la Escuela Primaria \"24 de febrero\" en la colonia Santa Martha Acatitla Sur"	1	"N"	1	1	TRUE	1	2	1	1	3
+259	15	0	"Tepexpan-Arellano"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+260	15	0	"Tepexpan-Totolcingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 776: en la zona entre los pueblos de Tepexpan y Totolcingo"	1	"N"	0	2	TRUE	1	2	2	1	3
+261	15	0	"Tepexpan-Hospital"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 846: en el punto inmediato al Hospital para enfermos incurables"	1	"N"	0	1	TRUE	1	2	2	1	3
+263	9	0	"Plaza de las Tres Culturas, Tlatelolco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+264	9	0	"Ciudad de los Deportes"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	4	2	1	1	3
+265	17	0	"Cueva Encantada"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Distrito de Huautla"	"ND"	"2 Km W"	9999	"ND"	"2 Km W Chimalacatln, a unos 200 m sobre el nivel del valle"	1	"N"	0	1	TRUE	7	2	2	1	2
+266	14	0	"Atotonilco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+267	21	0	"esquina de la 2 Norte y Portal Hidalgo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Edificio Caldern"	1	"N"	0	1	TRUE	1	2	2	1	3
+268	21	0	"Cholula"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	15	2	2	1	1
+269	9	0	"Pen de los Baos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ciudad de Mxico"	"ND"	"2.5 millas E"	9999	"ND"	"cerca de 2.5 millas al E de la ciudad de Mxico"	1	"N"	0	2	TRUE	1	2	2	1	3
+270	9	0	"Pedregal de San Angel"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Lave du Pedregal (Valle de Mexico) (traduccin en el escrito en francs ref. 473)"	1	"N"	0	1	TRUE	3	2	2	1	3
+272	15	0	"llanura de Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	0	2	2	1	4
+273	14	0	"Cantera de Jocotepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Jocotepec"	"2 Km"	"ND"	9999	"ND"	"5 km W Jocotepec, hacia Guadalajara (carret. 15)"	1	"N"	1	1	TRUE	3	2	1	1	3
+274	15	0	"Tlalnepantla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+276	15	0	"Tajo de Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	4	TRUE	5	2	2	1	2
+277	33	0	"Barranca de Acutcingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"El contenido de fauna es diferente a las de las loc. 45 y 193"	1	"N"	0	1	TRUE	1	2	2	1	3
+278	15	0	"Tajo de Tequixquiac-Barranca de Acatln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"E de la boca norte del tunel del desague"	1	"N"	0	1	TRUE	36	2	2	1	1
+280	19	0	"Estado de Nuevo Len"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	8	2	2	1	2
+281	9	0	"Colonia Los Alamos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+282	15	0	"Tepexpan en el Museo de Prehistoria"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en le punto donde se levanta actualmente dicho museo"	1	"N"	0	1	TRUE	1	2	2	1	3
+283	14	0	"Rancho de la Verdolaga"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Dugs (1982;ref.176) dice que es de la jurisdiccin de San Juan de los Lagos, pero nunca dice a que estado pertenece. Se  sique a Barrios (1985;ref.548) quien lo ubica en Jalisco"	1	"N"	0	1	TRUE	4	2	2	1	3
+284	20	0	"Guil Naquitz"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	10	1	TRUE	25	2	1	1	1
+285	20	0	"Cueva de los Afligidos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	10	2	2	1	1
+286	21	45	"Cd. Serdn"	"E14-6"	"1:250,000"	18	55	99	97	26	42	"ND"	"ND"	"ND"	"ND"	"ND"	2600	"ND"	"ND"	1	"Y"	0	1	FALSE	1	1	2	2	3
+287	7	44	"Ixtapan"	"ND"	"1:50,000"	16	48	99	92	54	99	"ND"	"ND"	"ND"	"ND"	"ND"	1120	"ND"	"ND"	1	"Y"	0	1	FALSE	1	1	2	2	3
+288	15	0	"Tepexpan cerca del sitio del hombre fsil"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 846: a corta distancia del sitio de hallazgo del hombre fsil"	1	"N"	0	1	TRUE	1	2	2	1	3
+289	29	0	"Barranca del Toro"	"E14-B24"	"1:50,000"	19	33	48	97	58	6	"ND"	"ND"	"ND"	"ND"	"ND"	2500	"ND"	"ND"	1	"Y"	0	1	TRUE	0	1	2	1	4
+290	15	0	"cercano al radio faro de Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+291	15	0	"Estado de Mxico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	4	TRUE	11	2	2	1	1
+293	15	0	"Teotihuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"camino periferico de la zona arqueolgica, cerca del Rio San Juan, sector N2E2"	1	"N"	0	3	TRUE	42	2	2	1	1
+294	8	0	"Cueva de las Ventanas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+295	19	7	"La Ascensin"	"G14-C77"	"1:50,000"	24	19	30	99	54	48	"ND"	"ND"	"ND"	"ND"	"ND"	1960	"ND"	"cercanias Rancho La Angostura"	1	"Y"	0	1	TRUE	1	1	2	1	3
+296	3	0	"Comondu"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Prob. sea igual a la localidad 151"	1	"N"	0	1	FALSE	2	2	2	2	3
+297	23	0	"Punta Molas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+298	23	0	"Cinco Puertas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+299	23	0	"San Miguel"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	10	2	2	1	1
+300	23	0	"El Cedral"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+301	23	0	"Buena Vista"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	10	2	2	1	1
+302	23	0	"San Gervasio"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	17	2	2	1	1
+303	23	0	"La Expedicin, Cinco Manos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	11	2	2	1	1
+304	23	0	"Aguada Grande"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+305	23	0	"Zuuk"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	7	2	2	1	2
+306	23	0	"Cozumel"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+307	33	0	"Tlatilco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 214 (del Edo. de Mx.)"	1	"N"	0	1	TRUE	1	2	2	1	3
+308	33	0	"Ixtapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 287 (del edo. de Chiapas)"	1	"N"	0	1	TRUE	1	2	2	1	3
+309	15	0	"Tajo de desemboque-canal de desage Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"regon ded Zumpango, en el extremo N de la Cuenca de Mxico, verificar que sea diferente a la loc. 332 y 276"	1	"N"	0	1	TRUE	1	2	2	1	3
+310	7	0	"Las Morenas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	4	2	2	1	3
+311	7	0	"Campn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+312	7	0	"Tlacuachero"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+313	7	0	"La Palma"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+314	7	0	"Ro Arriba"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	4	2	2	1	3
+315	7	0	"Las Lomas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+316	16	0	"San Pedro Cara"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"15 Km al este de Cojumatln, en las afueras del pueblo, direccin SO, cerca de la carretera a Saguayo"	1	"N"	0	1	TRUE	1	2	2	1	3
+317	8	0	"Al este de la Laguna El Barreal, Sitio 2"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+318	8	0	"Al este de la Laguna El Barreal, Sitio 1"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+319	9	0	"Ejrcito de Oriente"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en la calle de Batalln de Zapadores, frente al N. 55 A, en la unidad Ejrcito de Oriente. Delagacin Iztapalapa"	1	"N"	0	1	TRUE	1	2	2	1	3
+320	15	0	"Tlapacoya"	"ND"	"ND"	19	18	30	98	54	30	"ND"	"ND"	"Lago de Chalco"	"ND"	"ND"	9999	"ND"	"relacionado con el Lago de Chalco; Agenbroad 1984), ubica la localidad errneamente en Puebla, la bibligrafa que usa es de Lorenzo, Mirammbell y Haynes"	1	"Y"	7	1	FALSE	2	1	1	2	3
+321	28	0	"San Pedro de Roma"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+323	9	0	"Colonia Gertrudis Snchez"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"lote 6006 de la calle Norte 86-A; verificar que no sea la misma a la loc. 104"	1	"N"	0	1	TRUE	1	2	2	1	3
+324	15	0	"Los Reyes-La Paz I"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Los Reyes La Paz (cuadra 2): Ver los planos que existen en Lorenzo y Mirambell (1986) para ubicar la cuadra 2"	1	"N"	0	2	TRUE	5	2	2	1	2
+325	21	0	"Calle Ro Yaqui"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+326	15	0	"Los Reyes-La Paz II"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Los Reyes La Paz (cuadra 10): Ver los planos que existen en Lorenzo y Mirambell (1986) para ubicar la cuadra 10"	1	"N"	1	3	TRUE	3	2	1	1	3
+327	15	0	"Santa Luca I"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	5	2	1	1	2
+328	15	0	"Santa Luca II"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 857: base area de Santa Luca. 365 m del sitio excavado 1976 (Santa Luca I) dentro de los terrenos de la base area"	1	"N"	3	1	TRUE	4	2	1	1	3
+329	32	0	"San Juan Capistrano"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+330	20	0	"Tamazulapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"En las cercanas del poblado de Tamazulapan; cerca de la Villa de Tamazulapan"	1	"N"	0	1	TRUE	3	2	2	1	3
+331	3	0	"Estado de Baja California Sur"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+332	15	0	"Tajo del desage viejo (Tequixquiac)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+333	15	0	"Barranca de Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+334	25	11	"cercanas de la Laguna de Chamicaris"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+335	16	0	"Cuenca del Balsas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"citada en los estados de Michoacn y Guerrero"	1	"N"	0	1	TRUE	4	2	2	1	3
+336	7	0	"Vistahermosa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	11	2	2	1	1
+337	21	0	"Arroyo Alseseca"	"E14-2"	"1:250,000"	19	7	36	98	32	48	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+338	25	11	"Guasave I"	"ND"	"1:50,000"	25	39	99	108	18	99	"ND"	"ND"	"Guasave"	"ND"	"ND"	20	"ND"	"a 19 Km en lnea recta, al NE de la ciudad de Guasave"	1	"Y"	1	1	TRUE	1	1	1	1	3
+339	25	0	"Estado de Sinaloa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+340	14	0	"Ro de Juchipila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+341	9	0	"Cerro de las Palmas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Tacubaya; ref. 846: en Tacubaya, en excavaciones hechas para la cimentacin de \"un garita de vigilancia a la salida de la carretera a Toluca\""	1	"N"	0	1	TRUE	2	2	2	1	3
+342	9	0	"Barranca de Regla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+343	15	35	"Huehuetoca"	"E14-A19"	"1:50,000"	19	58	48	99	12	6	"ND"	"ND"	"ND"	"ND"	"ND"	2260	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+344	9	0	"Chapultepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+345	30	0	"Xalapa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+346	13	0	"Atotonilco El Grande"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca del Real del Monte; verificar que no sea la misma a la loc. 665 (del edo. de Hidalgo); tanto Falconer (ref. 251) como Barrios (ref. 540) se basan en Freudenberg."	1	"N"	0	1	TRUE	1	2	2	1	3
+347	28	0	"Paraiso"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	420	"ND"	"13 km NNW Chamal; 13 Km SW Gmez Faras"	1	"N"	0	1	TRUE	11	2	2	1	1
+348	28	0	"Rancho del Cielo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	1050	"ND"	"6 km NW Gmez Faras"	1	"N"	0	1	TRUE	6	2	2	1	2
+349	28	0	"Infierno"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	1320	"ND"	"2 km S del mill poblado llamado La Gloria; 7 km W Gmez Faras"	1	"N"	0	1	TRUE	14	2	2	1	1
+350	7	0	"Estado de Chiapas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+351	33	0	"llanura en el territorio sur de la Pennsula"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+352	21	0	"Valle de Puebla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Verificar que realmente est en el estado de Puebla"	1	"N"	0	2	TRUE	22	2	2	1	1
+353	13	0	"Arroyo Amajac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Asignada tentativamente a ese estado, debido a que no existe otro Amajac (Santa Cruz Amajac, valle de Amajaque, etc.) en la literatura ms que en Hidalgo."	1	"N"	0	1	FALSE	1	2	2	2	3
+354	19	0	"Rio Vrgenes"	"G14-C87"	"1:50,000"	24	11	36	99	40	54	"ND"	"ND"	"ND"	"ND"	"ND"	900	"ND"	"ND"	1	"Y"	0	1	FALSE	1	1	2	2	3
+355	33	0	"Peninsula de Yucatn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+356	15	0	"metro STC ruta 1"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+357	15	0	"Tajo viejo de Tequixquac? Nochistongo?"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+358	21	0	"esquina de la Av. 5 de mayo y 2 Poniente"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Edificio Alles"	1	"N"	0	1	TRUE	1	2	2	1	3
+359	15	0	"Temamatla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	26	2	2	1	1
+360	21	189	"San Marcos Necoxtla"	"E14-6"	"1:250,000"	18	53	36	97	49	6	"ND"	"ND"	"ND"	"ND"	"ND"	2000	"ND"	"ND"	1	"Y"	2	1	FALSE	1	1	1	2	3
+361	15	0	"Tequixquiac (near)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 3 (del Edo. de Mx.)"	1	"N"	0	1	TRUE	2	2	2	1	3
+362	8	0	"Mina Erupcin"	"ND"	"ND"	30	99	99	102	0	99	"ND"	"ND"	"Cd. Juarez"	"145 Km S-SE"	"ND"	9999	"ND"	"145 Km S-SE de Cd. Juarez, Montaa Los Lamentos; 15 S en el cerro Los Lamentos; 72 E en el cerro Los Lamentos"	1	"Y"	0	1	TRUE	4	1	2	1	3
+363	33	0	"Tlascala"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que sea con \"s\" y no con \"x\""	1	"N"	0	1	FALSE	1	2	2	2	3
+364	10	0	"Estado de Durango"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	11	2	2	1	1
+365	28	0	"Estado de Tamaulipas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	5	2	2	1	2
+366	14	0	"Venustiano Carranza"	"F13-D81"	"1:50,000"	20	3	99	104	43	18	"ND"	"ND"	"ND"	"ND"	"ND"	560	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+367	16	10	"Arteaga"	"E13-9"	"1:250,000"	18	21	24	102	17	24	"ND"	"ND"	"ND"	"ND"	"ND"	820	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+368	27	0	"Grutas de Cocon"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Teapa"	1	"N"	0	1	TRUE	2	2	2	1	3
+369	29	32	"Santa Cruz Aguiahua"	"E14-B43"	"1:50,000"	19	14	18	98	16	54	"ND"	"ND"	"ND"	"ND"	"ND"	2220	"ND"	"ND"	1	"Y"	0	1	TRUE	2	1	2	1	3
+370	15	0	"Tlaltlaya"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Provienen del Rancho La Cofradia, en Tlaltlaya"	1	"N"	0	2	TRUE	2	2	2	1	3
+371	31	0	"Mayapan"	"ND"	"ND"	20	28	99	89	13	99	"ND"	"ND"	"ND"	"ND"	"ND"	20	"ND"	"ND"	1	"Y"	0	1	TRUE	18	1	2	1	1
+372	14	0	"Cerro del Tecolote"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"30 m de la ribera pominte del Lago de Zacoalco, 1.2 m del terreno y 1.5 sobre el nivel del agua"	1	"N"	0	1	TRUE	1	2	2	1	3
+373	14	0	"El Tule"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en el camino entre Catarina y Atotonilco el Bajo"	1	"N"	0	1	TRUE	3	2	2	1	3
+374	21	0	"construcciones en el arroyo San Francisco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"a la altura 48 poniente"	1	"N"	0	1	TRUE	5	2	2	1	2
+375	31	0	"Estado de Yucatn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	3	2	2	1	3
+376	15	0	"Iztapan de la Sal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+377	15	0	"Cuanalan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Valle de Teotihuacn; Snchez (1985) dice, rroneamente, que tiene 2 ooo aos, mexvlando los datos de dos localidades que vienen en la referencia original"	1	"N"	0	1	TRUE	11	2	2	1	1
+378	9	0	"Torre Latinoamericana"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"debajo de la Torre Latinoamericana"	1	"N"	0	1	TRUE	1	2	2	1	3
+379	33	0	"Mexican plateau"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+380	18	0	"Tecualilla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Se asign tentativamente a Nayarit, ya que Wing (1968) dice que est en el estero Teacapan, y la mayor parte de ese estero est en Nayarit, aunque el poblado de Teacapan est en Sinaloa."	1	"N"	0	1	TRUE	7	2	2	1	2
+381	25	0	"Juana Gomez"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Se refiere por deduccin a ese estado, debido a que Wing dice que el sitio esta situado \"farther inland on high ground near the town of Escuinapa\""	1	"N"	0	1	TRUE	6	2	2	1	2
+382	18	0	"Chalpa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Se asign tentativamente a Nayarit, ya que Wing (1968) dice que est en el estero Teacapan, y la mayor parte de ese estero est en Nayarit, aunque el poblado de Teacapan est en Sinaloa."	1	"N"	0	1	TRUE	3	2	2	1	3
+383	23	0	"Cancn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 306: localidad en la pennsula de Yucatn; ref. 309: loc. en Yucatn, pero en mapa si est en Q. Roo"	1	"N"	0	1	TRUE	1	2	2	1	3
+384	30	191	"Chalahuites"	"E14-3"	"1:250,000"	19	28	12	96	22	18	"ND"	"ND"	"ND"	"ND"	"ND"	30	"ND"	"ND"	1	"Y"	0	1	TRUE	7	1	2	1	2
+385	30	0	"Santa Luisa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+386	30	0	"San Lorenzo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+387	30	0	"Patarata"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	11	2	2	1	1
+388	33	0	"Golfo de Mxico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	5	2	2	2	2
+389	30	0	"Limoncito"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	8	2	2	2	2
+390	14	0	"Palo Dulce"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"S del municipio de Atotonilco el Alto aproximadamente 70 Km al E (en lnea resta) de la ciudad de Guadalajara, se localizo en el lecho del Arroyo Zula"	1	"N"	0	1	TRUE	1	2	2	1	3
+391	33	0	"Santa Mara Ixtapn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+392	33	0	"Tlaltenco I"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+393	21	0	"lecho del arroyo San Francisco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"a la altura de la 4 oriente"	1	"N"	0	1	TRUE	1	2	2	1	3
+394	21	0	"Tlapacoya"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+395	15	0	"Mixcoac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+396	33	0	"Valle de Puebla-Tlaxcala"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+397	15	0	"Palacio de Tetitla, Teotihuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Ojo, en la ref.356 (Starbuck, 1975), esta localidad se maneja como una unidad de anlisis"	1	"N"	0	1	TRUE	7	2	2	1	2
+398	15	0	"Chiconautla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	2	2	2	1	3
+399	21	0	"zcalo de Puebla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+400	9	0	"Cine Latino"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+403	19	0	"Rancho del Reparo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Cerca de Guajuco, y Guajuco est aprox. 10 leguas (lieues) SE Monterrey"	1	"N"	0	0	FALSE	1	2	3	2	3
+405	21	0	"esquina de la 3 Poniente y 5 Sur"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Edificio Barranco"	1	"N"	0	1	TRUE	1	2	2	1	3
+407	1	0	"Hacienda Ojocaliente"	"F13-D17"	"1:50,000"	21	52	30	102	40	24	"ND"	"ND"	"ND"	"ND"	"ND"	1690	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+408	1	0	"frente al Rancho La Trinidad"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+409	21	0	"calle 4 Poniente 306"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Edificio Matanzo"	1	"N"	0	1	TRUE	1	2	2	1	3
+410	1	0	"Barranca del Cedazo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 93 y 22"	1	"N"	0	1	TRUE	9	2	2	1	2
+411	1	0	"Pabelln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+412	1	0	"Ciudad de Aguascalientes"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+413	9	0	"Hacienda Aragn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	0	2	2	1	4
+414	15	0	"Oztoyahualco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	26	2	2	1	1
+415	15	92	"Santa Mara Coatln"	"E14-B31"	"1:50,000"	19	41	6	98	49	36	"ND"	"ND"	"ND"	"ND"	"ND"	2290	"ND"	"ND"	1	"Y"	0	1	TRUE	2	1	2	1	3
+416	15	0	"Xocotitla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	16	2	2	1	1
+417	15	0	"Mezquititla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+418	15	0	"Tlailotlacan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	29	2	2	1	1
+419	21	114	"Santa Mara Tecola (Valsequillo)"	"E14-5"	"1:250,000"	18	54	18	98	11	30	"ND"	"ND"	"ND"	"ND"	"ND"	2050	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+420	19	0	"Cantera de Guadalupe"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Pesqueiria Chica (10 leguas NE Monterrey)"	1	"N"	0	0	FALSE	1	2	3	2	3
+421	19	0	"Topo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de los manatiales sulfurosos de Topo (2 leguas de Monterrey"	1	"N"	0	0	FALSE	1	2	3	2	3
+422	15	0	"Yayahuala"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	5	2	2	2	2
+423	15	0	"Tepantila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	4	2	2	2	3
+424	15	0	"Teopancazco, Teotihuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+425	15	0	"Tlajinga 33, Teothihuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	13	2	2	2	1
+426	15	0	"Tlachinolpan, Teotihuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+428	19	0	"Sur de Nuevo Len"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Entre Montemorelos y Linares"	1	"N"	0	0	FALSE	1	2	3	2	3
+429	15	0	"Villa de Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	31	2	2	1	1
+430	28	0	"Chocoy"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+431	15	0	"Huchichil"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+432	33	0	"Cerro del Tepalcate"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	9	2	2	1	2
+434	30	0	"Acultzingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	4	2	2	1	3
+435	33	0	"Baja California"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+436	19	33	"Linares"	"G14-C58"	"1:50,000"	24	35	24	99	34	99	"ND"	"ND"	"ND"	"ND"	"ND"	350	"ND"	"ND"	1	"Y"	0	0	FALSE	1	1	3	2	3
+437	20	0	"30 km W del Rancho del Gramal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"30 Km W Rancho del Gramal en el km 668 Pan American highway al sur de Nejapan Villa"	1	"N"	0	1	TRUE	2	2	2	1	3
+438	5	0	"Buena Vista"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"2 leguas S Saltillo"	1	"N"	0	0	FALSE	1	2	3	2	3
+439	21	0	"Villa de Tatlauquitepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Ojo esta localidad est mal asociada por Mena de la Pea. debiese estar asociada a Mammuthus y no a Equus"	1	"N"	0	1	TRUE	0	2	2	1	4
+440	24	20	"Matehuala"	"F14-A25"	"1:50,000"	23	28	44	100	38	37	"ND"	"ND"	"ND"	"ND"	"ND"	1570	"ND"	"ND"	1	"Y"	0	0	FALSE	1	1	3	2	3
+441	13	0	"Zacualtipan Villa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+442	33	0	"Noreste de Mxico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Menciona de manera general los estados de Tamaulipas, Veracruz, Nuevo Len  y Coahuila"	1	"N"	0	1	TRUE	1	2	2	1	3
+443	2	0	"Baja California (Lower) it self"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+447	12	0	"Costa del Pacfico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+448	6	0	"Estado de Colima"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	4	2	2	1	3
+449	17	9	"Calamotln, Sto. Domingo Ocotitlan"	"E14-A49"	"1:50,000"	19	0	42	99	3	36	"ND"	"ND"	"ND"	"ND"	"ND"	2050	"ND"	"ND"	1	"Y"	0	1	TRUE	4	1	2	1	3
+450	9	0	"Plaza de Toros"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+451	33	0	"Valley of Bones"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	7	2	2	2	2
+452	1	0	"Rancheria Parga, Arroyo San Francisco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Prob. sea igual a loc. 21"	1	"N"	1	1	FALSE	1	2	1	2	3
+453	3	0	"El Golfo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	0	2	2	2	4
+454	9	0	"S. T. C. Metro"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	26	2	2	1	1
+455	7	0	"Vega de Paso"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+456	7	0	"La Angostura"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+457	15	0	"S. T. C. Tultepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+458	9	0	"Chinampas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	0	2	2	2	4
+459	11	20	"Ibarrilla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+460	9	0	"S. T. C. I F7 S1"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	0	2	2	2	4
+461	9	0	"esquina NE de las calles Homero y Sudermann"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	0	2	2	2	4
+462	9	0	"Barranca del Diablo, Chalpulualpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+463	9	0	"? Museo Nacional de Antropologa, INAH"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+465	21	0	"Coulapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+466	9	0	"Colonia Los Cuartos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"margen boreal del Ro Totolica, a 10m de distancia horizontal del cauce y unos 300m aguas de la presa del mismo nombre"	1	"N"	0	2	TRUE	2	2	2	1	3
+467	33	0	"Resumidero de 22 m de prof. en el tiro de una mina"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+468	33	0	"Fraccionamiento Ojo de Agua"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+469	22	0	"zona Arqueolgica de Ranas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+470	22	0	"San Joaqun"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+471	29	0	"Cerro San Antonio"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+472	22	0	"La Ciudad"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+473	22	0	"Mina Escobilla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+474	22	0	"Mina Prieta"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	0	2	2	1	4
+476	9	0	"Zacatenco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	0	2	2	2	4
+477	33	0	"La Villita"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"la localidad esta entre los estados de  Guerrero y Michoacn"	1	"N"	0	1	TRUE	7	2	2	1	2
+478	21	0	"La Nopalera, Valsequillo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+479	24	50	"Villa de Reyes"	"F14-C14"	"1:50,000"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+480	9	0	"S. T. C. Metro Km 2 (Chapultepec)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+482	9	0	"Tlatelolco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+483	9	0	"Iztatlan?"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+484	33	0	"San Antonio El Pobre"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+487	15	0	"Centro de Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+488	26	0	"Estado de Sonora"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	4	2	2	1	3
+489	33	0	"SE del Riego"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Tehuacn"	1	"N"	0	1	TRUE	1	2	2	1	3
+490	12	0	"Alcozaula"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	0	2	2	2	4
+491	30	0	"Cerro de las Mesas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+492	15	0	"Carretera Teoloyucan-Huehuetoca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+493	15	0	"Santa Clara"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+494	9	0	"Av. Universidad, Banco de Comercio"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+495	23	0	"Kohunlich"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+496	17	0	"Km 28 camino Cuernavaca-Amacuzac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+497	11	0	"Rancho del Tlacuache"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+498	11	0	"Valle de la Piedad"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+499	7	0	"Trinitaria"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"trabajos arqueolgicos en la seccin de mquinas electronicas, MNA"	1	"N"	0	1	TRUE	3	2	2	1	3
+500	8	0	"Las Cuarenta Casas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+501	4	0	"San Joaqun"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+502	14	0	"Tomatln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	9	2	2	1	2
+503	9	0	"Ex-convento de San Jernimo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	9	2	2	1	2
+505	22	0	"La Negreta"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+506	29	0	"Cueva de Pilancn"	"E14-B24"	"1:50,000"	19	30	6	97	54	24	"ND"	"ND"	"ND"	"ND"	"ND"	3020	"ND"	"ND"	1	"Y"	0	1	TRUE	5	1	2	1	2
+507	12	0	"Petatln"	"ND"	"ND"	17	32	99	101	16	99	"ND"	"ND"	"ND"	"ND"	"ND"	40	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+508	15	0	"San Pedro Totoltepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 752: en el canal del patio de la fbrica en construccin \"Cierres Ideal de Mxico\", en carreteraMexico-Toluca tomar lateral hasta entronque de Sn. Pedro Toltepec, seguir 1.5 Km."	1	"N"	0	1	TRUE	1	2	2	1	3
+509	13	0	"Tepeapulco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+510	21	0	"Calpulalpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+511	15	0	"San Pablo Tecalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+512	30	0	"Cuauhtochco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+513	13	0	"Tlaxcoapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+514	29	0	"Tizatlan y Totolac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+515	20	0	"Sayultepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+516	29	0	"Hueyotlipan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+517	3	0	"Pichilingue"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+518	12	0	"Santiago Temixco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+519	14	0	"Balneario Rosa Azul, Jocotitln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+520	10	0	"Santa Mara del Oro"	"ND"	"1:50,000"	25	57	99	105	22	99	"ND"	"ND"	"ND"	"ND"	"ND"	1700	"ND"	"Manzana 32, Arroyo del Agua Buena, Barrio del Llano"	1	"Y"	0	1	TRUE	1	1	2	1	3
+521	12	0	"Tetitlan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Sitio CC-1 (con acento?)"	1	"N"	0	1	TRUE	1	2	2	1	3
+522	7	0	"Col. Francisco R. Serrano (El Burrero)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	2	2	1	1	3
+523	31	0	"Ixil"	"ND"	"ND"	21	9	99	89	29	99	"ND"	"ND"	"ND"	"ND"	"ND"	10	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+524	7	0	"Fogtico (pozo 3)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+525	23	0	"Cob"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+526	5	0	"Laguna de Viesca, ojo grande de Bilbao (O2)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+527	5	0	"Laguna de Viesca, Ojo de Lourdes (O1)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+528	12	0	"Patuichan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+530	15	0	"Barranca cerca de S. Antonio Miltepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+531	14	0	"Tomatln 28 (Nahuapa II)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+532	9	0	"Calzada Sta. Ana 1000"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+533	20	0	"Coixtlahuaca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+534	9	0	"San Jose Tepenen"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+535	9	0	"Cuicuilco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	7	2	2	2	2
+536	21	0	"Sta. Catarina, Cholula"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	13	2	2	2	1
+537	7	65	"Palenque"	"ND"	"1:50,000"	17	31	99	91	59	99	"ND"	"ND"	"ND"	"ND"	"ND"	60	"ND"	"ND"	1	"Y"	0	1	TRUE	40	1	2	1	1
+539	7	0	"Corral de Piedra"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	19	2	2	1	1
+540	7	0	"Yaxchiln"	"ND"	"ND"	16	54	99	91	0	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"Y"	0	1	TRUE	22	1	2	1	1
+541	11	0	"Cerro de la Mesa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+542	27	1	"Arroyo Concha"	"E15-9"	"1:250,000"	17	43	6	91	41	42	"ND"	"ND"	"ND"	"ND"	"ND"	20	"ND"	"ND"	1	"Y"	0	1	TRUE	8	1	2	1	2
+545	21	0	"Reserva de Valsequillo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+546	13	0	"Estado de Hidalgo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+549	33	0	"Vaso de la Presa El Infiernillo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+550	15	0	"Cerro Huatepeque"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	5	2	2	2	2
+552	17	0	"Las Pilas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	10	2	2	1	1
+553	26	0	"Huatabampo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	16	2	2	1	1
+554	15	0	"Tequizquiac (localidad exacta desconocida)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 3 (del Edo. de Mx.)"	1	"N"	0	1	FALSE	1	2	2	2	3
+556	15	0	"San Juan Evangelista"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+557	9	0	"Casa del Conde de Heras y Soto"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+558	33	0	"(Mxico central)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+559	26	0	"El Ranchito"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+560	5	0	"Los Llanos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+561	10	0	"Municipio de Cuencame"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	2	2	2	2	3
+562	10	0	"Presa Francisco Zarco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+563	4	0	"Calakmul"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+564	30	0	"Centro de Veracruz"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+565	20	293	"Etla"	"ND"	"1:50,000"	17	9	99	96	46	99	"ND"	"ND"	"ND"	"ND"	"ND"	1630	"ND"	"ND"	1	"Y"	0	1	TRUE	2	1	2	1	3
+566	7	0	"Lacamtn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	7	2	2	1	2
+567	15	0	"Barrio Ebansta, Chimalhuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	1	2	2	1	3
+568	16	0	"Cerro del Pino"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Ladera baja del Cerro del Pino, hacia la barranca las Palmas"	1	"N"	0	1	TRUE	1	2	2	1	3
+569	8	0	"Anhuac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+570	15	0	"Ecatepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+571	9	0	"Santa Martha Acatitla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en la esquina entre calles las calles Francisco Manriquez y Emilio Madero, en la acera de esta ultima, col. Santa Martha acatitla, Del. Iztapalapa; ref. 864: entre las calles de Luco Blanco y Francisco Manrique, de la colonia Sta. Martha Acatitla Sur"	1	"N"	0	1	TRUE	3	2	2	1	3
+572	26	0	"Papaguera"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Noroeste del estado"	1	"N"	0	1	TRUE	1	2	2	1	3
+573	16	0	"Santa Casilda"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+574	16	0	"Huandacareo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Cuenca de Cuitzeo"	1	"N"	0	1	TRUE	1	2	2	1	3
+575	3	0	"Arroyo del Parral, Sierra de San Francisco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+576	9	0	"Xochimilco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	4	2	2	1	3
+577	17	0	"Cerritos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+578	16	0	"Tzintzuntzan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+579	18	0	"San Blas, en las faldas del Cerro La Contadura"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+580	15	0	"San Francisco Mazapa, cueva 5, grupo III"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+581	15	0	"San Francisco Mazapa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+583	15	0	"hombre de Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+584	7	0	"Lobol"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+585	13	0	"Tepetitln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	9	2	2	1	2
+586	26	0	"Opatara"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Noreste del estado"	1	"N"	0	1	TRUE	9	2	2	1	2
+587	26	22	"Cucurpe"	"ND"	"1:50,000"	30	20	99	110	42	99	"ND"	"ND"	"ND"	"ND"	"ND"	860	"ND"	"cerca de Cucurpe, sobre el ro San Miguel, en la porcin central del estado; sitio G:10:2"	1	"Y"	0	1	TRUE	7	1	2	1	2
+588	17	0	"La Nopalera"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+589	11	0	"Morales"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+590	9	0	"Terremote-Tlaltenco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 852: S de la Cuenca de Mxico, el asentamiento en un islote cercano a la ribera del antiguo lago Chalco-Xochimilco; ref. 863: al poniente de Tlapacoya"	1	"N"	1	1	TRUE	27	2	1	1	1
+591	30	0	"Mixtequilla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	13	2	2	1	1
+592	16	0	"Tres Cerritos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+593	4	0	"Edificio de los Cinco Pisos, Edzn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+594	7	0	"El Limonal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+595	13	0	"Huapalcalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en el valle de Tulancingo"	1	"N"	0	1	TRUE	4	2	2	1	3
+596	9	0	"Guatemala # 90"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	4	2	2	1	3
+597	15	0	"Unidad Habitacional Potrero La Laguna"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 856 y 857: la localidad la cita como Coacalco (verificar que se ha asignado bien el nombre de la localidad)"	1	"N"	2	2	TRUE	1	2	1	1	3
+598	23	0	"Xcaret"	"ND"	"ND"	20	36	99	87	6	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"Y"	0	1	TRUE	3	1	2	1	3
+599	17	0	"Xochicalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	17	2	2	1	1
+600	13	0	"Bomentzab"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+601	31	0	"Gruta \"Flor de Mayo\""	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+602	15	0	"Chalco (Ch-Az-172, montculo 65)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	26	2	2	1	1
+603	8	0	"Los Moctezumas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	17	2	2	1	1
+604	12	0	"Chilpancingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Colonia Temixco II"	1	"N"	0	1	TRUE	1	2	2	1	3
+605	17	26	"Cueva de Chimalacatepec"	"E14-A79"	"1:50,000"	18	27	42	99	5	30	"ND"	"ND"	"ND"	"ND"	"ND"	1000	"ND"	"ND"	1	"Y"	0	1	FALSE	0	1	2	2	4
+606	18	8	"El Pantanal"	"ND"	"ND"	21	25	99	104	50	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"14 Km SE de la ciudad de Tepic, siguiendo la carretera Federal No. 15 hacia Guadalajara y tomando la desviacin que se encuentra a la altura de la pobalcin de San Cayetano con rumbo al Aeropuerto de Tepic"	1	"Y"	0	1	TRUE	2	1	2	1	3
+607	7	0	"Don Martn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+609	21	0	"Valle de Tehuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	3	2	1	1	3
+610	12	0	"San Luis La Loma"	"ND"	"ND"	17	15	58	100	53	42	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"Y"	0	1	TRUE	3	1	2	1	3
+611	15	0	"Frente 2, Teotihuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	23	2	2	1	1
+612	32	23	"Las Ventanas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	11	2	2	1	1
+613	9	0	"El Japn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+614	15	0	"Templo de Quetzalcatl, Teotihuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	21	2	2	1	1
+616	21	0	"Tehuacn Viejo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	15	2	2	2	1
+618	15	0	"Tlalpizhuac"	"ND"	"ND"	19	19	20	98	56	30	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Altitud 2245 y 2280 msnm"	1	"Y"	0	1	FALSE	12	1	2	2	1
+620	33	0	"Punta San Jos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+623	8	0	"Barranca de Busuchil (Basuchil)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Cd, Guerrero"	1	"N"	0	1	TRUE	1	2	2	1	3
+624	8	0	"cerca de Cd. Jurez"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+625	5	0	"Monclova"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+626	5	0	"Rancho El Corte"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"al N de la capital"	1	"N"	0	1	TRUE	2	2	2	1	3
+629	9	0	"Ladrillera La Moderna"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+630	9	0	"Colonia Vallejo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+631	9	0	"Convento de San Diego"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+634	9	0	"Atzacoalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+635	9	0	"San Jernimo y El Beltrn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+638	15	0	"area de Zumpango de Ocampo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+639	15	0	"Colonia Mxico"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"NE de la colonia Mxico, al S volcn Cerro de Chiconautla, a poca distancia de su falda"	1	"N"	0	1	TRUE	1	2	2	1	3
+645	15	0	"area de localidades de Chimalhuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+646	15	0	"Tzocuilco del Barrio de San Juan Xochitengo"	"ND"	"ND"	19	25	99	98	56	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"N del cerro de Chimalhuacn"	1	"Y"	0	1	TRUE	2	1	2	1	3
+647	15	0	"Ejido Chimalhuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	2	TRUE	2	2	1	1	3
+648	15	0	"San Miguel Tecamachalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+650	15	0	"Km 16.5, carretera Mxico-Puebla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+651	15	0	"aprox. Km 50 carretera Mxico-Toluca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"acueducto del Lerma en el Km 11 a partir del Almolaya (sic.) del Ro y aproximadamente a 4 Km de Amomolulco"	1	"N"	0	1	TRUE	2	2	2	1	3
+653	15	0	"Ixtapantongo (de Coatzingo?)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+655	15	0	"Paraje Las Parotas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"15 Km W Tlataya, Dto. Quetepec"	1	"N"	0	1	TRUE	1	2	2	1	3
+656	15	0	"Ciudad Stelite"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+657	15	0	"Ranchera Almoloya"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"unweit Ocoyoacas in dein Thale von Toluca, Edo. Mex."	1	"N"	0	1	TRUE	1	2	2	1	3
+658	15	0	"Totolcingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	2264	"ND"	"entre las cotas de nivel 2263 y 2265; cerca de 1 mi Totolzingo"	1	"N"	0	2	TRUE	4	2	2	1	3
+659	12	0	"Nanacatla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	3	2	2	1	3
+660	11	0	"Len"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+661	11	33	"San Luis de la Paz"	"F14-C35"	"1:50,000"	21	17	48	100	30	36	"ND"	"ND"	"ND"	"ND"	"ND"	2020	"ND"	"junto al ojo de agua"	1	"Y"	0	1	TRUE	1	1	2	1	3
+664	13	0	"Rancho de San Simn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Real del Monte"	1	"N"	0	1	TRUE	1	2	2	1	3
+665	13	0	"Atotonilco El Grande"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+666	13	0	"Pachuca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+669	14	0	"Centro Turstico Roca Azul, Jocotepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"aprox. 2 Km SE Jocotepec; 2 Km Jocotepec"	1	"N"	0	1	TRUE	7	2	2	1	2
+672	14	0	"Ejutla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"distrito de Acatln de la Grande"	1	"N"	0	1	TRUE	1	2	2	1	3
+673	16	0	"Ario de Rayn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+674	10	0	"Santa Gertrudis"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+676	14	0	"rechte Unterkieferast wierde von unde-"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"-im staat Michoacan gesamment"	1	"N"	0	1	TRUE	2	2	2	1	3
+677	17	0	"Palpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+679	20	0	"Cosoltepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+680	20	0	"Huajuapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+682	20	0	"Tlaxiaco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+683	20	0	"Tehuantepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Tehuantepec"	1	"N"	0	1	TRUE	1	2	2	1	3
+686	20	0	"Rio Colorado en San Miguel Marcos Prez"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"sobre el Rio Colorado, 300-500 m N-NW San Miguel Marcos Prez, Distrito de Teposcolula; ref. 488 la menciona como 2 localidades diferentes, una a 300 y otra a 500"	1	"N"	0	1	TRUE	3	2	2	1	3
+687	20	0	"Tepelmeme"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Tamazulapan"	"ND"	"ND"	9999	"ND"	"aprox. 25 Km al N-NE Tamazulapan"	1	"N"	0	1	TRUE	2	2	2	1	3
+688	21	0	"San Pedro Candelaria"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Cd. Serdan"	1	"N"	0	1	TRUE	1	2	2	1	3
+690	21	0	"area de localidades de Valsequillo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	19	2	2	1	1
+692	21	0	"Huayatlaco"	"ND"	"ND"	18	56	99	98	11	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"a 5.5 km S Totimehuacan. A la orilla de la presa de Valsequillo"	1	"Y"	1	1	TRUE	5	1	1	1	2
+693	21	0	"San Antonio Arenillas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Valsequillo; ref. original 730 (Guenther, 1968) no especifica claramente el estado; se sui a Barrios (1985;ref.548) para asignar la localidad en Puebla"	1	"N"	0	2	TRUE	17	2	2	1	1
+694	21	0	"Puente de Atepetzingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	9	2	2	1	2
+695	21	0	"Barranca Caulapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Verificar en ref 730 que sea efectivamente estado de Puebla. ref 724 (Guenther, 1967) localidades en mapa"	1	"N"	2	2	TRUE	6	2	1	1	2
+696	21	0	"San Baltazar Tetela"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+697	21	114	"San Francisco Totimehuacan"	"E14-5"	"1:250,000"	18	51	54	98	10	54	"ND"	"ND"	"ND"	"ND"	"ND"	2060	"ND"	"ND"	1	"Y"	0	2	TRUE	4	1	2	1	3
+698	21	0	"El Cerro del Oire"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+699	30	121	"Hacienda de Tamontao"	"F14-9"	"1:250,000"	21	28	99	97	50	99	"ND"	"ND"	"ND"	"ND"	"ND"	25	"ND"	"N sierra de Otontepec, zona faja de Oro, margen izquierdo del arroyo principal al N, a unos 4 Km del casco abandonado de la Hacienda Pitahaya"	1	"Y"	0	1	TRUE	2	1	2	1	3
+700	24	22	"Brechas coloradas"	"F14-A53"	"1:50,000"	22	45	43	101	3	35	"ND"	"ND"	"ND"	"ND"	"ND"	1700	"ND"	"ND"	1	"Y"	0	1	TRUE	4	1	2	1	3
+701	24	0	"Hacienda de La Tinaja"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"35 Km N-NE Cd. San Luis Potos"	1	"N"	0	1	TRUE	1	2	2	1	3
+704	28	0	"El Salitrillo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Villa Xicotencatl"	"5 Km N"	"ND"	9999	"ND"	"aprox. 5 Km N Villa Xicotencatl"	1	"N"	0	1	TRUE	1	2	2	1	3
+705	29	0	"Atlihuetzia"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Cd. Tlaxcala"	"ND"	"ND"	9999	"ND"	"aprox. 12 Km Cd. Tlaxcala"	1	"N"	0	1	TRUE	4	2	2	1	3
+706	29	0	"Real del Monte"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+707	30	0	"Tlilapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Orizaba, Veracruz"	1	"N"	0	1	TRUE	2	2	2	1	3
+708	32	0	"Laguna del Salitre"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"S de la Laguna del Salitre, Mpio. de Villa Hidalgo, en una noria de 16 m de profundidad, Dto. de Pinos, Zac."	1	"N"	0	1	TRUE	1	2	2	1	3
+709	32	0	"Distrito de Pinos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+711	33	0	"Tecota"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+713	14	0	"Colotlan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Guadalajara"	"180 Km SW"	"ND"	9999	"ND"	"180 Km SW Guadalajara"	1	"N"	0	1	TRUE	1	2	2	1	3
+714	13	0	"Tula"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	13	2	2	1	1
+716	14	0	"Tecolatlan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+717	9	0	"San Francisco Xocotitla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	1	2	2	2	3
+719	28	2	"Aldama"	"F14-B53"	"1:50,000"	22	55	6	98	4	24	"ND"	"ND"	"ND"	"ND"	"ND"	130	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+720	15	0	"Tlapacoya III"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	FALSE	3	2	2	2	3
+721	21	0	"Rio Axamilpa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"S del estado de Puebla"	1	"N"	0	1	FALSE	4	2	2	2	3
+722	15	0	"Cueva del Pirul"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+723	13	0	"antigua ciudad de Tula"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+725	23	0	"Tulum"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+727	11	0	"Acmbaro"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+728	17	0	"Coatetelco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+729	30	0	"Rancho El Retiro, Orizaba"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+730	14	0	"Regin Valle de Atotonilco, Zacoalco y Sayula"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+731	16	0	"Acambay"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+732	22	0	"Vizarrn (Sierra Gorda)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+733	9	0	"estacin Tezozomoc"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+734	9	0	"Ticomn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+735	19	0	"Cd. Anhuac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+736	5	0	"Nadadores"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+737	14	0	"Atotonilco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Gonzlez-Quintanilla dice que hay mamut en Atotonilco: verificar que no se trate de una abreviacin para Atotonilco El Bajo."	1	"N"	0	1	TRUE	1	2	2	1	3
+738	19	0	"Los Ramones"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+739	19	0	"General Bravo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+740	19	14	"Dr. Arroyo"	"F14-A26"	"1:50,000"	23	40	24	100	10	48	"ND"	"ND"	"ND"	"ND"	"ND"	1720	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+741	19	0	"China"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+742	19	0	"Monterrey"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Fbrica Nacional de Autmoviles S. A.; N de la ciudad de Monterrey, aprox. 14 Km en el Km 6 de carretera a Colombia, en Gral. Escobedo, Nuevo Len"	1	"N"	0	1	TRUE	3	2	2	1	3
+743	19	0	"Sabinas Hidalgo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+744	19	29	"Hualahuises"	"G14-C57"	"1:50,000"	24	52	54	99	40	18	"ND"	"ND"	"ND"	"ND"	"ND"	1960	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+745	19	0	"San Nicols de los Garza"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+749	9	0	"Calzada de Tlapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+750	9	0	"Batn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+751	9	0	"San Jernimo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+753	15	0	"Chapingo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+754	15	0	"Totolcingo y Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+756	15	0	"cerca de Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+757	19	0	"Nuevo Leon"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+760	10	0	"Cruces"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en el Valle Guadiana, a 6200 pies de Alt, est al este de la Laguna de Santiaguillo"	1	"N"	0	1	TRUE	2	2	2	1	3
+763	9	0	"Distrito Federal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	2	2	TRUE	2	2	1	1	3
+764	5	0	"Cueva Frightful"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"situada en Cuatro Cinegas"	1	"N"	16	1	TRUE	6	2	1	1	2
+766	33	0	"Tlapacoya"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 2 (Edo. Mex.) y 394 (del edo. de Puebla)"	1	"N"	3	5	TRUE	28	2	1	1	1
+770	15	0	"cerca de Iztpan en la regin de Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Verificar que sea Santa Isabel Iztapan I"	1	"N"	0	1	TRUE	9	2	2	1	2
+771	28	0	"Bancos del Ro Panuco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+775	21	0	"El Horno, Tetela"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	2040	"ND"	"ND"	1	"N"	3	2	TRUE	2	2	1	1	3
+782	26	0	"Arroyo Chinobampo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 417, 846 y 847: a 25 Km del SE de Navojoa, Son."	1	"N"	0	1	TRUE	6	2	2	1	2
+783	15	7	"Rincon de Guadalupe"	"E14-A37"	"1:50,000"	19	16	12	99	59	42	"ND"	"ND"	"ND"	"ND"	"ND"	2420	"ND"	"cercano a Amanalco de Becerra"	1	"Y"	0	1	TRUE	1	1	2	1	3
+784	26	0	"Punta Blanca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Guaymas, Sonora"	1	"N"	0	1	FALSE	0	2	2	2	4
+785	33	0	"Villa de San Joaquin"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"parte central de la Peninsula de Baja California"	1	"N"	0	1	TRUE	1	2	2	1	3
+786	8	0	"La Mota, Samalayuca"	"G13-B4"	"1:50,000"	27	6	22.8	104	53	54	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"corta distancia sur del paso"	1	"Y"	0	1	TRUE	1	1	2	1	3
+787	28	0	"Arroyo Chorreras"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 844: corte del terreno en Arroyo Chorreras, a mitad de la carretera de Ciudad Victoria a Brownsville; ref. 846: margen izquierdo del Arroyo adelante de Encinal a la mitad de la carretera Ciudad Victoria-Matamoros"	1	"N"	0	1	TRUE	2	2	2	1	3
+789	28	0	"Arroyo Salinillas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en el area ahora inundada por el dique (presa) de Falcon, al N de Tamaulipas; cercano al rancho \"El cabaret\", aprox. 10 Km NO del punto exacto, sobre el Bravo donde quedar el centro de la cortina de la presa"	1	"N"	0	1	TRUE	3	2	2	1	3
+795	15	0	"cerca de Huehuetoca"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"donde inicia tajo de Nochistongo"	1	"N"	0	1	TRUE	1	2	2	1	3
+796	15	0	"bajo sedimento de Lago de Texcoco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	3	2	2	1	3
+797	15	0	"cercanas de Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	2	2	2	1	3
+798	10	0	"Sierra de la Misericordia"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	3	TRUE	8	2	1	1	2
+799	5	0	"Caon de la Fragua"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	3	2	1	1	3
+800	5	33	"Puerto Ventanillas"	"G13-B87"	"1:50,000"	26	1	46	102	44	10	"ND"	"ND"	"ND"	"ND"	"ND"	1090	"ND"	"ND"	1	"Y"	1	2	TRUE	3	1	1	1	3
+801	8	0	"Desierto de Chihuahua"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+803	33	0	"Iztapan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"verificar que no sea la misma a la loc. 257 (del Edo. de Mx.)"	1	"N"	1	1	TRUE	1	2	1	1	3
+804	21	0	"fase ajuereado del Valle de Tehuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	2	2	1	1	3
+805	32	0	"Valle del Ro Juchipila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+806	11	0	"Caada de Marfil"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+808	21	0	"Ro Valle Atoyac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+809	13	0	"Ventoquipa"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-9"	1	"N"	0	2	TRUE	4	2	2	1	3
+810	33	0	"Xilotepec"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Ver que no sea la misma loc que Jilotepec, Edo Mx (ID 174)"	1	"N"	0	1	TRUE	1	2	2	1	3
+811	24	0	"Mina de San Antonio"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	19	2	2	1	1
+813	15	0	"Tlapacoya I"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 774: cerrro de Tlaplacoya al S de la Sierra del Pino al SE de la cuenca de Mxico"	1	"N"	6	1	TRUE	11	2	1	1	1
+814	33	0	"Tlapacoya (T1 XVIII)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	1	1	TRUE	1	2	1	1	3
+815	33	0	"El Risco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca de Atzacoalco en la autopista a Pachuca. no muy lejos de los lmites del Distrito Federal, ref. 736: unos 12 Km NNW de la ciudad de Mxico. Ref. 766: Ojo podra tratarse del nombre del estrato."	1	"N"	0	1	TRUE	2	2	2	1	3
+822	31	0	"Cueva Chekt-a-leh"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	5	2	2	1	2
+823	31	0	"Actun Sayab"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"cerca Opichen"	1	"N"	0	1	TRUE	9	2	2	1	2
+825	31	0	"Actun Jih"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en los cerros alrededor de 3 Km de la plaza de Ticul"	1	"N"	0	1	TRUE	3	2	2	1	3
+827	13	0	"La Pinta de Vaqueras"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"20 Km NW del rea de Santa Mara Amajac a 8Km S de la ciudad Metztitln, en la Rancheria de Agua Bendita y 2Km al E del arroyo del muerto, la localidad esta situada en el cause del rio"	1	"N"	0	2	TRUE	3	2	2	1	3
+828	31	0	"Actun Oxkintok"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"450 m de una de las ruinas de un templo del viejo imperio Maya, sitio Oxkintok"	1	"N"	0	2	TRUE	18	2	2	1	1
+829	31	0	"Actun Xkyc"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"Hacienda Calcehtok"	"ND"	"ND"	9999	"ND"	"aprox. 2 Km Hacienda Calcehtok"	1	"N"	0	1	TRUE	7	2	2	1	2
+830	33	0	"cerca de Isidro"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"sobre la carretera a Puebla"	1	"N"	0	1	TRUE	2	2	2	1	3
+831	10	0	"Las Cruces"	"ND"	"ND"	25	3	12	105	25	99	"ND"	"ND"	"ND"	"ND"	"ND"	2000	"ND"	"9.7 Km NO por carretera pavimentada que comunica a Santiago Papasquiaro con Tepehuanes, en el paraje conocido como Las Cruces"	1	"Y"	0	1	TRUE	1	1	2	1	3
+832	22	10	"Landa de Matamoros"	"ND"	"ND"	21	10	54	99	19	12	"ND"	"ND"	"ND"	"ND"	"ND"	1040	"ND"	"ND"	1	"Y"	0	1	TRUE	4	1	2	1	3
+835	15	0	"Colonia El Capuln (ampliacin Olimpica)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 835: esquina en las calles Jesus Castillo y Luis Estrada."	1	"N"	0	1	TRUE	1	2	2	1	3
+839	10	0	"Roma"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en las orillas de la carretera pavimentada Mapimi-Bermejillo a 14 Km de la cabecera municipal"	1	"N"	0	1	TRUE	1	2	2	1	3
+840	9	0	"estacin Tacubaya, lnea 9 del metro"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+842	9	2	"Santamara Malinalco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en la delegacin Azcapotzalco, en la calle de Santa Mara no. 181. La gua roji reconoce nicamente al pueblo de Santa Mara Maninalco en la delegacin Azcapotzalco: verificar ortografa del informe."	1	"N"	0	1	FALSE	5	2	2	2	2
+843	28	0	"La Laguna de Chairel"	"F14-B74"	"1:50,000"	22	16	18	97	57	54	"ND"	"ND"	"ND"	"ND"	"ND"	10	"ND"	"en el area de un parque en la construccin de la calle Aparicio s/n, al N del centro del puerto"	1	"Y"	0	1	TRUE	1	1	2	1	3
+850	15	0	"cantera vieja de Tequixquiac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	8	2	2	1	2
+851	15	0	"Tepexpan (SE del Hospital)"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+852	5	0	"Cueva de La Candelaria"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 850: El Valle de las Delicias se halla hacia el SW de Coahuila y la cuenca se encuentra en la ladera N del extremo septentrional de la pequea sierra de la Candelaria al S del mismo valle"	1	"N"	0	1	TRUE	7	2	2	1	2
+854	5	0	"cerca de la Cueva Frightful"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+855	28	0	"Ciudad Guerrero"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"Es probable que se trate de la localidad de Arroyo Salinillas"	1	"N"	0	0	TRUE	1	2	3	1	3
+856	8	0	"Borjas I"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"desviacin al rancho de Borjas se encuentra a 5 Km de la carretera Cd. Guerreo-Chihuahua, aprox. a 500 m de esta se localiza el rancho"	1	"N"	0	1	TRUE	1	2	2	1	3
+857	8	0	"Borjas II"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"desviacin al rancho de Borjas se encuentra a 5 Km de la carretera Cd. Guerreo-Chihuahua, aprox. a 500 m de esta se localiza el rancho"	1	"N"	1	1	TRUE	2	2	1	1	3
+858	8	0	"Ranchera El Torren"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en las inmediaciones de la ranchera, cerca de ciudad Guerrero"	1	"N"	0	1	TRUE	1	2	2	1	3
+860	5	0	"Cueva de la Paila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"la cueva est en el Arroyo del Muerto, de 48 a 50 Km al N de Parras, en lnea recta al E-SE de la cueva La Candelaria, en el Bolsn de las Delicias"	1	"N"	0	1	TRUE	1	2	2	1	3
+861	9	0	"Lnea 6 del Sistema de Transporte Colectivo metro"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"En la va rpida de Lzaro Cardenas (antes Av. Parque va) a la altura de la calle Puente de Guerra, frente a la unidad habitacional del Rosario; los restos de caballo a pocos metros y en capas superiores de los restos al norte del mamut"	1	"N"	2	1	TRUE	2	2	1	1	3
+863	15	0	"Tepexpan-Hospital Dr. Adolfo M. Nieto"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"se encuentra en el extremo occidental de la poblacin Tepexpan, sobre la esquina noroeste del cruce formado por la carretera federal Mxico-San Martn de las Pirmides y el acceso a la caseta de cuota de Tepexpan de la autopista Mxico-Pirmides"	1	"N"	0	1	TRUE	1	2	2	1	3
+864	15	0	"Tepexpan-SE del Museo de Prehistoria de Tepexpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en terrenos del Hospital de enfermos incurables"	1	"N"	0	1	TRUE	2	2	2	1	3
+868	9	0	"Inguaran lnea 4 norte"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"NE del centro de la ciudad de Mxico, sobre la Av. Inguaran entre las calles oriente 171 y Av. Talisman, bajo la zona del trabajo de la construccin del metro"	1	"N"	0	1	TRUE	1	2	2	1	3
+869	24	0	"Altamirano (Hv-24)"	"ND"	"ND"	22	4	12	98	25	24	"ND"	"ND"	"ND"	"ND"	"ND"	13	"ND"	"el asentamiento se localiza en la margen izquierda del ro Panuco, rea que ahora pertenece a la zona de riego de Pujal-Coy 1a fase; pertenece al ejido Flavio Altamirano. Para la ubicacin corresta se sigui a Merino y Garca Cook, 1881: Informe 23-10"	1	"Y"	0	1	TRUE	1	1	2	1	3
+872	31	0	"Actun Xmak"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"4 millas NW de la hacienda Yokat"	1	"N"	0	1	TRUE	2	2	2	1	3
+875	31	0	"Cueva Chumul"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+876	31	0	"Cueva Sabaka"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	6	2	2	1	2
+877	31	0	"Cueva Tiplamas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+879	13	0	"Santa Cruz de Amajac"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-12, 3 Km NW de la localidad La Curva (se encuentra 1 Km al este del poblado de Santa Mara Amajac)"	1	"N"	0	2	TRUE	2	2	2	1	3
+880	13	0	"La Moneda"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-14, 8 Km SE de Santrum, 3 Km al S del camino de terracera que conduce a este poblado"	1	"N"	0	2	TRUE	1	2	2	1	3
+881	13	0	"La Concepcin"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-24, 8 Km NW de Pachuca, por la carretera que va de esta ciudad Actopan"	1	"N"	0	1	TRUE	1	2	2	1	3
+882	13	0	"Arroyo Tejocote"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-5, 17 Km S de la ciudad de Tula, por la carretera que una esta ciudad con la poblacin de Jorobas, 2 Km a SE del poblado de Conejos, en donde est ubicado del arroyo Tecolotes con direccin NW-SE"	1	"N"	0	2	TRUE	3	2	2	1	3
+883	13	0	"La Cementera"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-3, 2 Km W de la cementera La Tolteca"	1	"N"	0	1	TRUE	1	2	2	1	3
+884	13	0	"Puerta de las Lajas"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-16, 2 Km W de la localidad La Moneda (se ubica 8 Km al SE de Santrum al sur del camino de terraceria que conduce a este pobaldo"	1	"N"	0	1	TRUE	1	2	2	1	3
+885	13	0	"Epazoyucan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-23, 20 Km SE de la ciudad de Pachuca, por la carretera vieja que va a Tulancingo. La zona fosilfera se encuentra siguiendo la desviacin de la carretera principal 1 Km antes de llegar al poblado de Epazuyacan"	1	"N"	0	1	TRUE	1	2	2	1	3
+886	13	0	"El Frontn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-15, 3 Km S del poblado El Sauz Xhat, a un costado del camino de terracera"	1	"N"	0	1	TRUE	1	2	2	1	3
+888	13	0	"Minas Anaya"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-21, 15 Km NW de la ciudad de Actopan, aprx. 8 Km al NW del poblado de Lagunilla y 1 Km al NE de Santiago Anaya en el municipio del mismo nombre"	1	"N"	0	1	TRUE	1	2	2	1	3
+889	13	0	"Lagunilla"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-7, 12 Km NW de la ciudad de Actopan, 2 Km al NW del poblado de Lagunilla, por el camino de terraceria que va hacia Santiago de Anaya"	1	"N"	0	2	TRUE	3	2	2	1	3
+890	13	0	"Dos Cerritos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-6, 8 Km S de la ciudad de Actopan, 1 Km antes de llegar a la ciudad de Actopan, hacia el SE existe una desviacin que conduce a la hacienda Chicavasco, se continua por esta carretera y 2 Km antes de llegar a la hacienda"	1	"N"	0	2	TRUE	2	2	2	1	3
+891	13	0	"Chicavasco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 793: clave H60-8, 3 Km S de la localidad Dos cerritos, se encuentra a 8 Km al S de cuidad Actopan, por el camino de terraceria que conduce al poblado de Chivasco"	1	"N"	0	2	TRUE	2	2	2	1	3
+892	28	0	"Margen del Ro Carrizal"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	2	2	2	1	3
+893	17	0	"Estado de Morelos"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	3	TRUE	2	2	2	1	3
+894	28	0	"Valle de los Mamuts, en Xicotncatl"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	2	TRUE	1	2	2	1	3
+895	28	37	"San Jos de las Rusias"	"F14-B23"	"1:50,000"	23	33	36	98	2	36	"ND"	"ND"	"ND"	"ND"	"ND"	40	"ND"	"ND"	1	"Y"	0	1	TRUE	1	1	2	1	3
+897	12	0	"Estado de Guerrero"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+900	21	0	"Coxcatlan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"SW del edo. de Puebla, cerca de la villa de San Rafael y cerca de 7 Km SE del pueblo de Coaxcatlan en la qutopista Teotilan del camino"	1	"N"	21	1	TRUE	17	2	1	1	1
+901	33	0	"finca Quinta del Altillo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"situada en la orilla N de la regin volcanica llamada \"EL Pedregal\", la cual se extiende al SW del Valle de Mxico"	1	"N"	0	1	TRUE	1	2	2	1	3
+906	16	107	"Loma Alta, Zacap"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	7	2	2	1	2
+907	21	0	"Cueva Coxcatln"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ref. 860: 10 Km SE de Coxcatln, Puebla y 5 Km al E de la carretera y del rancho Guadalupe de la victoria; est al pie de una barranca, al N de un cerro llamado \"Ajuereados\""	1	"N"	1	1	TRUE	16	2	1	1	1
+908	3	0	"Rancho El Mezquital"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"1 Km al SW de San Joaqun que a su vez est 13 Km S de San Ignacio, Delegacin de Santa Rosala"	1	"N"	0	1	TRUE	1	2	2	1	3
+909	32	0	"Osario de la Quemada"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"el osario se hall en el rincn formado por dos banquetas de 12 a 14 m de altura, al norte de \"Cuartel de Armillas\" con vista al suroriente"	1	"N"	0	1	TRUE	12	2	2	1	1
+910	16	107	"Guadalupe, Zacap"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	9	2	2	1	2
+911	15	0	"Nextlalpan"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"N del estado"	1	"N"	1	2	TRUE	1	2	1	1	3
+912	15	0	"barrio de San Pedro Miltenco"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en el esctremo sureste de la poblacin de Nextlalpan"	1	"N"	0	1	TRUE	1	2	2	1	3
+914	16	0	"junto a \"Punta de las Candelas\""	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"aprox. 4 Km al N-NE de Cojumatln, en el ejido del \"Puerto del Len\""	1	"N"	0	1	TRUE	2	2	2	1	3
+918	25	10	"El Fuerte"	"ND"	"1:50,000"	26	25	99	108	37	99	"ND"	"ND"	"ND"	"ND"	"ND"	80	"ND"	"se localizaron en varios puntos a lo largo del canal de conexin entre las Presas Miguel Hidalgo y Costilla y Josefina Ortiz de Domnguez"	1	"Y"	0	1	TRUE	2	1	2	1	3
+919	16	0	"area de Cuitzeo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"N del poblado de Ciutzeo a 2 Km de ste y a 2.5 Km aprox. al oriente de la carretera que comunica con el poblado de Norolon, Guanajuato"	1	"N"	0	1	TRUE	4	2	2	1	3
+920	16	0	"ribera S del lago de Cuitzeo"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	1	2	2	1	3
+921	16	0	"Santa Ana Mara"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"N de la laguna de Cuitzeo"	1	"N"	0	1	TRUE	1	2	2	1	3
+922	15	0	"Tocuila"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"en cercanas de Tezcoco, en el patio interior de una casa habitacin anexa a una tienda de abarrotes llamada La Lupita, situada en la calle Emiliano Zapata No. 51 del poblado de Tocuila"	1	"N"	0	1	TRUE	1	2	2	1	3
+923	15	0	"Ventanilla frente 3, Teotihuacn"	"ND"	"ND"	999	99	99	999	99	99	"ND"	"ND"	"ND"	"ND"	"ND"	9999	"ND"	"ND"	1	"N"	0	1	TRUE	14	2	2	1	1

@@ -13,15 +13,33 @@ The PaVeLA database is organized into 42 tables: ![](images/PaVeLA_relationship_
   
 Here are a list of all the tables in PaVeLA (in ALL CAPS). I've also added some preliminary notes on mapping tables/sets of tables to Neotoma
 
-### Sites and collection units
+### Sites 
 **LOCALIDA** -- sites == collection units  
 NOMBRE ALTERNATIVO LOCALIDAD  
-AGENTE  
-T_AGENTE  
-  
+
 MUNICIPI  
 ESTADO  
 T_PRESC  
+
+### Collection units, Analysis units, Samples
+In Pavela, there are various columns associated with the deposit. Some map to collectionunits, some to analysis units, some to samples
+
+# Collection units
+Collection units are defined as the UNIDAD_DE_ANALISIS with unique: SISTEMA_DEPOSICION, AMBIENTE_DEPOSICION.
+
+Collection units also are associated with AGENTE (collection unit type)
+
+# Analysis units
+Within a collection units, the analysis units are defined by:
+analysisunits::analysisunitname, which should have unique values of analysisunits::faciesid & analysisunits::mixed
+
+# Samples
+Within an analysis unit, samples have attributes: METODO_RECUPERACION
+
+
+
+  
+
   
 **DEPOSITO** -- analysis units  
 T_RECUPE  
