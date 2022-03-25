@@ -1,6 +1,7 @@
 # Final script for generating individual site files for upload
 
 # Load packages
+options(scipen=999)
 library(measurements)
 
 # set path to google drive
@@ -282,15 +283,144 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
     }  
       
 # create file for Dataset metadata tab
-
 # create file for Geochronology metadata tab
-
 # Gather any relevant information on Relative Ages or Cultural associations
 
-# create file on taxon list
+# Create files for site taxa ----
 fauna <- read.delim('data/pavela_flat_files/FAUNA.txt', header=T, sep=",", fileEncoding="UTF-8")
 especies <- read.delim('data/pavela_flat_files/ESPECIES.txt', header=T, sep=",", fileEncoding="UTF-8")
 
+for (i in 1:nrow(sites)){
+
+  # set siteid
+  siteid <- sites$IDLOCALIDAD[i]
+  site.fauna <- fauna[which(fauna$IDLOCALIDAD == siteid),]
+  
+  # create basic Data dataframe
+  # colnames
+  anUnits <- unique(site.fauna$UNIDAD_DE_ANALISIS)
+  # rownames - use the valid species here
+  validtax <- unique(site.fauna$IDESPECIEVALIDA)
+  
+  # create primary dataframe for the site of all taxa
+  df <- as.data.frame(matrix(data=NA, nrow=length(validtax), ncol=length(anUnits)))
+  colnames(df) <- anUnits
+  rownames(df) <- validtax
+  
+  # First, tally up all the different data units represented at this site: PA, NISP, MNI 
+  # if multiple data types, will need to create separate dataframes for each.
+  possible.units <- NULL
+  if (any(unique(site.fauna$NMI) != 999999999)){possible.units <- c(possible.units, "MNI")}
+  if ( (length(unique(site.fauna$NUM_EJEMPLARES))>=1) & (any(unique(site.fauna$NUM_EJEMPLARES)==999999999)) ){possible.units <- c(possible.units, "NISP", "PA")} # both NISP and PA data (total length MUST be >1)
+  if ( (length(unique(site.fauna$NUM_EJEMPLARES)) >= 1) & (all(unique(site.fauna$NUM_EJEMPLARES)!=999999999)) ){possible.units <- c(possible.units, "NISP")} # at least one unique value, but no 999999999s
+  if ( all(unique(site.fauna$NUM_EJEMPLARES)==999999999) ){possible.units <- c(possible.units, "PA")} # only one unique value, and it's 999999999
+  
+  # create subsets of data for each data type
+  site.fauna.pa <- site.fauna[which(site.fauna$NUM_EJEMPLARES == 999999999),]
+  site.fauna.nisp <- site.fauna[which(site.fauna$NUM_EJEMPLARES != 999999999),]
+  site.fauna.mni <- site.fauna[which(site.fauna$NMI != 999999999),]
+  df.PA <- df.NISP <- df.MNI <- df
+    
+  ## create the pa dataframe ----
+  if (nrow(site.fauna.pa)>0){ 
+    for (j in 1:length(anUnits)){
+      temp <- site.fauna.pa[which(site.fauna.pa$UNIDAD_DE_ANALISIS == anUnits[j]), ]
+      subtax <- unique(temp$IDESPECIEVALIDA)
+      df.PA[match(subtax, validtax), j] <- 'present' # mark taxa as present in this analysis unit
+      rm(temp); rm(subtax)
+    }
+  }
+  
+  ## create the nisp dataframe ----
+  # need to tally up duplicated taxa here
+  if (nrow(site.fauna.nisp)>0){ 
+    for (j in 1:length(anUnits)){
+      # create temporary dataframe
+      temp <- site.fauna.nisp[which(site.fauna.nisp$UNIDAD_DE_ANALISIS == anUnits[j]), ]
+      
+      if (any(duplicated(temp$IDESPECIEVALIDA)==TRUE)){ # if there are any duplicates
+        # scroll through each species
+        for (k in 1:nrow(df.NISP)){
+          temp.tax <- rownames(df.NISP)[k]
+          if (any(temp$IDESPECIEVALIDA == temp.tax)){
+            df.NISP[k,j] <- sum(temp[which(temp$IDESPECIEVALIDA == temp.tax), 'NUM_EJEMPLARES'])
+          }
+        }
+      }else{
+        df.NISP[match(temp$IDESPECIEVALIDA, validtax), j] <- temp[, 'NUM_EJEMPLARES']
+      }
+      rm(temp)
+    }
+  }
+  
+  ## create the mni dataframe ----
+  # need to tally up duplicated taxa here
+  if (nrow(site.fauna.mni)>0){ 
+    for (j in 1:length(anUnits)){
+      # create temporary dataframe
+      temp <- site.fauna.mni[which(site.fauna.mni$UNIDAD_DE_ANALISIS == anUnits[j]), ]
+      
+      if (any(duplicated(temp$IDESPECIEVALIDA)==TRUE)){ # if there are any duplicates
+        # scroll through each species
+        for (k in 1:nrow(df.MNI)){
+          temp.tax <- rownames(df.MNI)[k]
+          if (any(temp$IDESPECIEVALIDA == temp.tax)){
+            df.MNI[k,j] <- sum(temp[which(temp$IDESPECIEVALIDA == temp.tax), 'NMI'])
+          }
+        }
+      }else{
+        df.MNI[match(temp$IDESPECIEVALIDA, validtax), j] <- temp[, 'NMI']
+      }
+      rm(temp)    
+    }
+  }
+  
+## Write site data ---- 
+# write the NISP data for a site
+  if (all(!is.na(df.NISP))){ # only save data if some data are stored
+    # remove any rows with all NA
+    df.NISP <- df.NISP[-which(apply(df.NISP, 1, function(x) all(is.na(x)))),]
+    
+    element <- rep("bone/tooth", nrow(df.NISP))
+    units <- rep("NISP", nrow(df.NISP))
+    name <- especies[match(rownames(df.NISP), especies$IDESPECIEVALIDA),'TAXON_VALIDO']
+    
+    df.NISP <- cbind(name, element, units, df.NISP)
+    
+    write.table(df.NISP, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/Data_NISP_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
+  }
+  
+# write the MNI data for a site
+  if (all(!is.na(df.MNI))){
+    # remove any rows with all NA
+    df.MNI <- df.MNI[-which(apply(df.MNI, 1, function(x) all(is.na(x)))),]
+    
+    element <- rep("bone/tooth", nrow(df.MNI))
+    units <- rep("MNI", nrow(df.MNI))
+    name <- especies[match(rownames(df.MNI), especies$IDESPECIEVALIDA),'TAXON_VALIDO']
+    
+    df.MNI <- cbind(name, element, units, df.MNI)
+    
+    write.table(df.MNI, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/Data_MNI_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
+  }
+  
+  # write the PA data for a site
+  if (all(!is.na(df.PA))){
+    # remove any rows with all NA
+    df.PA <- df.PA[-which(apply(df.PA, 1, function(x) all(is.na(x)))),]
+    
+    element <- rep("bone/tooth", nrow(df.PA))
+    units <- rep("present/absent", nrow(df.PA))
+    name <- especies[match(rownames(df.PA), especies$IDESPECIEVALIDA),'TAXON_VALIDO']
+    
+    df.PA <- cbind(name, element, units, df.PA)
+    
+    write.table(df.PA, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/Data_PA_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
+  }
+  
+} # close site loop
+  
+ 
 
 RPUBLOC <- read.delim('data/pavela_flat_files/RPUBLOC.txt', header=T, sep=",", fileEncoding="UTF-8")
 pubs <- read.delim('data/pavela_flat_files/PUBLIC.txt', header=T, sep=",", fileEncoding="UTF-8")
