@@ -155,81 +155,132 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
     }
 
 
-# Create file for Collection unit metadata tab ----
+# Create file for Collection unit metadata tab and Deposit Analysis Units ----
 
-    # Notes: # Depositional Environment
-    # SISTEMA_DEPOSICION & AMBIENTE_DEPOSICION together create depositional environment.
-    # If AMBIENTE_DEPOSICION == "ND", then choose name from SISTEMA_DEPOSICION
-    # Otherwise, choose name from AMBIENTE_DEPOSICION
-    
     # Read in relevant files (in addition to primary 'sites' file on line 11)
     deposit <- read.delim('data/pavela_flat_files/DEPOSITO.txt', header=T, sep="\t", fileEncoding="UTF-8")
     ambien <- read.delim('data/pavela_flat_files/T_AMBIEN.txt', header=T, sep="\t", fileEncoding="UTF-8")
     sistem <- read.delim('data/pavela_flat_files/T_SISTEM.txt', header=T, sep="\t", fileEncoding="UTF-8")
-     
-    ## Create a new 'collunit' dataframe ----
-    collunit <- NULL
-    collunit$siteid <- sites$IDLOCALIDAD
-    collunit$handle <- NA
-    collunit$collunittype <- "Unknown" # will change manually if we can determine this upon site validation
-    collunit$collunitname <- NA
-    collunit$depenvt <- NA
-    collunit$location <- NA
-    collunit$notes <- NA
+    facies <- read.delim('data/pavela_flat_files/T_FACIES.txt', header=T, sep=",", fileEncoding="UTF-8")
+    contam <- read.delim('data/pavela_flat_files/T_CONTAM.txt', header=T, sep=",", fileEncoding="UTF-8")
+    recupe <- read.delim('data/pavela_flat_files/T_RECUPE.txt', header=T, sep=",", fileEncoding="UTF-8")
     
     ## Start adding values for each site
     for (i in 1:nrow(sites)){
       # set siteid
       siteid <- sites$IDLOCALIDAD[i]
       
+    ## Create overall Analysis Units file ----
+      # Note 1: SISTEMA_DEPOSICION & AMBIENTE_DEPOSICION together create depositional environment. 
+      # If AMBIENTE_DEPOSICION == "ND", then choose name from SISTEMA_DEPOSICION. 
+      # Otherwise, choose name from AMBIENTE_DEPOSICION
+      # Note 2: T_FACIES, T_CONTAM are associated with each analysis unit
+      # Note 3: METODO_RECUPERACION is technically an attribute of samples, but best to store it with analysis units for now
+      
+      # this finds all analysis units within the deposit file
+      rows <- which(deposit$IDLOCALIDAD == siteid) 
+      aus.deposit <- deposit[rows,-1]
+      
+      # replace FaciesIDs with names
+      aus.deposit$IDFACIES <- facies[charmatch(aus.deposit$IDFACIES, facies[,1]), 2]
+      
+      # replace ContamIDs with names
+      aus.deposit$IDCONTAMINACION <- contam[charmatch(aus.deposit$IDCONTAMINACION, contam[,1]), 2]
+
+      # replace RecoverMethod with names
+      aus.deposit$METODO_RECUPERACION <- recupe[charmatch(aus.deposit$METODO_RECUPERACION, recupe[,1]), 2]
+      
+      # replace SISTEMA_DEPOSICION with names
+      aus.deposit$SISTEMA_DEPOSICION <- sistem[charmatch(aus.deposit$SISTEMA_DEPOSICION, sistem[,1]), 1]
+      
+      # replace AMBIENTE_DEPOSICION with names
+      aus.deposit$AMBIENTE_DEPOSICION <- ambien[charmatch(aus.deposit$AMBIENTE_DEPOSICION, ambien[,1]), 1]
+     
+      colnames(aus.deposit) <- c("AnalysisUnitName", "RecoveryMethod", "DepositionSystem", "DepositionEnvt", "Facies", "Contamination")
+      
+      ## write analysis.unit file to folders ----
+      write.table(aus.deposit, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/AnalysisUnits_Deposit_Info_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
+      
+  ## Now move on to Collection Unit information ----
+      ## Create a new 'collunit' dataframe ----
+      collunit <- NULL
+      collunit$siteid <- sites$IDLOCALIDAD
+      collunit$handle <- NA
+      collunit$collunittype <- "Unknown" # will change manually if we can determine this upon site validation
+      collunit$collunitname <- NA
+      collunit$depenvt <- NA
+      collunit$location <- NA
+      collunit$notes <- NA
+      
       # set handle 
       collunit$handle <- paste0("PaVeLA_", sites$IDLOCALIDAD[i])
       
       ## determine depositional environment ----
-      # Note: SISTEMA_DEPOSICION & AMBIENTE_DEPOSICION together create depositional environment. If AMBIENTE_DEPOSICION == "ND", then choose name from SISTEMA_DEPOSICION. Otherwise, choose name from AMBIENTE_DEPOSICION
-      
-      # this finds all analysis units within the deposit 
-      # (note, there are other analysis units in other spreadsheets though)
-      rows <- which(deposit$IDLOCALIDAD == siteid) 
 
-        # create depositional environment
-        depenvt <- paste(
-          sistem[charmatch(deposit$SISTEMA_DEPOSICION[rows], sistem[,1]),1], # all sistema_deposicion
-          ambien[charmatch(deposit$AMBIENTE_DEPOSICION[rows], ambien[,1]),1], # all ambient_deposicion
-          sep="; ")
+        # create depositional environment for collunits
+        depenvt <- paste(aus.deposit$DepositionSystem, aus.deposit$DepositionEnvt, sep="; ")
         
-        if (length(rows)>1){
-          # bind rows with analysis unit names
-          depenvt <- cbind(deposit$UNIDAD_DE_ANALISIS[rows], depenvt)
-          colnames(depenvt)[1] <- 'UNIDAD_DE_ANALISIS'
-          
-          # write the full dep environment files to the folder and add a note in the collunit$depenvt column
-          write.table(depenvt, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/DepEnvt_Info_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
-          collunit$depenvt[i] <- "Consult DepEnvt_Info file"
-          
-      }else{
-        collunit$depenvt[i] <- depenvt
-      }
+        depenvt <- unique(depenvt)
+        if (length(depenvt)>1){
+          collunit$depenvt[i] <- "AnalysisUnits_Deposit_Info"
+        }else{
+          collunit$depenvt[i] <- depenvt
+        }
+      
       ## save collection unit info to each folder
       write.table(collunit, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/CollectionUnit_Info_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
     }
     
-# Create file for Analysis units ----
+    
+# Create file for other Analysis units ----
     # This is ultimately added to the 'Data' tab in Neotoma
-    
+   
     ## Find all possible 'analysisunitname' ----
+    # Note: some analysis unit names are in deposito, some in edadabs, some in edadrel
+
+    ### Read in relevant files
+    deposit <- read.delim('data/pavela_flat_files/DEPOSITO.txt', header=T, sep="\t", fileEncoding="UTF-8")
+    abs <- read.delim('data/pavela_flat_files/EDADABS.txt', header=T, sep=",", fileEncoding="UTF-8")
+    rel <- read.delim('data/pavela_flat_files/EDADREL.txt', header=T, sep=",", fileEncoding="UTF-8")
     
-    
-abs <- read.delim('data/pavela_flat_files/EDADABS.txt', header=T, sep=",", fileEncoding="UTF-8")
-rel <- read.delim('data/pavela_flat_files/EDADREL.txt', header=T, sep=",", fileEncoding="UTF-8")
+    ## Start accumulating all possible analysis unit names for each site
+    for (i in 1:nrow(sites)){
+      # set siteid
+      siteid <- sites$IDLOCALIDAD[i]
+      
+      ## analysis unit names in fauna ----
+      # start with fauna, since this may contain the most precise info linked to specimens
+      rows <- which(fauna$IDLOCALIDAD == siteid) 
+      names.fauna <- unique(fauna$UNIDAD_DE_ANALISIS[rows])
 
-
-
-
-RPUBLOC <- read.delim('data/pavela_flat_files/RPUBLOC.txt', header=T, sep=",", fileEncoding="UTF-8")
-pubs <- read.delim('data/pavela_flat_files/PUBLIC.txt', header=T, sep=",", fileEncoding="UTF-8")
-
-
+      ## analysis unit names in edadabs ----
+      rows <- which(abs$IDLOCALIDAD == siteid) 
+      names.edadabs <- unique(abs$UNIDAD_DE_ANALISIS[rows])
+      found.in.edadabs <- rep("Y", length(names.edadabs))
+      
+      ## analysis unit names in edadrel ----
+      rows <- which(rel$IDLOCALIDAD == siteid) 
+      names.edadrel <- unique(rel$UNIDAD_DE_ANALISIS[rows])
+      found.in.edadrel <- rep("Y", length(names.edadrel))
+      
+      # merge
+      AnalysisUnitName <- unique(c(names.fauna, names.edadabs, names.edadrel))
+      found.in.fauna <- found.in.edadabs <- found.in.edadrel <- vector(length=length(AnalysisUnitName))
+      found.in.fauna[match(names.fauna, AnalysisUnitName)] <- TRUE
+      found.in.edadabs[match(names.edadabs, AnalysisUnitName)] <- TRUE
+      found.in.edadrel[match(names.edadrel, AnalysisUnitName)] <- TRUE
+      
+      aus <- NULL
+      aus$AnalysisUnitName <- AnalysisUnitName
+      aus$found.in.fauna <- found.in.fauna
+      aus$found.in.edadabs <- found.in.edadabs
+      aus$found.in.edadrel <- found.in.edadrel
+      aus <- as.data.frame(aus)
+      
+      # write analysis.unit file to folders
+      write.table(aus, file = paste0(path.to.google, "Site files/IDLOCALIDAD_", sites_n$siteid[i], "/AnalysisUnits_fauna_ages_Info_", sites_n$siteid[i], ".txt"), row.names = F, sep="\t")
+    }  
+      
 # create file for Dataset metadata tab
 
 # create file for Geochronology metadata tab
@@ -239,6 +290,10 @@ pubs <- read.delim('data/pavela_flat_files/PUBLIC.txt', header=T, sep=",", fileE
 # create file on taxon list
 fauna <- read.delim('data/pavela_flat_files/FAUNA.txt', header=T, sep=",", fileEncoding="UTF-8")
 especies <- read.delim('data/pavela_flat_files/ESPECIES.txt', header=T, sep=",", fileEncoding="UTF-8")
+
+
+RPUBLOC <- read.delim('data/pavela_flat_files/RPUBLOC.txt', header=T, sep=",", fileEncoding="UTF-8")
+pubs <- read.delim('data/pavela_flat_files/PUBLIC.txt', header=T, sep=",", fileEncoding="UTF-8")
 
 
 
