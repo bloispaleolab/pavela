@@ -311,10 +311,21 @@ for (i in 1:nrow(sites)){
   # rownames - use the valid species here
   validtax <- unique(site.fauna$IDESPECIEVALIDA)
   
+  # Find any NA values in the valid taxa IDs and remove them from both validtax and site.fauna
+  trouble.sites <- NULL
+  if (any(is.na(validtax))){
+    print(paste0("WARNING! Not all taxa are valid! i = ", i, "; siteid =", siteid))
+    trouble.sites <- c(trouble.sites, siteid)
+    validtax <- validtax[-which(is.na(validtax))]
+    site.fauna <- site.fauna[-which(is.na(site.fauna$IDESPECIEVALIDA)),]
+  }
+
+  
   # create primary dataframe for the site of all taxa
   df <- as.data.frame(matrix(data=NA, nrow=length(validtax), ncol=length(anUnits)))
   colnames(df) <- anUnits
   rownames(df) <- validtax
+  
   
   # First, tally up all the different data units represented at this site: PA, NISP, MNI 
   # if multiple data types, will need to create separate dataframes for each.
