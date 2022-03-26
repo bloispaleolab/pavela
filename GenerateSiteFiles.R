@@ -21,10 +21,13 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
     sites_n <- NULL
     sites_n$siteid <- sites$IDLOCALIDAD
     sites_n$sitename <- sites$NOMBRE_LOCALIDAD # will need to verify that spanish accents rendered correctly in Tilia
-    sites_n$longitudeeast <- NA
+    sites$country <- 'Mexico'
+    sites$SecondGeoPolDiv <- NA 
+    sites$ThirdGeoPolDiv <- NA
     sites_n$latitudenorth <- NA
-    sites_n$longitudewest <- NA
+    sites_n$longitudeeast <- NA
     sites_n$latitudesouth <- NA
+    sites_n$longitudewest <- NA
     sites_n$altitude <- sites$ELEVACION
     sites_n$altitude[which(sites_n$altitude == 9999)] <- NA
     sites_n$area <- NA
@@ -32,6 +35,10 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
     sites_n$notes <- NA
     
     sites_n <- as.data.frame(sites_n)
+    
+    ## TO-DO SITES: NEED TO ADD GEOPOLICITICAL UNITS ----
+    sites$SecondGeoPolDiv <- NA  # ESTADO
+    sites$ThirdGeoPolDiv <- NA #MUNICIPI
     
     ## Convert to lat/long in decimal degrees ----
     # latitude
@@ -294,6 +301,10 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
 # Gather any relevant information on Relative Ages or Cultural associations
 
 # Create files for site taxa ----
+    ### TO-DO TAXA files ---- 
+    # Change "ND" AnUnit Names to "Assemblage" or something else (possibly)
+    # Remove NA data from PA, NISP, MNI dfs. Better to copy and paste as blank cells
+    
     sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fileEncoding="UTF-8")
     sites_n <- read.delim(file = paste0(path.to.google, "Site files/SITES_in_neotoma_format.txt"), header=T, sep="\t")
     
