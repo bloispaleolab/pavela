@@ -208,13 +208,14 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
   ## Now move on to Collection Unit information ----
       ## Create a new 'collunit' dataframe ----
       collunit <- NULL
-      collunit$siteid <- sites$IDLOCALIDAD
+      collunit$siteid <- sites$IDLOCALIDAD[i]
       collunit$handle <- NA
       collunit$collunittype <- "Unknown" # will change manually if we can determine this upon site validation
       collunit$collunitname <- NA
       collunit$depenvt <- NA
       collunit$location <- NA
       collunit$notes <- NA
+      collunit <- as.data.frame(collunit)
       
       # set handle 
       collunit$handle <- paste0("PaVeLA_", sites$IDLOCALIDAD[i])
@@ -226,7 +227,7 @@ sites <- read.delim('data/pavela_flat_files/LOCALIDA.txt', header=T, sep=",", fi
         
         depenvt <- unique(depenvt)
         if (length(depenvt)>1){
-          collunit$depenvt[i] <- "AnalysisUnits_Deposit_Info"
+          collunit$depenvt[i] <- "See the AnalysisUnits_Deposit_Info file for more info"
         }else{
           collunit$depenvt[i] <- depenvt
         }
